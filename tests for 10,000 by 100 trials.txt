@@ -1,0 +1,4017 @@
+C:\Users\mirko\AppData\Local\Microsoft\WindowsApps\python3.13.exe C:\Users\mirko\PycharmProjects\Artificial_intelligence_CS374\testing.py 
+
+--- Completed 10/10000 Deals ---
+PIMC -> Hands: 10 | Splits: 0 | Wins: 5
+Basic Strategy -> Hands: 10 | Splits: 0 | Wins: 2
+
+--- Completed 20/10000 Deals ---
+PIMC -> Hands: 20 | Splits: 0 | Wins: 10
+Basic Strategy -> Hands: 20 | Splits: 0 | Wins: 5
+
+--- Completed 30/10000 Deals ---
+PIMC -> Hands: 30 | Splits: 0 | Wins: 13
+Basic Strategy -> Hands: 30 | Splits: 0 | Wins: 10
+
+--- Completed 40/10000 Deals ---
+PIMC -> Hands: 40 | Splits: 0 | Wins: 16
+Basic Strategy -> Hands: 41 | Splits: 1 | Wins: 13
+
+--- Completed 50/10000 Deals ---
+PIMC -> Hands: 50 | Splits: 0 | Wins: 20
+Basic Strategy -> Hands: 51 | Splits: 1 | Wins: 15
+
+--- Completed 60/10000 Deals ---
+PIMC -> Hands: 60 | Splits: 0 | Wins: 24
+Basic Strategy -> Hands: 61 | Splits: 1 | Wins: 18
+
+--- Completed 70/10000 Deals ---
+PIMC -> Hands: 70 | Splits: 0 | Wins: 28
+Basic Strategy -> Hands: 71 | Splits: 1 | Wins: 24
+
+--- Completed 80/10000 Deals ---
+PIMC -> Hands: 80 | Splits: 0 | Wins: 34
+Basic Strategy -> Hands: 81 | Splits: 1 | Wins: 31
+
+--- Completed 90/10000 Deals ---
+PIMC -> Hands: 90 | Splits: 0 | Wins: 38
+Basic Strategy -> Hands: 91 | Splits: 1 | Wins: 32
+
+--- Completed 100/10000 Deals ---
+PIMC -> Hands: 100 | Splits: 0 | Wins: 42
+Basic Strategy -> Hands: 101 | Splits: 1 | Wins: 40
+
+--- Completed 110/10000 Deals ---
+PIMC -> Hands: 110 | Splits: 0 | Wins: 45
+Basic Strategy -> Hands: 112 | Splits: 2 | Wins: 42
+
+--- Completed 120/10000 Deals ---
+PIMC -> Hands: 120 | Splits: 0 | Wins: 47
+Basic Strategy -> Hands: 122 | Splits: 2 | Wins: 49
+
+--- Completed 130/10000 Deals ---
+PIMC -> Hands: 130 | Splits: 0 | Wins: 51
+Basic Strategy -> Hands: 132 | Splits: 2 | Wins: 56
+
+--- Completed 140/10000 Deals ---
+PIMC -> Hands: 140 | Splits: 0 | Wins: 55
+Basic Strategy -> Hands: 142 | Splits: 2 | Wins: 60
+
+--- Completed 150/10000 Deals ---
+PIMC -> Hands: 150 | Splits: 0 | Wins: 58
+Basic Strategy -> Hands: 152 | Splits: 2 | Wins: 64
+
+--- Completed 160/10000 Deals ---
+PIMC -> Hands: 161 | Splits: 1 | Wins: 62
+Basic Strategy -> Hands: 162 | Splits: 2 | Wins: 69
+
+--- Completed 170/10000 Deals ---
+PIMC -> Hands: 171 | Splits: 1 | Wins: 67
+Basic Strategy -> Hands: 173 | Splits: 3 | Wins: 71
+
+--- Completed 180/10000 Deals ---
+PIMC -> Hands: 181 | Splits: 1 | Wins: 73
+Basic Strategy -> Hands: 183 | Splits: 3 | Wins: 75
+
+--- Completed 190/10000 Deals ---
+PIMC -> Hands: 191 | Splits: 1 | Wins: 78
+Basic Strategy -> Hands: 193 | Splits: 3 | Wins: 81
+
+--- Completed 200/10000 Deals ---
+PIMC -> Hands: 201 | Splits: 1 | Wins: 85
+Basic Strategy -> Hands: 203 | Splits: 3 | Wins: 87
+
+--- Completed 210/10000 Deals ---
+PIMC -> Hands: 211 | Splits: 1 | Wins: 89
+Basic Strategy -> Hands: 213 | Splits: 3 | Wins: 91
+
+--- Completed 220/10000 Deals ---
+PIMC -> Hands: 221 | Splits: 1 | Wins: 93
+Basic Strategy -> Hands: 223 | Splits: 3 | Wins: 93
+
+--- Completed 230/10000 Deals ---
+PIMC -> Hands: 232 | Splits: 2 | Wins: 99
+Basic Strategy -> Hands: 234 | Splits: 4 | Wins: 99
+
+--- Completed 240/10000 Deals ---
+PIMC -> Hands: 242 | Splits: 2 | Wins: 104
+Basic Strategy -> Hands: 244 | Splits: 4 | Wins: 102
+
+--- Completed 250/10000 Deals ---
+PIMC -> Hands: 253 | Splits: 3 | Wins: 110
+Basic Strategy -> Hands: 255 | Splits: 5 | Wins: 105
+
+--- Completed 260/10000 Deals ---
+PIMC -> Hands: 263 | Splits: 3 | Wins: 112
+Basic Strategy -> Hands: 266 | Splits: 6 | Wins: 109
+
+--- Completed 270/10000 Deals ---
+PIMC -> Hands: 273 | Splits: 3 | Wins: 114
+Basic Strategy -> Hands: 276 | Splits: 6 | Wins: 113
+
+--- Completed 280/10000 Deals ---
+PIMC -> Hands: 283 | Splits: 3 | Wins: 119
+Basic Strategy -> Hands: 288 | Splits: 8 | Wins: 116
+
+--- Completed 290/10000 Deals ---
+PIMC -> Hands: 294 | Splits: 4 | Wins: 124
+Basic Strategy -> Hands: 298 | Splits: 8 | Wins: 119
+
+--- Completed 300/10000 Deals ---
+PIMC -> Hands: 304 | Splits: 4 | Wins: 128
+Basic Strategy -> Hands: 308 | Splits: 8 | Wins: 122
+
+--- Completed 310/10000 Deals ---
+PIMC -> Hands: 315 | Splits: 5 | Wins: 135
+Basic Strategy -> Hands: 318 | Splits: 8 | Wins: 126
+
+--- Completed 320/10000 Deals ---
+PIMC -> Hands: 326 | Splits: 6 | Wins: 139
+Basic Strategy -> Hands: 328 | Splits: 8 | Wins: 131
+
+--- Completed 330/10000 Deals ---
+PIMC -> Hands: 337 | Splits: 7 | Wins: 145
+Basic Strategy -> Hands: 338 | Splits: 8 | Wins: 135
+
+--- Completed 340/10000 Deals ---
+PIMC -> Hands: 347 | Splits: 7 | Wins: 148
+Basic Strategy -> Hands: 348 | Splits: 8 | Wins: 139
+
+--- Completed 350/10000 Deals ---
+PIMC -> Hands: 357 | Splits: 7 | Wins: 153
+Basic Strategy -> Hands: 358 | Splits: 8 | Wins: 144
+
+--- Completed 360/10000 Deals ---
+PIMC -> Hands: 367 | Splits: 7 | Wins: 157
+Basic Strategy -> Hands: 368 | Splits: 8 | Wins: 148
+
+--- Completed 370/10000 Deals ---
+PIMC -> Hands: 377 | Splits: 7 | Wins: 161
+Basic Strategy -> Hands: 379 | Splits: 9 | Wins: 152
+
+--- Completed 380/10000 Deals ---
+PIMC -> Hands: 387 | Splits: 7 | Wins: 167
+Basic Strategy -> Hands: 390 | Splits: 10 | Wins: 160
+
+--- Completed 390/10000 Deals ---
+PIMC -> Hands: 397 | Splits: 7 | Wins: 170
+Basic Strategy -> Hands: 400 | Splits: 10 | Wins: 165
+
+--- Completed 400/10000 Deals ---
+PIMC -> Hands: 407 | Splits: 7 | Wins: 174
+Basic Strategy -> Hands: 410 | Splits: 10 | Wins: 171
+
+--- Completed 410/10000 Deals ---
+PIMC -> Hands: 417 | Splits: 7 | Wins: 178
+Basic Strategy -> Hands: 420 | Splits: 10 | Wins: 172
+
+--- Completed 420/10000 Deals ---
+PIMC -> Hands: 427 | Splits: 7 | Wins: 181
+Basic Strategy -> Hands: 431 | Splits: 11 | Wins: 176
+
+--- Completed 430/10000 Deals ---
+PIMC -> Hands: 437 | Splits: 7 | Wins: 188
+Basic Strategy -> Hands: 441 | Splits: 11 | Wins: 180
+
+--- Completed 440/10000 Deals ---
+PIMC -> Hands: 448 | Splits: 8 | Wins: 194
+Basic Strategy -> Hands: 452 | Splits: 12 | Wins: 183
+
+--- Completed 450/10000 Deals ---
+PIMC -> Hands: 458 | Splits: 8 | Wins: 200
+Basic Strategy -> Hands: 463 | Splits: 13 | Wins: 184
+
+--- Completed 460/10000 Deals ---
+PIMC -> Hands: 468 | Splits: 8 | Wins: 204
+Basic Strategy -> Hands: 474 | Splits: 14 | Wins: 189
+
+--- Completed 470/10000 Deals ---
+PIMC -> Hands: 478 | Splits: 8 | Wins: 207
+Basic Strategy -> Hands: 484 | Splits: 14 | Wins: 194
+
+--- Completed 480/10000 Deals ---
+PIMC -> Hands: 488 | Splits: 8 | Wins: 211
+Basic Strategy -> Hands: 494 | Splits: 14 | Wins: 196
+
+--- Completed 490/10000 Deals ---
+PIMC -> Hands: 498 | Splits: 8 | Wins: 215
+Basic Strategy -> Hands: 504 | Splits: 14 | Wins: 201
+
+--- Completed 500/10000 Deals ---
+PIMC -> Hands: 509 | Splits: 9 | Wins: 223
+Basic Strategy -> Hands: 514 | Splits: 14 | Wins: 204
+
+--- Completed 510/10000 Deals ---
+PIMC -> Hands: 519 | Splits: 9 | Wins: 228
+Basic Strategy -> Hands: 524 | Splits: 14 | Wins: 205
+
+--- Completed 520/10000 Deals ---
+PIMC -> Hands: 530 | Splits: 10 | Wins: 231
+Basic Strategy -> Hands: 534 | Splits: 14 | Wins: 210
+
+--- Completed 530/10000 Deals ---
+PIMC -> Hands: 540 | Splits: 10 | Wins: 233
+Basic Strategy -> Hands: 545 | Splits: 15 | Wins: 215
+
+--- Completed 540/10000 Deals ---
+PIMC -> Hands: 550 | Splits: 10 | Wins: 240
+Basic Strategy -> Hands: 555 | Splits: 15 | Wins: 218
+
+--- Completed 550/10000 Deals ---
+PIMC -> Hands: 560 | Splits: 10 | Wins: 244
+Basic Strategy -> Hands: 565 | Splits: 15 | Wins: 222
+
+--- Completed 560/10000 Deals ---
+PIMC -> Hands: 570 | Splits: 10 | Wins: 249
+Basic Strategy -> Hands: 575 | Splits: 15 | Wins: 224
+
+--- Completed 570/10000 Deals ---
+PIMC -> Hands: 581 | Splits: 11 | Wins: 254
+Basic Strategy -> Hands: 585 | Splits: 15 | Wins: 230
+
+--- Completed 580/10000 Deals ---
+PIMC -> Hands: 591 | Splits: 11 | Wins: 258
+Basic Strategy -> Hands: 595 | Splits: 15 | Wins: 233
+
+--- Completed 590/10000 Deals ---
+PIMC -> Hands: 601 | Splits: 11 | Wins: 263
+Basic Strategy -> Hands: 606 | Splits: 16 | Wins: 237
+
+--- Completed 600/10000 Deals ---
+PIMC -> Hands: 611 | Splits: 11 | Wins: 267
+Basic Strategy -> Hands: 616 | Splits: 16 | Wins: 242
+
+--- Completed 610/10000 Deals ---
+PIMC -> Hands: 621 | Splits: 11 | Wins: 272
+Basic Strategy -> Hands: 626 | Splits: 16 | Wins: 245
+
+--- Completed 620/10000 Deals ---
+PIMC -> Hands: 631 | Splits: 11 | Wins: 276
+Basic Strategy -> Hands: 636 | Splits: 16 | Wins: 249
+
+--- Completed 630/10000 Deals ---
+PIMC -> Hands: 641 | Splits: 11 | Wins: 279
+Basic Strategy -> Hands: 646 | Splits: 16 | Wins: 250
+
+--- Completed 640/10000 Deals ---
+PIMC -> Hands: 651 | Splits: 11 | Wins: 282
+Basic Strategy -> Hands: 656 | Splits: 16 | Wins: 254
+
+--- Completed 650/10000 Deals ---
+PIMC -> Hands: 661 | Splits: 11 | Wins: 288
+Basic Strategy -> Hands: 667 | Splits: 17 | Wins: 257
+
+--- Completed 660/10000 Deals ---
+PIMC -> Hands: 671 | Splits: 11 | Wins: 289
+Basic Strategy -> Hands: 677 | Splits: 17 | Wins: 258
+
+--- Completed 670/10000 Deals ---
+PIMC -> Hands: 682 | Splits: 12 | Wins: 294
+Basic Strategy -> Hands: 688 | Splits: 18 | Wins: 263
+
+--- Completed 680/10000 Deals ---
+PIMC -> Hands: 692 | Splits: 12 | Wins: 297
+Basic Strategy -> Hands: 698 | Splits: 18 | Wins: 266
+
+--- Completed 690/10000 Deals ---
+PIMC -> Hands: 702 | Splits: 12 | Wins: 305
+Basic Strategy -> Hands: 708 | Splits: 18 | Wins: 269
+
+--- Completed 700/10000 Deals ---
+PIMC -> Hands: 713 | Splits: 13 | Wins: 310
+Basic Strategy -> Hands: 718 | Splits: 18 | Wins: 271
+
+--- Completed 710/10000 Deals ---
+PIMC -> Hands: 723 | Splits: 13 | Wins: 313
+Basic Strategy -> Hands: 728 | Splits: 18 | Wins: 272
+
+--- Completed 720/10000 Deals ---
+PIMC -> Hands: 733 | Splits: 13 | Wins: 317
+Basic Strategy -> Hands: 739 | Splits: 19 | Wins: 276
+
+--- Completed 730/10000 Deals ---
+PIMC -> Hands: 743 | Splits: 13 | Wins: 320
+Basic Strategy -> Hands: 750 | Splits: 20 | Wins: 279
+
+--- Completed 740/10000 Deals ---
+PIMC -> Hands: 753 | Splits: 13 | Wins: 324
+Basic Strategy -> Hands: 760 | Splits: 20 | Wins: 285
+
+--- Completed 750/10000 Deals ---
+PIMC -> Hands: 764 | Splits: 14 | Wins: 328
+Basic Strategy -> Hands: 770 | Splits: 20 | Wins: 289
+
+--- Completed 760/10000 Deals ---
+PIMC -> Hands: 774 | Splits: 14 | Wins: 332
+Basic Strategy -> Hands: 781 | Splits: 21 | Wins: 293
+
+--- Completed 770/10000 Deals ---
+PIMC -> Hands: 784 | Splits: 14 | Wins: 334
+Basic Strategy -> Hands: 791 | Splits: 21 | Wins: 296
+
+--- Completed 780/10000 Deals ---
+PIMC -> Hands: 795 | Splits: 15 | Wins: 337
+Basic Strategy -> Hands: 801 | Splits: 21 | Wins: 297
+
+--- Completed 790/10000 Deals ---
+PIMC -> Hands: 806 | Splits: 16 | Wins: 343
+Basic Strategy -> Hands: 811 | Splits: 21 | Wins: 301
+
+--- Completed 800/10000 Deals ---
+PIMC -> Hands: 817 | Splits: 17 | Wins: 349
+Basic Strategy -> Hands: 821 | Splits: 21 | Wins: 302
+
+--- Completed 810/10000 Deals ---
+PIMC -> Hands: 827 | Splits: 17 | Wins: 351
+Basic Strategy -> Hands: 831 | Splits: 21 | Wins: 304
+
+--- Completed 820/10000 Deals ---
+PIMC -> Hands: 839 | Splits: 19 | Wins: 358
+Basic Strategy -> Hands: 841 | Splits: 21 | Wins: 307
+
+--- Completed 830/10000 Deals ---
+PIMC -> Hands: 849 | Splits: 19 | Wins: 363
+Basic Strategy -> Hands: 852 | Splits: 22 | Wins: 310
+
+--- Completed 840/10000 Deals ---
+PIMC -> Hands: 860 | Splits: 20 | Wins: 370
+Basic Strategy -> Hands: 862 | Splits: 22 | Wins: 313
+
+--- Completed 850/10000 Deals ---
+PIMC -> Hands: 871 | Splits: 21 | Wins: 375
+Basic Strategy -> Hands: 872 | Splits: 22 | Wins: 316
+
+--- Completed 860/10000 Deals ---
+PIMC -> Hands: 881 | Splits: 21 | Wins: 382
+Basic Strategy -> Hands: 884 | Splits: 24 | Wins: 321
+
+--- Completed 870/10000 Deals ---
+PIMC -> Hands: 891 | Splits: 21 | Wins: 386
+Basic Strategy -> Hands: 895 | Splits: 25 | Wins: 327
+
+--- Completed 880/10000 Deals ---
+PIMC -> Hands: 901 | Splits: 21 | Wins: 387
+Basic Strategy -> Hands: 905 | Splits: 25 | Wins: 329
+
+--- Completed 890/10000 Deals ---
+PIMC -> Hands: 911 | Splits: 21 | Wins: 393
+Basic Strategy -> Hands: 915 | Splits: 25 | Wins: 335
+
+--- Completed 900/10000 Deals ---
+PIMC -> Hands: 921 | Splits: 21 | Wins: 397
+Basic Strategy -> Hands: 926 | Splits: 26 | Wins: 341
+
+--- Completed 910/10000 Deals ---
+PIMC -> Hands: 931 | Splits: 21 | Wins: 401
+Basic Strategy -> Hands: 936 | Splits: 26 | Wins: 343
+
+--- Completed 920/10000 Deals ---
+PIMC -> Hands: 941 | Splits: 21 | Wins: 407
+Basic Strategy -> Hands: 946 | Splits: 26 | Wins: 347
+
+--- Completed 930/10000 Deals ---
+PIMC -> Hands: 951 | Splits: 21 | Wins: 409
+Basic Strategy -> Hands: 957 | Splits: 27 | Wins: 350
+
+--- Completed 940/10000 Deals ---
+PIMC -> Hands: 962 | Splits: 22 | Wins: 415
+Basic Strategy -> Hands: 967 | Splits: 27 | Wins: 355
+
+--- Completed 950/10000 Deals ---
+PIMC -> Hands: 972 | Splits: 22 | Wins: 421
+Basic Strategy -> Hands: 977 | Splits: 27 | Wins: 357
+
+--- Completed 960/10000 Deals ---
+PIMC -> Hands: 982 | Splits: 22 | Wins: 425
+Basic Strategy -> Hands: 987 | Splits: 27 | Wins: 362
+
+--- Completed 970/10000 Deals ---
+PIMC -> Hands: 992 | Splits: 22 | Wins: 428
+Basic Strategy -> Hands: 997 | Splits: 27 | Wins: 368
+
+--- Completed 980/10000 Deals ---
+PIMC -> Hands: 1002 | Splits: 22 | Wins: 432
+Basic Strategy -> Hands: 1007 | Splits: 27 | Wins: 373
+
+--- Completed 990/10000 Deals ---
+PIMC -> Hands: 1012 | Splits: 22 | Wins: 440
+Basic Strategy -> Hands: 1017 | Splits: 27 | Wins: 377
+
+--- Completed 1000/10000 Deals ---
+PIMC -> Hands: 1022 | Splits: 22 | Wins: 445
+Basic Strategy -> Hands: 1027 | Splits: 27 | Wins: 380
+
+--- Completed 1010/10000 Deals ---
+PIMC -> Hands: 1032 | Splits: 22 | Wins: 449
+Basic Strategy -> Hands: 1038 | Splits: 28 | Wins: 383
+
+--- Completed 1020/10000 Deals ---
+PIMC -> Hands: 1042 | Splits: 22 | Wins: 452
+Basic Strategy -> Hands: 1048 | Splits: 28 | Wins: 388
+
+--- Completed 1030/10000 Deals ---
+PIMC -> Hands: 1052 | Splits: 22 | Wins: 456
+Basic Strategy -> Hands: 1058 | Splits: 28 | Wins: 393
+
+--- Completed 1040/10000 Deals ---
+PIMC -> Hands: 1062 | Splits: 22 | Wins: 459
+Basic Strategy -> Hands: 1068 | Splits: 28 | Wins: 399
+
+--- Completed 1050/10000 Deals ---
+PIMC -> Hands: 1072 | Splits: 22 | Wins: 464
+Basic Strategy -> Hands: 1079 | Splits: 29 | Wins: 402
+
+--- Completed 1060/10000 Deals ---
+PIMC -> Hands: 1083 | Splits: 23 | Wins: 467
+Basic Strategy -> Hands: 1089 | Splits: 29 | Wins: 407
+
+--- Completed 1070/10000 Deals ---
+PIMC -> Hands: 1093 | Splits: 23 | Wins: 469
+Basic Strategy -> Hands: 1099 | Splits: 29 | Wins: 410
+
+--- Completed 1080/10000 Deals ---
+PIMC -> Hands: 1103 | Splits: 23 | Wins: 475
+Basic Strategy -> Hands: 1110 | Splits: 30 | Wins: 412
+
+--- Completed 1090/10000 Deals ---
+PIMC -> Hands: 1114 | Splits: 24 | Wins: 479
+Basic Strategy -> Hands: 1120 | Splits: 30 | Wins: 414
+
+--- Completed 1100/10000 Deals ---
+PIMC -> Hands: 1125 | Splits: 25 | Wins: 484
+Basic Strategy -> Hands: 1132 | Splits: 32 | Wins: 418
+
+--- Completed 1110/10000 Deals ---
+PIMC -> Hands: 1135 | Splits: 25 | Wins: 486
+Basic Strategy -> Hands: 1142 | Splits: 32 | Wins: 422
+
+--- Completed 1120/10000 Deals ---
+PIMC -> Hands: 1146 | Splits: 26 | Wins: 489
+Basic Strategy -> Hands: 1153 | Splits: 33 | Wins: 424
+
+--- Completed 1130/10000 Deals ---
+PIMC -> Hands: 1156 | Splits: 26 | Wins: 491
+Basic Strategy -> Hands: 1163 | Splits: 33 | Wins: 425
+
+--- Completed 1140/10000 Deals ---
+PIMC -> Hands: 1166 | Splits: 26 | Wins: 494
+Basic Strategy -> Hands: 1173 | Splits: 33 | Wins: 428
+
+--- Completed 1150/10000 Deals ---
+PIMC -> Hands: 1177 | Splits: 27 | Wins: 499
+Basic Strategy -> Hands: 1184 | Splits: 34 | Wins: 435
+
+--- Completed 1160/10000 Deals ---
+PIMC -> Hands: 1188 | Splits: 28 | Wins: 506
+Basic Strategy -> Hands: 1194 | Splits: 34 | Wins: 439
+
+--- Completed 1170/10000 Deals ---
+PIMC -> Hands: 1198 | Splits: 28 | Wins: 506
+Basic Strategy -> Hands: 1204 | Splits: 34 | Wins: 442
+
+--- Completed 1180/10000 Deals ---
+PIMC -> Hands: 1208 | Splits: 28 | Wins: 510
+Basic Strategy -> Hands: 1215 | Splits: 35 | Wins: 449
+
+--- Completed 1190/10000 Deals ---
+PIMC -> Hands: 1218 | Splits: 28 | Wins: 514
+Basic Strategy -> Hands: 1225 | Splits: 35 | Wins: 454
+
+--- Completed 1200/10000 Deals ---
+PIMC -> Hands: 1229 | Splits: 29 | Wins: 520
+Basic Strategy -> Hands: 1236 | Splits: 36 | Wins: 461
+
+--- Completed 1210/10000 Deals ---
+PIMC -> Hands: 1239 | Splits: 29 | Wins: 526
+Basic Strategy -> Hands: 1246 | Splits: 36 | Wins: 470
+
+--- Completed 1220/10000 Deals ---
+PIMC -> Hands: 1249 | Splits: 29 | Wins: 529
+Basic Strategy -> Hands: 1256 | Splits: 36 | Wins: 474
+
+--- Completed 1230/10000 Deals ---
+PIMC -> Hands: 1259 | Splits: 29 | Wins: 531
+Basic Strategy -> Hands: 1267 | Splits: 37 | Wins: 483
+
+--- Completed 1240/10000 Deals ---
+PIMC -> Hands: 1270 | Splits: 30 | Wins: 537
+Basic Strategy -> Hands: 1277 | Splits: 37 | Wins: 488
+
+--- Completed 1250/10000 Deals ---
+PIMC -> Hands: 1280 | Splits: 30 | Wins: 541
+Basic Strategy -> Hands: 1287 | Splits: 37 | Wins: 493
+
+--- Completed 1260/10000 Deals ---
+PIMC -> Hands: 1290 | Splits: 30 | Wins: 546
+Basic Strategy -> Hands: 1297 | Splits: 37 | Wins: 496
+
+--- Completed 1270/10000 Deals ---
+PIMC -> Hands: 1301 | Splits: 31 | Wins: 550
+Basic Strategy -> Hands: 1308 | Splits: 38 | Wins: 502
+
+--- Completed 1280/10000 Deals ---
+PIMC -> Hands: 1311 | Splits: 31 | Wins: 552
+Basic Strategy -> Hands: 1318 | Splits: 38 | Wins: 504
+
+--- Completed 1290/10000 Deals ---
+PIMC -> Hands: 1321 | Splits: 31 | Wins: 557
+Basic Strategy -> Hands: 1328 | Splits: 38 | Wins: 507
+
+--- Completed 1300/10000 Deals ---
+PIMC -> Hands: 1331 | Splits: 31 | Wins: 560
+Basic Strategy -> Hands: 1338 | Splits: 38 | Wins: 510
+
+--- Completed 1310/10000 Deals ---
+PIMC -> Hands: 1342 | Splits: 32 | Wins: 563
+Basic Strategy -> Hands: 1348 | Splits: 38 | Wins: 515
+
+--- Completed 1320/10000 Deals ---
+PIMC -> Hands: 1352 | Splits: 32 | Wins: 568
+Basic Strategy -> Hands: 1358 | Splits: 38 | Wins: 518
+
+--- Completed 1330/10000 Deals ---
+PIMC -> Hands: 1362 | Splits: 32 | Wins: 572
+Basic Strategy -> Hands: 1368 | Splits: 38 | Wins: 524
+
+--- Completed 1340/10000 Deals ---
+PIMC -> Hands: 1372 | Splits: 32 | Wins: 574
+Basic Strategy -> Hands: 1378 | Splits: 38 | Wins: 528
+
+--- Completed 1350/10000 Deals ---
+PIMC -> Hands: 1383 | Splits: 33 | Wins: 578
+Basic Strategy -> Hands: 1389 | Splits: 39 | Wins: 532
+
+--- Completed 1360/10000 Deals ---
+PIMC -> Hands: 1393 | Splits: 33 | Wins: 580
+Basic Strategy -> Hands: 1400 | Splits: 40 | Wins: 536
+
+--- Completed 1370/10000 Deals ---
+PIMC -> Hands: 1403 | Splits: 33 | Wins: 584
+Basic Strategy -> Hands: 1411 | Splits: 41 | Wins: 540
+
+--- Completed 1380/10000 Deals ---
+PIMC -> Hands: 1414 | Splits: 34 | Wins: 589
+Basic Strategy -> Hands: 1421 | Splits: 41 | Wins: 546
+
+--- Completed 1390/10000 Deals ---
+PIMC -> Hands: 1424 | Splits: 34 | Wins: 593
+Basic Strategy -> Hands: 1431 | Splits: 41 | Wins: 548
+
+--- Completed 1400/10000 Deals ---
+PIMC -> Hands: 1434 | Splits: 34 | Wins: 598
+Basic Strategy -> Hands: 1441 | Splits: 41 | Wins: 554
+
+--- Completed 1410/10000 Deals ---
+PIMC -> Hands: 1445 | Splits: 35 | Wins: 602
+Basic Strategy -> Hands: 1451 | Splits: 41 | Wins: 558
+
+--- Completed 1420/10000 Deals ---
+PIMC -> Hands: 1456 | Splits: 36 | Wins: 607
+Basic Strategy -> Hands: 1461 | Splits: 41 | Wins: 564
+
+--- Completed 1430/10000 Deals ---
+PIMC -> Hands: 1466 | Splits: 36 | Wins: 611
+Basic Strategy -> Hands: 1472 | Splits: 42 | Wins: 569
+
+--- Completed 1440/10000 Deals ---
+PIMC -> Hands: 1476 | Splits: 36 | Wins: 613
+Basic Strategy -> Hands: 1482 | Splits: 42 | Wins: 571
+
+--- Completed 1450/10000 Deals ---
+PIMC -> Hands: 1487 | Splits: 37 | Wins: 617
+Basic Strategy -> Hands: 1495 | Splits: 45 | Wins: 576
+
+--- Completed 1460/10000 Deals ---
+PIMC -> Hands: 1497 | Splits: 37 | Wins: 623
+Basic Strategy -> Hands: 1506 | Splits: 46 | Wins: 582
+
+--- Completed 1470/10000 Deals ---
+PIMC -> Hands: 1507 | Splits: 37 | Wins: 629
+Basic Strategy -> Hands: 1516 | Splits: 46 | Wins: 584
+
+--- Completed 1480/10000 Deals ---
+PIMC -> Hands: 1518 | Splits: 38 | Wins: 639
+Basic Strategy -> Hands: 1526 | Splits: 46 | Wins: 587
+
+--- Completed 1490/10000 Deals ---
+PIMC -> Hands: 1528 | Splits: 38 | Wins: 643
+Basic Strategy -> Hands: 1536 | Splits: 46 | Wins: 592
+
+--- Completed 1500/10000 Deals ---
+PIMC -> Hands: 1538 | Splits: 38 | Wins: 645
+Basic Strategy -> Hands: 1547 | Splits: 47 | Wins: 596
+
+--- Completed 1510/10000 Deals ---
+PIMC -> Hands: 1549 | Splits: 39 | Wins: 650
+Basic Strategy -> Hands: 1557 | Splits: 47 | Wins: 598
+
+--- Completed 1520/10000 Deals ---
+PIMC -> Hands: 1559 | Splits: 39 | Wins: 655
+Basic Strategy -> Hands: 1567 | Splits: 47 | Wins: 600
+
+--- Completed 1530/10000 Deals ---
+PIMC -> Hands: 1569 | Splits: 39 | Wins: 659
+Basic Strategy -> Hands: 1577 | Splits: 47 | Wins: 605
+
+--- Completed 1540/10000 Deals ---
+PIMC -> Hands: 1580 | Splits: 40 | Wins: 662
+Basic Strategy -> Hands: 1588 | Splits: 48 | Wins: 611
+
+--- Completed 1550/10000 Deals ---
+PIMC -> Hands: 1591 | Splits: 41 | Wins: 669
+Basic Strategy -> Hands: 1598 | Splits: 48 | Wins: 614
+
+--- Completed 1560/10000 Deals ---
+PIMC -> Hands: 1603 | Splits: 43 | Wins: 673
+Basic Strategy -> Hands: 1608 | Splits: 48 | Wins: 619
+
+--- Completed 1570/10000 Deals ---
+PIMC -> Hands: 1614 | Splits: 44 | Wins: 679
+Basic Strategy -> Hands: 1618 | Splits: 48 | Wins: 622
+
+--- Completed 1580/10000 Deals ---
+PIMC -> Hands: 1624 | Splits: 44 | Wins: 685
+Basic Strategy -> Hands: 1628 | Splits: 48 | Wins: 624
+
+--- Completed 1590/10000 Deals ---
+PIMC -> Hands: 1634 | Splits: 44 | Wins: 691
+Basic Strategy -> Hands: 1638 | Splits: 48 | Wins: 627
+
+--- Completed 1600/10000 Deals ---
+PIMC -> Hands: 1645 | Splits: 45 | Wins: 695
+Basic Strategy -> Hands: 1648 | Splits: 48 | Wins: 631
+
+--- Completed 1610/10000 Deals ---
+PIMC -> Hands: 1657 | Splits: 47 | Wins: 698
+Basic Strategy -> Hands: 1659 | Splits: 49 | Wins: 637
+
+--- Completed 1620/10000 Deals ---
+PIMC -> Hands: 1667 | Splits: 47 | Wins: 699
+Basic Strategy -> Hands: 1670 | Splits: 50 | Wins: 639
+
+--- Completed 1630/10000 Deals ---
+PIMC -> Hands: 1677 | Splits: 47 | Wins: 704
+Basic Strategy -> Hands: 1680 | Splits: 50 | Wins: 642
+
+--- Completed 1640/10000 Deals ---
+PIMC -> Hands: 1687 | Splits: 47 | Wins: 709
+Basic Strategy -> Hands: 1691 | Splits: 51 | Wins: 644
+
+--- Completed 1650/10000 Deals ---
+PIMC -> Hands: 1699 | Splits: 49 | Wins: 716
+Basic Strategy -> Hands: 1701 | Splits: 51 | Wins: 646
+
+--- Completed 1660/10000 Deals ---
+PIMC -> Hands: 1710 | Splits: 50 | Wins: 722
+Basic Strategy -> Hands: 1712 | Splits: 52 | Wins: 649
+
+--- Completed 1670/10000 Deals ---
+PIMC -> Hands: 1720 | Splits: 50 | Wins: 725
+Basic Strategy -> Hands: 1723 | Splits: 53 | Wins: 652
+
+--- Completed 1680/10000 Deals ---
+PIMC -> Hands: 1730 | Splits: 50 | Wins: 728
+Basic Strategy -> Hands: 1733 | Splits: 53 | Wins: 658
+
+--- Completed 1690/10000 Deals ---
+PIMC -> Hands: 1740 | Splits: 50 | Wins: 734
+Basic Strategy -> Hands: 1743 | Splits: 53 | Wins: 662
+
+--- Completed 1700/10000 Deals ---
+PIMC -> Hands: 1750 | Splits: 50 | Wins: 738
+Basic Strategy -> Hands: 1754 | Splits: 54 | Wins: 663
+
+--- Completed 1710/10000 Deals ---
+PIMC -> Hands: 1760 | Splits: 50 | Wins: 743
+Basic Strategy -> Hands: 1764 | Splits: 54 | Wins: 668
+
+--- Completed 1720/10000 Deals ---
+PIMC -> Hands: 1770 | Splits: 50 | Wins: 745
+Basic Strategy -> Hands: 1774 | Splits: 54 | Wins: 671
+
+--- Completed 1730/10000 Deals ---
+PIMC -> Hands: 1780 | Splits: 50 | Wins: 750
+Basic Strategy -> Hands: 1784 | Splits: 54 | Wins: 675
+
+--- Completed 1740/10000 Deals ---
+PIMC -> Hands: 1790 | Splits: 50 | Wins: 754
+Basic Strategy -> Hands: 1794 | Splits: 54 | Wins: 679
+
+--- Completed 1750/10000 Deals ---
+PIMC -> Hands: 1801 | Splits: 51 | Wins: 758
+Basic Strategy -> Hands: 1805 | Splits: 55 | Wins: 681
+
+--- Completed 1760/10000 Deals ---
+PIMC -> Hands: 1811 | Splits: 51 | Wins: 762
+Basic Strategy -> Hands: 1815 | Splits: 55 | Wins: 682
+
+--- Completed 1770/10000 Deals ---
+PIMC -> Hands: 1822 | Splits: 52 | Wins: 766
+Basic Strategy -> Hands: 1825 | Splits: 55 | Wins: 689
+
+--- Completed 1780/10000 Deals ---
+PIMC -> Hands: 1832 | Splits: 52 | Wins: 769
+Basic Strategy -> Hands: 1836 | Splits: 56 | Wins: 692
+
+--- Completed 1790/10000 Deals ---
+PIMC -> Hands: 1842 | Splits: 52 | Wins: 773
+Basic Strategy -> Hands: 1846 | Splits: 56 | Wins: 698
+
+--- Completed 1800/10000 Deals ---
+PIMC -> Hands: 1852 | Splits: 52 | Wins: 776
+Basic Strategy -> Hands: 1856 | Splits: 56 | Wins: 701
+
+--- Completed 1810/10000 Deals ---
+PIMC -> Hands: 1863 | Splits: 53 | Wins: 783
+Basic Strategy -> Hands: 1866 | Splits: 56 | Wins: 705
+
+--- Completed 1820/10000 Deals ---
+PIMC -> Hands: 1874 | Splits: 54 | Wins: 791
+Basic Strategy -> Hands: 1877 | Splits: 57 | Wins: 711
+
+--- Completed 1830/10000 Deals ---
+PIMC -> Hands: 1884 | Splits: 54 | Wins: 794
+Basic Strategy -> Hands: 1887 | Splits: 57 | Wins: 713
+
+--- Completed 1840/10000 Deals ---
+PIMC -> Hands: 1894 | Splits: 54 | Wins: 798
+Basic Strategy -> Hands: 1897 | Splits: 57 | Wins: 716
+
+--- Completed 1850/10000 Deals ---
+PIMC -> Hands: 1906 | Splits: 56 | Wins: 805
+Basic Strategy -> Hands: 1907 | Splits: 57 | Wins: 721
+
+--- Completed 1860/10000 Deals ---
+PIMC -> Hands: 1916 | Splits: 56 | Wins: 811
+Basic Strategy -> Hands: 1917 | Splits: 57 | Wins: 726
+
+--- Completed 1870/10000 Deals ---
+PIMC -> Hands: 1927 | Splits: 57 | Wins: 815
+Basic Strategy -> Hands: 1928 | Splits: 58 | Wins: 728
+
+--- Completed 1880/10000 Deals ---
+PIMC -> Hands: 1938 | Splits: 58 | Wins: 817
+Basic Strategy -> Hands: 1938 | Splits: 58 | Wins: 734
+
+--- Completed 1890/10000 Deals ---
+PIMC -> Hands: 1948 | Splits: 58 | Wins: 820
+Basic Strategy -> Hands: 1949 | Splits: 59 | Wins: 741
+
+--- Completed 1900/10000 Deals ---
+PIMC -> Hands: 1959 | Splits: 59 | Wins: 822
+Basic Strategy -> Hands: 1959 | Splits: 59 | Wins: 747
+
+--- Completed 1910/10000 Deals ---
+PIMC -> Hands: 1970 | Splits: 60 | Wins: 826
+Basic Strategy -> Hands: 1969 | Splits: 59 | Wins: 750
+
+--- Completed 1920/10000 Deals ---
+PIMC -> Hands: 1980 | Splits: 60 | Wins: 828
+Basic Strategy -> Hands: 1979 | Splits: 59 | Wins: 757
+
+--- Completed 1930/10000 Deals ---
+PIMC -> Hands: 1990 | Splits: 60 | Wins: 831
+Basic Strategy -> Hands: 1989 | Splits: 59 | Wins: 762
+
+--- Completed 1940/10000 Deals ---
+PIMC -> Hands: 2000 | Splits: 60 | Wins: 837
+Basic Strategy -> Hands: 1999 | Splits: 59 | Wins: 768
+
+--- Completed 1950/10000 Deals ---
+PIMC -> Hands: 2010 | Splits: 60 | Wins: 840
+Basic Strategy -> Hands: 2009 | Splits: 59 | Wins: 773
+
+--- Completed 1960/10000 Deals ---
+PIMC -> Hands: 2020 | Splits: 60 | Wins: 844
+Basic Strategy -> Hands: 2019 | Splits: 59 | Wins: 778
+
+--- Completed 1970/10000 Deals ---
+PIMC -> Hands: 2030 | Splits: 60 | Wins: 849
+Basic Strategy -> Hands: 2029 | Splits: 59 | Wins: 782
+
+--- Completed 1980/10000 Deals ---
+PIMC -> Hands: 2040 | Splits: 60 | Wins: 853
+Basic Strategy -> Hands: 2039 | Splits: 59 | Wins: 785
+
+--- Completed 1990/10000 Deals ---
+PIMC -> Hands: 2050 | Splits: 60 | Wins: 857
+Basic Strategy -> Hands: 2049 | Splits: 59 | Wins: 791
+
+--- Completed 2000/10000 Deals ---
+PIMC -> Hands: 2060 | Splits: 60 | Wins: 862
+Basic Strategy -> Hands: 2059 | Splits: 59 | Wins: 795
+
+--- Completed 2010/10000 Deals ---
+PIMC -> Hands: 2070 | Splits: 60 | Wins: 869
+Basic Strategy -> Hands: 2069 | Splits: 59 | Wins: 799
+
+--- Completed 2020/10000 Deals ---
+PIMC -> Hands: 2081 | Splits: 61 | Wins: 873
+Basic Strategy -> Hands: 2081 | Splits: 61 | Wins: 804
+
+--- Completed 2030/10000 Deals ---
+PIMC -> Hands: 2091 | Splits: 61 | Wins: 875
+Basic Strategy -> Hands: 2091 | Splits: 61 | Wins: 811
+
+--- Completed 2040/10000 Deals ---
+PIMC -> Hands: 2102 | Splits: 62 | Wins: 879
+Basic Strategy -> Hands: 2101 | Splits: 61 | Wins: 815
+
+--- Completed 2050/10000 Deals ---
+PIMC -> Hands: 2112 | Splits: 62 | Wins: 880
+Basic Strategy -> Hands: 2112 | Splits: 62 | Wins: 817
+
+--- Completed 2060/10000 Deals ---
+PIMC -> Hands: 2122 | Splits: 62 | Wins: 884
+Basic Strategy -> Hands: 2122 | Splits: 62 | Wins: 819
+
+--- Completed 2070/10000 Deals ---
+PIMC -> Hands: 2132 | Splits: 62 | Wins: 890
+Basic Strategy -> Hands: 2132 | Splits: 62 | Wins: 824
+
+--- Completed 2080/10000 Deals ---
+PIMC -> Hands: 2143 | Splits: 63 | Wins: 893
+Basic Strategy -> Hands: 2142 | Splits: 62 | Wins: 827
+
+--- Completed 2090/10000 Deals ---
+PIMC -> Hands: 2153 | Splits: 63 | Wins: 899
+Basic Strategy -> Hands: 2152 | Splits: 62 | Wins: 830
+
+--- Completed 2100/10000 Deals ---
+PIMC -> Hands: 2163 | Splits: 63 | Wins: 902
+Basic Strategy -> Hands: 2162 | Splits: 62 | Wins: 831
+
+--- Completed 2110/10000 Deals ---
+PIMC -> Hands: 2173 | Splits: 63 | Wins: 906
+Basic Strategy -> Hands: 2173 | Splits: 63 | Wins: 839
+
+--- Completed 2120/10000 Deals ---
+PIMC -> Hands: 2184 | Splits: 64 | Wins: 910
+Basic Strategy -> Hands: 2183 | Splits: 63 | Wins: 842
+
+--- Completed 2130/10000 Deals ---
+PIMC -> Hands: 2194 | Splits: 64 | Wins: 915
+Basic Strategy -> Hands: 2194 | Splits: 64 | Wins: 848
+
+--- Completed 2140/10000 Deals ---
+PIMC -> Hands: 2205 | Splits: 65 | Wins: 919
+Basic Strategy -> Hands: 2204 | Splits: 64 | Wins: 851
+
+--- Completed 2150/10000 Deals ---
+PIMC -> Hands: 2215 | Splits: 65 | Wins: 923
+Basic Strategy -> Hands: 2214 | Splits: 64 | Wins: 853
+
+--- Completed 2160/10000 Deals ---
+PIMC -> Hands: 2225 | Splits: 65 | Wins: 931
+Basic Strategy -> Hands: 2224 | Splits: 64 | Wins: 858
+
+--- Completed 2170/10000 Deals ---
+PIMC -> Hands: 2235 | Splits: 65 | Wins: 936
+Basic Strategy -> Hands: 2234 | Splits: 64 | Wins: 864
+
+--- Completed 2180/10000 Deals ---
+PIMC -> Hands: 2245 | Splits: 65 | Wins: 940
+Basic Strategy -> Hands: 2244 | Splits: 64 | Wins: 868
+
+--- Completed 2190/10000 Deals ---
+PIMC -> Hands: 2255 | Splits: 65 | Wins: 944
+Basic Strategy -> Hands: 2254 | Splits: 64 | Wins: 870
+
+--- Completed 2200/10000 Deals ---
+PIMC -> Hands: 2266 | Splits: 66 | Wins: 951
+Basic Strategy -> Hands: 2264 | Splits: 64 | Wins: 873
+
+--- Completed 2210/10000 Deals ---
+PIMC -> Hands: 2276 | Splits: 66 | Wins: 955
+Basic Strategy -> Hands: 2275 | Splits: 65 | Wins: 875
+
+--- Completed 2220/10000 Deals ---
+PIMC -> Hands: 2287 | Splits: 67 | Wins: 962
+Basic Strategy -> Hands: 2285 | Splits: 65 | Wins: 877
+
+--- Completed 2230/10000 Deals ---
+PIMC -> Hands: 2298 | Splits: 68 | Wins: 968
+Basic Strategy -> Hands: 2295 | Splits: 65 | Wins: 881
+
+--- Completed 2240/10000 Deals ---
+PIMC -> Hands: 2310 | Splits: 70 | Wins: 973
+Basic Strategy -> Hands: 2305 | Splits: 65 | Wins: 885
+
+--- Completed 2250/10000 Deals ---
+PIMC -> Hands: 2320 | Splits: 70 | Wins: 978
+Basic Strategy -> Hands: 2315 | Splits: 65 | Wins: 888
+
+--- Completed 2260/10000 Deals ---
+PIMC -> Hands: 2330 | Splits: 70 | Wins: 982
+Basic Strategy -> Hands: 2325 | Splits: 65 | Wins: 893
+
+--- Completed 2270/10000 Deals ---
+PIMC -> Hands: 2340 | Splits: 70 | Wins: 984
+Basic Strategy -> Hands: 2336 | Splits: 66 | Wins: 898
+
+--- Completed 2280/10000 Deals ---
+PIMC -> Hands: 2351 | Splits: 71 | Wins: 990
+Basic Strategy -> Hands: 2346 | Splits: 66 | Wins: 903
+
+--- Completed 2290/10000 Deals ---
+PIMC -> Hands: 2361 | Splits: 71 | Wins: 993
+Basic Strategy -> Hands: 2357 | Splits: 67 | Wins: 904
+
+--- Completed 2300/10000 Deals ---
+PIMC -> Hands: 2372 | Splits: 72 | Wins: 998
+Basic Strategy -> Hands: 2367 | Splits: 67 | Wins: 907
+
+--- Completed 2310/10000 Deals ---
+PIMC -> Hands: 2383 | Splits: 73 | Wins: 1005
+Basic Strategy -> Hands: 2378 | Splits: 68 | Wins: 908
+
+--- Completed 2320/10000 Deals ---
+PIMC -> Hands: 2394 | Splits: 74 | Wins: 1010
+Basic Strategy -> Hands: 2388 | Splits: 68 | Wins: 911
+
+--- Completed 2330/10000 Deals ---
+PIMC -> Hands: 2404 | Splits: 74 | Wins: 1014
+Basic Strategy -> Hands: 2398 | Splits: 68 | Wins: 918
+
+--- Completed 2340/10000 Deals ---
+PIMC -> Hands: 2414 | Splits: 74 | Wins: 1017
+Basic Strategy -> Hands: 2408 | Splits: 68 | Wins: 926
+
+--- Completed 2350/10000 Deals ---
+PIMC -> Hands: 2425 | Splits: 75 | Wins: 1027
+Basic Strategy -> Hands: 2418 | Splits: 68 | Wins: 929
+
+--- Completed 2360/10000 Deals ---
+PIMC -> Hands: 2435 | Splits: 75 | Wins: 1029
+Basic Strategy -> Hands: 2428 | Splits: 68 | Wins: 934
+
+--- Completed 2370/10000 Deals ---
+PIMC -> Hands: 2445 | Splits: 75 | Wins: 1032
+Basic Strategy -> Hands: 2438 | Splits: 68 | Wins: 939
+
+--- Completed 2380/10000 Deals ---
+PIMC -> Hands: 2455 | Splits: 75 | Wins: 1039
+Basic Strategy -> Hands: 2449 | Splits: 69 | Wins: 944
+
+--- Completed 2390/10000 Deals ---
+PIMC -> Hands: 2465 | Splits: 75 | Wins: 1042
+Basic Strategy -> Hands: 2459 | Splits: 69 | Wins: 948
+
+--- Completed 2400/10000 Deals ---
+PIMC -> Hands: 2475 | Splits: 75 | Wins: 1044
+Basic Strategy -> Hands: 2469 | Splits: 69 | Wins: 952
+
+--- Completed 2410/10000 Deals ---
+PIMC -> Hands: 2486 | Splits: 76 | Wins: 1045
+Basic Strategy -> Hands: 2479 | Splits: 69 | Wins: 957
+
+--- Completed 2420/10000 Deals ---
+PIMC -> Hands: 2496 | Splits: 76 | Wins: 1047
+Basic Strategy -> Hands: 2489 | Splits: 69 | Wins: 959
+
+--- Completed 2430/10000 Deals ---
+PIMC -> Hands: 2506 | Splits: 76 | Wins: 1051
+Basic Strategy -> Hands: 2501 | Splits: 71 | Wins: 969
+
+--- Completed 2440/10000 Deals ---
+PIMC -> Hands: 2516 | Splits: 76 | Wins: 1055
+Basic Strategy -> Hands: 2511 | Splits: 71 | Wins: 970
+
+--- Completed 2450/10000 Deals ---
+PIMC -> Hands: 2527 | Splits: 77 | Wins: 1058
+Basic Strategy -> Hands: 2521 | Splits: 71 | Wins: 972
+
+--- Completed 2460/10000 Deals ---
+PIMC -> Hands: 2537 | Splits: 77 | Wins: 1062
+Basic Strategy -> Hands: 2531 | Splits: 71 | Wins: 974
+
+--- Completed 2470/10000 Deals ---
+PIMC -> Hands: 2547 | Splits: 77 | Wins: 1065
+Basic Strategy -> Hands: 2542 | Splits: 72 | Wins: 977
+
+--- Completed 2480/10000 Deals ---
+PIMC -> Hands: 2558 | Splits: 78 | Wins: 1068
+Basic Strategy -> Hands: 2552 | Splits: 72 | Wins: 982
+
+--- Completed 2490/10000 Deals ---
+PIMC -> Hands: 2568 | Splits: 78 | Wins: 1072
+Basic Strategy -> Hands: 2562 | Splits: 72 | Wins: 987
+
+--- Completed 2500/10000 Deals ---
+PIMC -> Hands: 2578 | Splits: 78 | Wins: 1075
+Basic Strategy -> Hands: 2572 | Splits: 72 | Wins: 989
+
+--- Completed 2510/10000 Deals ---
+PIMC -> Hands: 2588 | Splits: 78 | Wins: 1078
+Basic Strategy -> Hands: 2582 | Splits: 72 | Wins: 992
+
+--- Completed 2520/10000 Deals ---
+PIMC -> Hands: 2598 | Splits: 78 | Wins: 1082
+Basic Strategy -> Hands: 2592 | Splits: 72 | Wins: 993
+
+--- Completed 2530/10000 Deals ---
+PIMC -> Hands: 2608 | Splits: 78 | Wins: 1084
+Basic Strategy -> Hands: 2603 | Splits: 73 | Wins: 998
+
+--- Completed 2540/10000 Deals ---
+PIMC -> Hands: 2618 | Splits: 78 | Wins: 1087
+Basic Strategy -> Hands: 2614 | Splits: 74 | Wins: 1001
+
+--- Completed 2550/10000 Deals ---
+PIMC -> Hands: 2628 | Splits: 78 | Wins: 1091
+Basic Strategy -> Hands: 2624 | Splits: 74 | Wins: 1006
+
+--- Completed 2560/10000 Deals ---
+PIMC -> Hands: 2639 | Splits: 79 | Wins: 1096
+Basic Strategy -> Hands: 2634 | Splits: 74 | Wins: 1010
+
+--- Completed 2570/10000 Deals ---
+PIMC -> Hands: 2649 | Splits: 79 | Wins: 1097
+Basic Strategy -> Hands: 2644 | Splits: 74 | Wins: 1014
+
+--- Completed 2580/10000 Deals ---
+PIMC -> Hands: 2659 | Splits: 79 | Wins: 1100
+Basic Strategy -> Hands: 2655 | Splits: 75 | Wins: 1020
+
+--- Completed 2590/10000 Deals ---
+PIMC -> Hands: 2669 | Splits: 79 | Wins: 1104
+Basic Strategy -> Hands: 2665 | Splits: 75 | Wins: 1022
+
+--- Completed 2600/10000 Deals ---
+PIMC -> Hands: 2679 | Splits: 79 | Wins: 1106
+Basic Strategy -> Hands: 2675 | Splits: 75 | Wins: 1028
+
+--- Completed 2610/10000 Deals ---
+PIMC -> Hands: 2689 | Splits: 79 | Wins: 1109
+Basic Strategy -> Hands: 2685 | Splits: 75 | Wins: 1033
+
+--- Completed 2620/10000 Deals ---
+PIMC -> Hands: 2699 | Splits: 79 | Wins: 1113
+Basic Strategy -> Hands: 2695 | Splits: 75 | Wins: 1035
+
+--- Completed 2630/10000 Deals ---
+PIMC -> Hands: 2709 | Splits: 79 | Wins: 1118
+Basic Strategy -> Hands: 2705 | Splits: 75 | Wins: 1037
+
+--- Completed 2640/10000 Deals ---
+PIMC -> Hands: 2719 | Splits: 79 | Wins: 1124
+Basic Strategy -> Hands: 2715 | Splits: 75 | Wins: 1043
+
+--- Completed 2650/10000 Deals ---
+PIMC -> Hands: 2730 | Splits: 80 | Wins: 1128
+Basic Strategy -> Hands: 2725 | Splits: 75 | Wins: 1045
+
+--- Completed 2660/10000 Deals ---
+PIMC -> Hands: 2740 | Splits: 80 | Wins: 1132
+Basic Strategy -> Hands: 2735 | Splits: 75 | Wins: 1050
+
+--- Completed 2670/10000 Deals ---
+PIMC -> Hands: 2750 | Splits: 80 | Wins: 1137
+Basic Strategy -> Hands: 2745 | Splits: 75 | Wins: 1054
+
+--- Completed 2680/10000 Deals ---
+PIMC -> Hands: 2761 | Splits: 81 | Wins: 1140
+Basic Strategy -> Hands: 2756 | Splits: 76 | Wins: 1061
+
+--- Completed 2690/10000 Deals ---
+PIMC -> Hands: 2772 | Splits: 82 | Wins: 1143
+Basic Strategy -> Hands: 2766 | Splits: 76 | Wins: 1067
+
+--- Completed 2700/10000 Deals ---
+PIMC -> Hands: 2783 | Splits: 83 | Wins: 1150
+Basic Strategy -> Hands: 2776 | Splits: 76 | Wins: 1074
+
+--- Completed 2710/10000 Deals ---
+PIMC -> Hands: 2793 | Splits: 83 | Wins: 1151
+Basic Strategy -> Hands: 2786 | Splits: 76 | Wins: 1076
+
+--- Completed 2720/10000 Deals ---
+PIMC -> Hands: 2803 | Splits: 83 | Wins: 1154
+Basic Strategy -> Hands: 2796 | Splits: 76 | Wins: 1080
+
+--- Completed 2730/10000 Deals ---
+PIMC -> Hands: 2813 | Splits: 83 | Wins: 1158
+Basic Strategy -> Hands: 2806 | Splits: 76 | Wins: 1087
+
+--- Completed 2740/10000 Deals ---
+PIMC -> Hands: 2823 | Splits: 83 | Wins: 1163
+Basic Strategy -> Hands: 2816 | Splits: 76 | Wins: 1091
+
+--- Completed 2750/10000 Deals ---
+PIMC -> Hands: 2834 | Splits: 84 | Wins: 1167
+Basic Strategy -> Hands: 2826 | Splits: 76 | Wins: 1095
+
+--- Completed 2760/10000 Deals ---
+PIMC -> Hands: 2845 | Splits: 85 | Wins: 1170
+Basic Strategy -> Hands: 2836 | Splits: 76 | Wins: 1098
+
+--- Completed 2770/10000 Deals ---
+PIMC -> Hands: 2855 | Splits: 85 | Wins: 1176
+Basic Strategy -> Hands: 2846 | Splits: 76 | Wins: 1101
+
+--- Completed 2780/10000 Deals ---
+PIMC -> Hands: 2866 | Splits: 86 | Wins: 1180
+Basic Strategy -> Hands: 2856 | Splits: 76 | Wins: 1104
+
+--- Completed 2790/10000 Deals ---
+PIMC -> Hands: 2877 | Splits: 87 | Wins: 1186
+Basic Strategy -> Hands: 2866 | Splits: 76 | Wins: 1106
+
+--- Completed 2800/10000 Deals ---
+PIMC -> Hands: 2887 | Splits: 87 | Wins: 1192
+Basic Strategy -> Hands: 2876 | Splits: 76 | Wins: 1111
+
+--- Completed 2810/10000 Deals ---
+PIMC -> Hands: 2897 | Splits: 87 | Wins: 1196
+Basic Strategy -> Hands: 2886 | Splits: 76 | Wins: 1117
+
+--- Completed 2820/10000 Deals ---
+PIMC -> Hands: 2907 | Splits: 87 | Wins: 1203
+Basic Strategy -> Hands: 2896 | Splits: 76 | Wins: 1120
+
+--- Completed 2830/10000 Deals ---
+PIMC -> Hands: 2917 | Splits: 87 | Wins: 1210
+Basic Strategy -> Hands: 2906 | Splits: 76 | Wins: 1125
+
+--- Completed 2840/10000 Deals ---
+PIMC -> Hands: 2928 | Splits: 88 | Wins: 1212
+Basic Strategy -> Hands: 2916 | Splits: 76 | Wins: 1128
+
+--- Completed 2850/10000 Deals ---
+PIMC -> Hands: 2938 | Splits: 88 | Wins: 1216
+Basic Strategy -> Hands: 2926 | Splits: 76 | Wins: 1129
+
+--- Completed 2860/10000 Deals ---
+PIMC -> Hands: 2948 | Splits: 88 | Wins: 1222
+Basic Strategy -> Hands: 2937 | Splits: 77 | Wins: 1132
+
+--- Completed 2870/10000 Deals ---
+PIMC -> Hands: 2958 | Splits: 88 | Wins: 1225
+Basic Strategy -> Hands: 2947 | Splits: 77 | Wins: 1135
+
+--- Completed 2880/10000 Deals ---
+PIMC -> Hands: 2969 | Splits: 89 | Wins: 1230
+Basic Strategy -> Hands: 2957 | Splits: 77 | Wins: 1140
+
+--- Completed 2890/10000 Deals ---
+PIMC -> Hands: 2979 | Splits: 89 | Wins: 1235
+Basic Strategy -> Hands: 2968 | Splits: 78 | Wins: 1143
+
+--- Completed 2900/10000 Deals ---
+PIMC -> Hands: 2989 | Splits: 89 | Wins: 1237
+Basic Strategy -> Hands: 2978 | Splits: 78 | Wins: 1145
+
+--- Completed 2910/10000 Deals ---
+PIMC -> Hands: 3000 | Splits: 90 | Wins: 1244
+Basic Strategy -> Hands: 2988 | Splits: 78 | Wins: 1150
+
+--- Completed 2920/10000 Deals ---
+PIMC -> Hands: 3010 | Splits: 90 | Wins: 1247
+Basic Strategy -> Hands: 2998 | Splits: 78 | Wins: 1155
+
+--- Completed 2930/10000 Deals ---
+PIMC -> Hands: 3022 | Splits: 92 | Wins: 1253
+Basic Strategy -> Hands: 3008 | Splits: 78 | Wins: 1159
+
+--- Completed 2940/10000 Deals ---
+PIMC -> Hands: 3032 | Splits: 92 | Wins: 1257
+Basic Strategy -> Hands: 3020 | Splits: 80 | Wins: 1161
+
+--- Completed 2950/10000 Deals ---
+PIMC -> Hands: 3042 | Splits: 92 | Wins: 1262
+Basic Strategy -> Hands: 3030 | Splits: 80 | Wins: 1165
+
+--- Completed 2960/10000 Deals ---
+PIMC -> Hands: 3052 | Splits: 92 | Wins: 1268
+Basic Strategy -> Hands: 3041 | Splits: 81 | Wins: 1168
+
+--- Completed 2970/10000 Deals ---
+PIMC -> Hands: 3062 | Splits: 92 | Wins: 1274
+Basic Strategy -> Hands: 3051 | Splits: 81 | Wins: 1171
+
+--- Completed 2980/10000 Deals ---
+PIMC -> Hands: 3072 | Splits: 92 | Wins: 1277
+Basic Strategy -> Hands: 3061 | Splits: 81 | Wins: 1173
+
+--- Completed 2990/10000 Deals ---
+PIMC -> Hands: 3082 | Splits: 92 | Wins: 1282
+Basic Strategy -> Hands: 3071 | Splits: 81 | Wins: 1176
+
+--- Completed 3000/10000 Deals ---
+PIMC -> Hands: 3092 | Splits: 92 | Wins: 1284
+Basic Strategy -> Hands: 3081 | Splits: 81 | Wins: 1181
+
+--- Completed 3010/10000 Deals ---
+PIMC -> Hands: 3102 | Splits: 92 | Wins: 1288
+Basic Strategy -> Hands: 3091 | Splits: 81 | Wins: 1185
+
+--- Completed 3020/10000 Deals ---
+PIMC -> Hands: 3112 | Splits: 92 | Wins: 1289
+Basic Strategy -> Hands: 3101 | Splits: 81 | Wins: 1191
+
+--- Completed 3030/10000 Deals ---
+PIMC -> Hands: 3122 | Splits: 92 | Wins: 1292
+Basic Strategy -> Hands: 3111 | Splits: 81 | Wins: 1192
+
+--- Completed 3040/10000 Deals ---
+PIMC -> Hands: 3133 | Splits: 93 | Wins: 1296
+Basic Strategy -> Hands: 3121 | Splits: 81 | Wins: 1197
+
+--- Completed 3050/10000 Deals ---
+PIMC -> Hands: 3143 | Splits: 93 | Wins: 1300
+Basic Strategy -> Hands: 3131 | Splits: 81 | Wins: 1202
+
+--- Completed 3060/10000 Deals ---
+PIMC -> Hands: 3153 | Splits: 93 | Wins: 1303
+Basic Strategy -> Hands: 3141 | Splits: 81 | Wins: 1205
+
+--- Completed 3070/10000 Deals ---
+PIMC -> Hands: 3164 | Splits: 94 | Wins: 1308
+Basic Strategy -> Hands: 3151 | Splits: 81 | Wins: 1210
+
+--- Completed 3080/10000 Deals ---
+PIMC -> Hands: 3175 | Splits: 95 | Wins: 1312
+Basic Strategy -> Hands: 3162 | Splits: 82 | Wins: 1216
+
+--- Completed 3090/10000 Deals ---
+PIMC -> Hands: 3185 | Splits: 95 | Wins: 1315
+Basic Strategy -> Hands: 3172 | Splits: 82 | Wins: 1222
+
+--- Completed 3100/10000 Deals ---
+PIMC -> Hands: 3195 | Splits: 95 | Wins: 1320
+Basic Strategy -> Hands: 3182 | Splits: 82 | Wins: 1226
+
+--- Completed 3110/10000 Deals ---
+PIMC -> Hands: 3205 | Splits: 95 | Wins: 1321
+Basic Strategy -> Hands: 3192 | Splits: 82 | Wins: 1231
+
+--- Completed 3120/10000 Deals ---
+PIMC -> Hands: 3215 | Splits: 95 | Wins: 1325
+Basic Strategy -> Hands: 3204 | Splits: 84 | Wins: 1234
+
+--- Completed 3130/10000 Deals ---
+PIMC -> Hands: 3225 | Splits: 95 | Wins: 1326
+Basic Strategy -> Hands: 3214 | Splits: 84 | Wins: 1235
+
+--- Completed 3140/10000 Deals ---
+PIMC -> Hands: 3235 | Splits: 95 | Wins: 1331
+Basic Strategy -> Hands: 3225 | Splits: 85 | Wins: 1237
+
+--- Completed 3150/10000 Deals ---
+PIMC -> Hands: 3245 | Splits: 95 | Wins: 1335
+Basic Strategy -> Hands: 3236 | Splits: 86 | Wins: 1240
+
+--- Completed 3160/10000 Deals ---
+PIMC -> Hands: 3255 | Splits: 95 | Wins: 1341
+Basic Strategy -> Hands: 3246 | Splits: 86 | Wins: 1242
+
+--- Completed 3170/10000 Deals ---
+PIMC -> Hands: 3265 | Splits: 95 | Wins: 1344
+Basic Strategy -> Hands: 3258 | Splits: 88 | Wins: 1249
+
+--- Completed 3180/10000 Deals ---
+PIMC -> Hands: 3275 | Splits: 95 | Wins: 1346
+Basic Strategy -> Hands: 3269 | Splits: 89 | Wins: 1252
+
+--- Completed 3190/10000 Deals ---
+PIMC -> Hands: 3285 | Splits: 95 | Wins: 1350
+Basic Strategy -> Hands: 3279 | Splits: 89 | Wins: 1253
+
+--- Completed 3200/10000 Deals ---
+PIMC -> Hands: 3295 | Splits: 95 | Wins: 1356
+Basic Strategy -> Hands: 3289 | Splits: 89 | Wins: 1256
+
+--- Completed 3210/10000 Deals ---
+PIMC -> Hands: 3305 | Splits: 95 | Wins: 1360
+Basic Strategy -> Hands: 3299 | Splits: 89 | Wins: 1260
+
+--- Completed 3220/10000 Deals ---
+PIMC -> Hands: 3316 | Splits: 96 | Wins: 1363
+Basic Strategy -> Hands: 3310 | Splits: 90 | Wins: 1266
+
+--- Completed 3230/10000 Deals ---
+PIMC -> Hands: 3326 | Splits: 96 | Wins: 1367
+Basic Strategy -> Hands: 3320 | Splits: 90 | Wins: 1270
+
+--- Completed 3240/10000 Deals ---
+PIMC -> Hands: 3337 | Splits: 97 | Wins: 1374
+Basic Strategy -> Hands: 3330 | Splits: 90 | Wins: 1275
+
+--- Completed 3250/10000 Deals ---
+PIMC -> Hands: 3347 | Splits: 97 | Wins: 1376
+Basic Strategy -> Hands: 3340 | Splits: 90 | Wins: 1277
+
+--- Completed 3260/10000 Deals ---
+PIMC -> Hands: 3357 | Splits: 97 | Wins: 1379
+Basic Strategy -> Hands: 3350 | Splits: 90 | Wins: 1281
+
+--- Completed 3270/10000 Deals ---
+PIMC -> Hands: 3367 | Splits: 97 | Wins: 1383
+Basic Strategy -> Hands: 3360 | Splits: 90 | Wins: 1286
+
+--- Completed 3280/10000 Deals ---
+PIMC -> Hands: 3378 | Splits: 98 | Wins: 1390
+Basic Strategy -> Hands: 3370 | Splits: 90 | Wins: 1290
+
+--- Completed 3290/10000 Deals ---
+PIMC -> Hands: 3389 | Splits: 99 | Wins: 1396
+Basic Strategy -> Hands: 3380 | Splits: 90 | Wins: 1293
+
+--- Completed 3300/10000 Deals ---
+PIMC -> Hands: 3399 | Splits: 99 | Wins: 1399
+Basic Strategy -> Hands: 3390 | Splits: 90 | Wins: 1297
+
+--- Completed 3310/10000 Deals ---
+PIMC -> Hands: 3409 | Splits: 99 | Wins: 1403
+Basic Strategy -> Hands: 3400 | Splits: 90 | Wins: 1300
+
+--- Completed 3320/10000 Deals ---
+PIMC -> Hands: 3420 | Splits: 100 | Wins: 1410
+Basic Strategy -> Hands: 3410 | Splits: 90 | Wins: 1305
+
+--- Completed 3330/10000 Deals ---
+PIMC -> Hands: 3430 | Splits: 100 | Wins: 1413
+Basic Strategy -> Hands: 3420 | Splits: 90 | Wins: 1308
+
+--- Completed 3340/10000 Deals ---
+PIMC -> Hands: 3440 | Splits: 100 | Wins: 1418
+Basic Strategy -> Hands: 3430 | Splits: 90 | Wins: 1315
+
+--- Completed 3350/10000 Deals ---
+PIMC -> Hands: 3450 | Splits: 100 | Wins: 1424
+Basic Strategy -> Hands: 3440 | Splits: 90 | Wins: 1320
+
+--- Completed 3360/10000 Deals ---
+PIMC -> Hands: 3461 | Splits: 101 | Wins: 1429
+Basic Strategy -> Hands: 3450 | Splits: 90 | Wins: 1323
+
+--- Completed 3370/10000 Deals ---
+PIMC -> Hands: 3471 | Splits: 101 | Wins: 1435
+Basic Strategy -> Hands: 3460 | Splits: 90 | Wins: 1325
+
+--- Completed 3380/10000 Deals ---
+PIMC -> Hands: 3482 | Splits: 102 | Wins: 1438
+Basic Strategy -> Hands: 3470 | Splits: 90 | Wins: 1328
+
+--- Completed 3390/10000 Deals ---
+PIMC -> Hands: 3493 | Splits: 103 | Wins: 1443
+Basic Strategy -> Hands: 3480 | Splits: 90 | Wins: 1329
+
+--- Completed 3400/10000 Deals ---
+PIMC -> Hands: 3503 | Splits: 103 | Wins: 1447
+Basic Strategy -> Hands: 3492 | Splits: 92 | Wins: 1334
+
+--- Completed 3410/10000 Deals ---
+PIMC -> Hands: 3513 | Splits: 103 | Wins: 1449
+Basic Strategy -> Hands: 3502 | Splits: 92 | Wins: 1339
+
+--- Completed 3420/10000 Deals ---
+PIMC -> Hands: 3523 | Splits: 103 | Wins: 1451
+Basic Strategy -> Hands: 3512 | Splits: 92 | Wins: 1345
+
+--- Completed 3430/10000 Deals ---
+PIMC -> Hands: 3534 | Splits: 104 | Wins: 1454
+Basic Strategy -> Hands: 3522 | Splits: 92 | Wins: 1347
+
+--- Completed 3440/10000 Deals ---
+PIMC -> Hands: 3544 | Splits: 104 | Wins: 1457
+Basic Strategy -> Hands: 3532 | Splits: 92 | Wins: 1351
+
+--- Completed 3450/10000 Deals ---
+PIMC -> Hands: 3554 | Splits: 104 | Wins: 1459
+Basic Strategy -> Hands: 3542 | Splits: 92 | Wins: 1353
+
+--- Completed 3460/10000 Deals ---
+PIMC -> Hands: 3564 | Splits: 104 | Wins: 1462
+Basic Strategy -> Hands: 3552 | Splits: 92 | Wins: 1357
+
+--- Completed 3470/10000 Deals ---
+PIMC -> Hands: 3574 | Splits: 104 | Wins: 1465
+Basic Strategy -> Hands: 3562 | Splits: 92 | Wins: 1360
+
+--- Completed 3480/10000 Deals ---
+PIMC -> Hands: 3584 | Splits: 104 | Wins: 1469
+Basic Strategy -> Hands: 3573 | Splits: 93 | Wins: 1366
+
+--- Completed 3490/10000 Deals ---
+PIMC -> Hands: 3595 | Splits: 105 | Wins: 1475
+Basic Strategy -> Hands: 3583 | Splits: 93 | Wins: 1370
+
+--- Completed 3500/10000 Deals ---
+PIMC -> Hands: 3606 | Splits: 106 | Wins: 1482
+Basic Strategy -> Hands: 3594 | Splits: 94 | Wins: 1373
+
+--- Completed 3510/10000 Deals ---
+PIMC -> Hands: 3616 | Splits: 106 | Wins: 1485
+Basic Strategy -> Hands: 3604 | Splits: 94 | Wins: 1375
+
+--- Completed 3520/10000 Deals ---
+PIMC -> Hands: 3629 | Splits: 109 | Wins: 1491
+Basic Strategy -> Hands: 3614 | Splits: 94 | Wins: 1376
+
+--- Completed 3530/10000 Deals ---
+PIMC -> Hands: 3639 | Splits: 109 | Wins: 1496
+Basic Strategy -> Hands: 3625 | Splits: 95 | Wins: 1383
+
+--- Completed 3540/10000 Deals ---
+PIMC -> Hands: 3650 | Splits: 110 | Wins: 1501
+Basic Strategy -> Hands: 3635 | Splits: 95 | Wins: 1386
+
+--- Completed 3550/10000 Deals ---
+PIMC -> Hands: 3661 | Splits: 111 | Wins: 1507
+Basic Strategy -> Hands: 3646 | Splits: 96 | Wins: 1389
+
+--- Completed 3560/10000 Deals ---
+PIMC -> Hands: 3671 | Splits: 111 | Wins: 1511
+Basic Strategy -> Hands: 3656 | Splits: 96 | Wins: 1394
+
+--- Completed 3570/10000 Deals ---
+PIMC -> Hands: 3681 | Splits: 111 | Wins: 1515
+Basic Strategy -> Hands: 3666 | Splits: 96 | Wins: 1399
+
+--- Completed 3580/10000 Deals ---
+PIMC -> Hands: 3691 | Splits: 111 | Wins: 1519
+Basic Strategy -> Hands: 3676 | Splits: 96 | Wins: 1402
+
+--- Completed 3590/10000 Deals ---
+PIMC -> Hands: 3701 | Splits: 111 | Wins: 1524
+Basic Strategy -> Hands: 3688 | Splits: 98 | Wins: 1408
+
+--- Completed 3600/10000 Deals ---
+PIMC -> Hands: 3711 | Splits: 111 | Wins: 1528
+Basic Strategy -> Hands: 3698 | Splits: 98 | Wins: 1413
+
+--- Completed 3610/10000 Deals ---
+PIMC -> Hands: 3721 | Splits: 111 | Wins: 1533
+Basic Strategy -> Hands: 3709 | Splits: 99 | Wins: 1416
+
+--- Completed 3620/10000 Deals ---
+PIMC -> Hands: 3731 | Splits: 111 | Wins: 1536
+Basic Strategy -> Hands: 3719 | Splits: 99 | Wins: 1421
+
+--- Completed 3630/10000 Deals ---
+PIMC -> Hands: 3741 | Splits: 111 | Wins: 1540
+Basic Strategy -> Hands: 3729 | Splits: 99 | Wins: 1425
+
+--- Completed 3640/10000 Deals ---
+PIMC -> Hands: 3751 | Splits: 111 | Wins: 1546
+Basic Strategy -> Hands: 3739 | Splits: 99 | Wins: 1429
+
+--- Completed 3650/10000 Deals ---
+PIMC -> Hands: 3761 | Splits: 111 | Wins: 1550
+Basic Strategy -> Hands: 3749 | Splits: 99 | Wins: 1431
+
+--- Completed 3660/10000 Deals ---
+PIMC -> Hands: 3771 | Splits: 111 | Wins: 1557
+Basic Strategy -> Hands: 3760 | Splits: 100 | Wins: 1434
+
+--- Completed 3670/10000 Deals ---
+PIMC -> Hands: 3781 | Splits: 111 | Wins: 1562
+Basic Strategy -> Hands: 3771 | Splits: 101 | Wins: 1438
+
+--- Completed 3680/10000 Deals ---
+PIMC -> Hands: 3791 | Splits: 111 | Wins: 1565
+Basic Strategy -> Hands: 3781 | Splits: 101 | Wins: 1440
+
+--- Completed 3690/10000 Deals ---
+PIMC -> Hands: 3802 | Splits: 112 | Wins: 1567
+Basic Strategy -> Hands: 3791 | Splits: 101 | Wins: 1445
+
+--- Completed 3700/10000 Deals ---
+PIMC -> Hands: 3812 | Splits: 112 | Wins: 1569
+Basic Strategy -> Hands: 3803 | Splits: 103 | Wins: 1450
+
+--- Completed 3710/10000 Deals ---
+PIMC -> Hands: 3822 | Splits: 112 | Wins: 1573
+Basic Strategy -> Hands: 3814 | Splits: 104 | Wins: 1453
+
+--- Completed 3720/10000 Deals ---
+PIMC -> Hands: 3832 | Splits: 112 | Wins: 1577
+Basic Strategy -> Hands: 3825 | Splits: 105 | Wins: 1455
+
+--- Completed 3730/10000 Deals ---
+PIMC -> Hands: 3842 | Splits: 112 | Wins: 1583
+Basic Strategy -> Hands: 3835 | Splits: 105 | Wins: 1458
+
+--- Completed 3740/10000 Deals ---
+PIMC -> Hands: 3852 | Splits: 112 | Wins: 1587
+Basic Strategy -> Hands: 3845 | Splits: 105 | Wins: 1463
+
+--- Completed 3750/10000 Deals ---
+PIMC -> Hands: 3863 | Splits: 113 | Wins: 1591
+Basic Strategy -> Hands: 3855 | Splits: 105 | Wins: 1465
+
+--- Completed 3760/10000 Deals ---
+PIMC -> Hands: 3874 | Splits: 114 | Wins: 1595
+Basic Strategy -> Hands: 3866 | Splits: 106 | Wins: 1470
+
+--- Completed 3770/10000 Deals ---
+PIMC -> Hands: 3884 | Splits: 114 | Wins: 1600
+Basic Strategy -> Hands: 3876 | Splits: 106 | Wins: 1473
+
+--- Completed 3780/10000 Deals ---
+PIMC -> Hands: 3894 | Splits: 114 | Wins: 1608
+Basic Strategy -> Hands: 3886 | Splits: 106 | Wins: 1479
+
+--- Completed 3790/10000 Deals ---
+PIMC -> Hands: 3904 | Splits: 114 | Wins: 1613
+Basic Strategy -> Hands: 3896 | Splits: 106 | Wins: 1483
+
+--- Completed 3800/10000 Deals ---
+PIMC -> Hands: 3915 | Splits: 115 | Wins: 1615
+Basic Strategy -> Hands: 3906 | Splits: 106 | Wins: 1486
+
+--- Completed 3810/10000 Deals ---
+PIMC -> Hands: 3925 | Splits: 115 | Wins: 1619
+Basic Strategy -> Hands: 3916 | Splits: 106 | Wins: 1488
+
+--- Completed 3820/10000 Deals ---
+PIMC -> Hands: 3935 | Splits: 115 | Wins: 1622
+Basic Strategy -> Hands: 3926 | Splits: 106 | Wins: 1492
+
+--- Completed 3830/10000 Deals ---
+PIMC -> Hands: 3945 | Splits: 115 | Wins: 1627
+Basic Strategy -> Hands: 3936 | Splits: 106 | Wins: 1495
+
+--- Completed 3840/10000 Deals ---
+PIMC -> Hands: 3955 | Splits: 115 | Wins: 1634
+Basic Strategy -> Hands: 3946 | Splits: 106 | Wins: 1498
+
+--- Completed 3850/10000 Deals ---
+PIMC -> Hands: 3967 | Splits: 117 | Wins: 1640
+Basic Strategy -> Hands: 3956 | Splits: 106 | Wins: 1500
+
+--- Completed 3860/10000 Deals ---
+PIMC -> Hands: 3977 | Splits: 117 | Wins: 1646
+Basic Strategy -> Hands: 3967 | Splits: 107 | Wins: 1505
+
+--- Completed 3870/10000 Deals ---
+PIMC -> Hands: 3987 | Splits: 117 | Wins: 1651
+Basic Strategy -> Hands: 3977 | Splits: 107 | Wins: 1507
+
+--- Completed 3880/10000 Deals ---
+PIMC -> Hands: 3998 | Splits: 118 | Wins: 1656
+Basic Strategy -> Hands: 3987 | Splits: 107 | Wins: 1510
+
+--- Completed 3890/10000 Deals ---
+PIMC -> Hands: 4009 | Splits: 119 | Wins: 1661
+Basic Strategy -> Hands: 3997 | Splits: 107 | Wins: 1514
+
+--- Completed 3900/10000 Deals ---
+PIMC -> Hands: 4019 | Splits: 119 | Wins: 1662
+Basic Strategy -> Hands: 4007 | Splits: 107 | Wins: 1519
+
+--- Completed 3910/10000 Deals ---
+PIMC -> Hands: 4029 | Splits: 119 | Wins: 1666
+Basic Strategy -> Hands: 4017 | Splits: 107 | Wins: 1522
+
+--- Completed 3920/10000 Deals ---
+PIMC -> Hands: 4039 | Splits: 119 | Wins: 1668
+Basic Strategy -> Hands: 4027 | Splits: 107 | Wins: 1526
+
+--- Completed 3930/10000 Deals ---
+PIMC -> Hands: 4049 | Splits: 119 | Wins: 1673
+Basic Strategy -> Hands: 4037 | Splits: 107 | Wins: 1529
+
+--- Completed 3940/10000 Deals ---
+PIMC -> Hands: 4059 | Splits: 119 | Wins: 1680
+Basic Strategy -> Hands: 4047 | Splits: 107 | Wins: 1532
+
+--- Completed 3950/10000 Deals ---
+PIMC -> Hands: 4069 | Splits: 119 | Wins: 1685
+Basic Strategy -> Hands: 4057 | Splits: 107 | Wins: 1538
+
+--- Completed 3960/10000 Deals ---
+PIMC -> Hands: 4079 | Splits: 119 | Wins: 1690
+Basic Strategy -> Hands: 4067 | Splits: 107 | Wins: 1541
+
+--- Completed 3970/10000 Deals ---
+PIMC -> Hands: 4090 | Splits: 120 | Wins: 1694
+Basic Strategy -> Hands: 4078 | Splits: 108 | Wins: 1546
+
+--- Completed 3980/10000 Deals ---
+PIMC -> Hands: 4100 | Splits: 120 | Wins: 1697
+Basic Strategy -> Hands: 4088 | Splits: 108 | Wins: 1549
+
+--- Completed 3990/10000 Deals ---
+PIMC -> Hands: 4111 | Splits: 121 | Wins: 1703
+Basic Strategy -> Hands: 4098 | Splits: 108 | Wins: 1555
+
+--- Completed 4000/10000 Deals ---
+PIMC -> Hands: 4121 | Splits: 121 | Wins: 1708
+Basic Strategy -> Hands: 4108 | Splits: 108 | Wins: 1558
+
+--- Completed 4010/10000 Deals ---
+PIMC -> Hands: 4131 | Splits: 121 | Wins: 1712
+Basic Strategy -> Hands: 4118 | Splits: 108 | Wins: 1561
+
+--- Completed 4020/10000 Deals ---
+PIMC -> Hands: 4141 | Splits: 121 | Wins: 1716
+Basic Strategy -> Hands: 4128 | Splits: 108 | Wins: 1564
+
+--- Completed 4030/10000 Deals ---
+PIMC -> Hands: 4151 | Splits: 121 | Wins: 1719
+Basic Strategy -> Hands: 4138 | Splits: 108 | Wins: 1567
+
+--- Completed 4040/10000 Deals ---
+PIMC -> Hands: 4161 | Splits: 121 | Wins: 1723
+Basic Strategy -> Hands: 4148 | Splits: 108 | Wins: 1571
+
+--- Completed 4050/10000 Deals ---
+PIMC -> Hands: 4171 | Splits: 121 | Wins: 1727
+Basic Strategy -> Hands: 4158 | Splits: 108 | Wins: 1573
+
+--- Completed 4060/10000 Deals ---
+PIMC -> Hands: 4182 | Splits: 122 | Wins: 1733
+Basic Strategy -> Hands: 4168 | Splits: 108 | Wins: 1577
+
+--- Completed 4070/10000 Deals ---
+PIMC -> Hands: 4192 | Splits: 122 | Wins: 1738
+Basic Strategy -> Hands: 4178 | Splits: 108 | Wins: 1581
+
+--- Completed 4080/10000 Deals ---
+PIMC -> Hands: 4203 | Splits: 123 | Wins: 1740
+Basic Strategy -> Hands: 4188 | Splits: 108 | Wins: 1583
+
+--- Completed 4090/10000 Deals ---
+PIMC -> Hands: 4213 | Splits: 123 | Wins: 1745
+Basic Strategy -> Hands: 4198 | Splits: 108 | Wins: 1586
+
+--- Completed 4100/10000 Deals ---
+PIMC -> Hands: 4223 | Splits: 123 | Wins: 1747
+Basic Strategy -> Hands: 4211 | Splits: 111 | Wins: 1595
+
+--- Completed 4110/10000 Deals ---
+PIMC -> Hands: 4233 | Splits: 123 | Wins: 1749
+Basic Strategy -> Hands: 4221 | Splits: 111 | Wins: 1600
+
+--- Completed 4120/10000 Deals ---
+PIMC -> Hands: 4243 | Splits: 123 | Wins: 1752
+Basic Strategy -> Hands: 4231 | Splits: 111 | Wins: 1604
+
+--- Completed 4130/10000 Deals ---
+PIMC -> Hands: 4253 | Splits: 123 | Wins: 1757
+Basic Strategy -> Hands: 4241 | Splits: 111 | Wins: 1608
+
+--- Completed 4140/10000 Deals ---
+PIMC -> Hands: 4263 | Splits: 123 | Wins: 1762
+Basic Strategy -> Hands: 4252 | Splits: 112 | Wins: 1612
+
+--- Completed 4150/10000 Deals ---
+PIMC -> Hands: 4273 | Splits: 123 | Wins: 1766
+Basic Strategy -> Hands: 4262 | Splits: 112 | Wins: 1616
+
+--- Completed 4160/10000 Deals ---
+PIMC -> Hands: 4283 | Splits: 123 | Wins: 1770
+Basic Strategy -> Hands: 4272 | Splits: 112 | Wins: 1623
+
+--- Completed 4170/10000 Deals ---
+PIMC -> Hands: 4294 | Splits: 124 | Wins: 1774
+Basic Strategy -> Hands: 4282 | Splits: 112 | Wins: 1628
+
+--- Completed 4180/10000 Deals ---
+PIMC -> Hands: 4304 | Splits: 124 | Wins: 1776
+Basic Strategy -> Hands: 4292 | Splits: 112 | Wins: 1635
+
+--- Completed 4190/10000 Deals ---
+PIMC -> Hands: 4315 | Splits: 125 | Wins: 1780
+Basic Strategy -> Hands: 4303 | Splits: 113 | Wins: 1642
+
+--- Completed 4200/10000 Deals ---
+PIMC -> Hands: 4325 | Splits: 125 | Wins: 1787
+Basic Strategy -> Hands: 4313 | Splits: 113 | Wins: 1646
+
+--- Completed 4210/10000 Deals ---
+PIMC -> Hands: 4336 | Splits: 126 | Wins: 1793
+Basic Strategy -> Hands: 4323 | Splits: 113 | Wins: 1649
+
+--- Completed 4220/10000 Deals ---
+PIMC -> Hands: 4347 | Splits: 127 | Wins: 1800
+Basic Strategy -> Hands: 4333 | Splits: 113 | Wins: 1652
+
+--- Completed 4230/10000 Deals ---
+PIMC -> Hands: 4358 | Splits: 128 | Wins: 1802
+Basic Strategy -> Hands: 4343 | Splits: 113 | Wins: 1655
+
+--- Completed 4240/10000 Deals ---
+PIMC -> Hands: 4368 | Splits: 128 | Wins: 1805
+Basic Strategy -> Hands: 4353 | Splits: 113 | Wins: 1660
+
+--- Completed 4250/10000 Deals ---
+PIMC -> Hands: 4379 | Splits: 129 | Wins: 1810
+Basic Strategy -> Hands: 4363 | Splits: 113 | Wins: 1663
+
+--- Completed 4260/10000 Deals ---
+PIMC -> Hands: 4390 | Splits: 130 | Wins: 1816
+Basic Strategy -> Hands: 4373 | Splits: 113 | Wins: 1670
+
+--- Completed 4270/10000 Deals ---
+PIMC -> Hands: 4400 | Splits: 130 | Wins: 1820
+Basic Strategy -> Hands: 4384 | Splits: 114 | Wins: 1675
+
+--- Completed 4280/10000 Deals ---
+PIMC -> Hands: 4410 | Splits: 130 | Wins: 1823
+Basic Strategy -> Hands: 4394 | Splits: 114 | Wins: 1679
+
+--- Completed 4290/10000 Deals ---
+PIMC -> Hands: 4420 | Splits: 130 | Wins: 1826
+Basic Strategy -> Hands: 4405 | Splits: 115 | Wins: 1683
+
+--- Completed 4300/10000 Deals ---
+PIMC -> Hands: 4431 | Splits: 131 | Wins: 1833
+Basic Strategy -> Hands: 4415 | Splits: 115 | Wins: 1684
+
+--- Completed 4310/10000 Deals ---
+PIMC -> Hands: 4441 | Splits: 131 | Wins: 1834
+Basic Strategy -> Hands: 4425 | Splits: 115 | Wins: 1686
+
+--- Completed 4320/10000 Deals ---
+PIMC -> Hands: 4452 | Splits: 132 | Wins: 1840
+Basic Strategy -> Hands: 4435 | Splits: 115 | Wins: 1692
+
+--- Completed 4330/10000 Deals ---
+PIMC -> Hands: 4462 | Splits: 132 | Wins: 1844
+Basic Strategy -> Hands: 4445 | Splits: 115 | Wins: 1698
+
+--- Completed 4340/10000 Deals ---
+PIMC -> Hands: 4472 | Splits: 132 | Wins: 1848
+Basic Strategy -> Hands: 4456 | Splits: 116 | Wins: 1704
+
+--- Completed 4350/10000 Deals ---
+PIMC -> Hands: 4482 | Splits: 132 | Wins: 1853
+Basic Strategy -> Hands: 4466 | Splits: 116 | Wins: 1706
+
+--- Completed 4360/10000 Deals ---
+PIMC -> Hands: 4492 | Splits: 132 | Wins: 1860
+Basic Strategy -> Hands: 4476 | Splits: 116 | Wins: 1709
+
+--- Completed 4370/10000 Deals ---
+PIMC -> Hands: 4502 | Splits: 132 | Wins: 1863
+Basic Strategy -> Hands: 4486 | Splits: 116 | Wins: 1711
+
+--- Completed 4380/10000 Deals ---
+PIMC -> Hands: 4512 | Splits: 132 | Wins: 1867
+Basic Strategy -> Hands: 4497 | Splits: 117 | Wins: 1718
+
+--- Completed 4390/10000 Deals ---
+PIMC -> Hands: 4522 | Splits: 132 | Wins: 1873
+Basic Strategy -> Hands: 4507 | Splits: 117 | Wins: 1723
+
+--- Completed 4400/10000 Deals ---
+PIMC -> Hands: 4532 | Splits: 132 | Wins: 1876
+Basic Strategy -> Hands: 4517 | Splits: 117 | Wins: 1729
+
+--- Completed 4410/10000 Deals ---
+PIMC -> Hands: 4542 | Splits: 132 | Wins: 1880
+Basic Strategy -> Hands: 4528 | Splits: 118 | Wins: 1732
+
+--- Completed 4420/10000 Deals ---
+PIMC -> Hands: 4552 | Splits: 132 | Wins: 1883
+Basic Strategy -> Hands: 4538 | Splits: 118 | Wins: 1739
+
+--- Completed 4430/10000 Deals ---
+PIMC -> Hands: 4562 | Splits: 132 | Wins: 1886
+Basic Strategy -> Hands: 4548 | Splits: 118 | Wins: 1744
+
+--- Completed 4440/10000 Deals ---
+PIMC -> Hands: 4573 | Splits: 133 | Wins: 1888
+Basic Strategy -> Hands: 4559 | Splits: 119 | Wins: 1748
+
+--- Completed 4450/10000 Deals ---
+PIMC -> Hands: 4583 | Splits: 133 | Wins: 1894
+Basic Strategy -> Hands: 4569 | Splits: 119 | Wins: 1753
+
+--- Completed 4460/10000 Deals ---
+PIMC -> Hands: 4593 | Splits: 133 | Wins: 1895
+Basic Strategy -> Hands: 4580 | Splits: 120 | Wins: 1759
+
+--- Completed 4470/10000 Deals ---
+PIMC -> Hands: 4603 | Splits: 133 | Wins: 1897
+Basic Strategy -> Hands: 4590 | Splits: 120 | Wins: 1767
+
+--- Completed 4480/10000 Deals ---
+PIMC -> Hands: 4613 | Splits: 133 | Wins: 1900
+Basic Strategy -> Hands: 4600 | Splits: 120 | Wins: 1773
+
+--- Completed 4490/10000 Deals ---
+PIMC -> Hands: 4623 | Splits: 133 | Wins: 1903
+Basic Strategy -> Hands: 4611 | Splits: 121 | Wins: 1780
+
+--- Completed 4500/10000 Deals ---
+PIMC -> Hands: 4633 | Splits: 133 | Wins: 1908
+Basic Strategy -> Hands: 4621 | Splits: 121 | Wins: 1783
+
+--- Completed 4510/10000 Deals ---
+PIMC -> Hands: 4643 | Splits: 133 | Wins: 1913
+Basic Strategy -> Hands: 4632 | Splits: 122 | Wins: 1788
+
+--- Completed 4520/10000 Deals ---
+PIMC -> Hands: 4653 | Splits: 133 | Wins: 1918
+Basic Strategy -> Hands: 4642 | Splits: 122 | Wins: 1790
+
+--- Completed 4530/10000 Deals ---
+PIMC -> Hands: 4663 | Splits: 133 | Wins: 1923
+Basic Strategy -> Hands: 4653 | Splits: 123 | Wins: 1795
+
+--- Completed 4540/10000 Deals ---
+PIMC -> Hands: 4674 | Splits: 134 | Wins: 1925
+Basic Strategy -> Hands: 4663 | Splits: 123 | Wins: 1797
+
+--- Completed 4550/10000 Deals ---
+PIMC -> Hands: 4685 | Splits: 135 | Wins: 1930
+Basic Strategy -> Hands: 4674 | Splits: 124 | Wins: 1801
+
+--- Completed 4560/10000 Deals ---
+PIMC -> Hands: 4695 | Splits: 135 | Wins: 1934
+Basic Strategy -> Hands: 4686 | Splits: 126 | Wins: 1806
+
+--- Completed 4570/10000 Deals ---
+PIMC -> Hands: 4705 | Splits: 135 | Wins: 1937
+Basic Strategy -> Hands: 4696 | Splits: 126 | Wins: 1810
+
+--- Completed 4580/10000 Deals ---
+PIMC -> Hands: 4715 | Splits: 135 | Wins: 1941
+Basic Strategy -> Hands: 4706 | Splits: 126 | Wins: 1813
+
+--- Completed 4590/10000 Deals ---
+PIMC -> Hands: 4725 | Splits: 135 | Wins: 1946
+Basic Strategy -> Hands: 4716 | Splits: 126 | Wins: 1818
+
+--- Completed 4600/10000 Deals ---
+PIMC -> Hands: 4736 | Splits: 136 | Wins: 1953
+Basic Strategy -> Hands: 4726 | Splits: 126 | Wins: 1821
+
+--- Completed 4610/10000 Deals ---
+PIMC -> Hands: 4746 | Splits: 136 | Wins: 1956
+Basic Strategy -> Hands: 4736 | Splits: 126 | Wins: 1822
+
+--- Completed 4620/10000 Deals ---
+PIMC -> Hands: 4756 | Splits: 136 | Wins: 1959
+Basic Strategy -> Hands: 4746 | Splits: 126 | Wins: 1825
+
+--- Completed 4630/10000 Deals ---
+PIMC -> Hands: 4766 | Splits: 136 | Wins: 1962
+Basic Strategy -> Hands: 4757 | Splits: 127 | Wins: 1829
+
+--- Completed 4640/10000 Deals ---
+PIMC -> Hands: 4776 | Splits: 136 | Wins: 1966
+Basic Strategy -> Hands: 4767 | Splits: 127 | Wins: 1832
+
+--- Completed 4650/10000 Deals ---
+PIMC -> Hands: 4786 | Splits: 136 | Wins: 1971
+Basic Strategy -> Hands: 4777 | Splits: 127 | Wins: 1836
+
+--- Completed 4660/10000 Deals ---
+PIMC -> Hands: 4798 | Splits: 138 | Wins: 1976
+Basic Strategy -> Hands: 4787 | Splits: 127 | Wins: 1839
+
+--- Completed 4670/10000 Deals ---
+PIMC -> Hands: 4810 | Splits: 140 | Wins: 1981
+Basic Strategy -> Hands: 4797 | Splits: 127 | Wins: 1842
+
+--- Completed 4680/10000 Deals ---
+PIMC -> Hands: 4820 | Splits: 140 | Wins: 1984
+Basic Strategy -> Hands: 4807 | Splits: 127 | Wins: 1847
+
+--- Completed 4690/10000 Deals ---
+PIMC -> Hands: 4830 | Splits: 140 | Wins: 1990
+Basic Strategy -> Hands: 4817 | Splits: 127 | Wins: 1852
+
+--- Completed 4700/10000 Deals ---
+PIMC -> Hands: 4840 | Splits: 140 | Wins: 1997
+Basic Strategy -> Hands: 4828 | Splits: 128 | Wins: 1856
+
+--- Completed 4710/10000 Deals ---
+PIMC -> Hands: 4850 | Splits: 140 | Wins: 2000
+Basic Strategy -> Hands: 4838 | Splits: 128 | Wins: 1859
+
+--- Completed 4720/10000 Deals ---
+PIMC -> Hands: 4860 | Splits: 140 | Wins: 2003
+Basic Strategy -> Hands: 4848 | Splits: 128 | Wins: 1861
+
+--- Completed 4730/10000 Deals ---
+PIMC -> Hands: 4872 | Splits: 142 | Wins: 2010
+Basic Strategy -> Hands: 4858 | Splits: 128 | Wins: 1866
+
+--- Completed 4740/10000 Deals ---
+PIMC -> Hands: 4883 | Splits: 143 | Wins: 2014
+Basic Strategy -> Hands: 4868 | Splits: 128 | Wins: 1873
+
+--- Completed 4750/10000 Deals ---
+PIMC -> Hands: 4894 | Splits: 144 | Wins: 2016
+Basic Strategy -> Hands: 4878 | Splits: 128 | Wins: 1877
+
+--- Completed 4760/10000 Deals ---
+PIMC -> Hands: 4904 | Splits: 144 | Wins: 2021
+Basic Strategy -> Hands: 4888 | Splits: 128 | Wins: 1881
+
+--- Completed 4770/10000 Deals ---
+PIMC -> Hands: 4914 | Splits: 144 | Wins: 2025
+Basic Strategy -> Hands: 4898 | Splits: 128 | Wins: 1884
+
+--- Completed 4780/10000 Deals ---
+PIMC -> Hands: 4924 | Splits: 144 | Wins: 2030
+Basic Strategy -> Hands: 4908 | Splits: 128 | Wins: 1888
+
+--- Completed 4790/10000 Deals ---
+PIMC -> Hands: 4935 | Splits: 145 | Wins: 2033
+Basic Strategy -> Hands: 4918 | Splits: 128 | Wins: 1892
+
+--- Completed 4800/10000 Deals ---
+PIMC -> Hands: 4945 | Splits: 145 | Wins: 2037
+Basic Strategy -> Hands: 4928 | Splits: 128 | Wins: 1896
+
+--- Completed 4810/10000 Deals ---
+PIMC -> Hands: 4955 | Splits: 145 | Wins: 2042
+Basic Strategy -> Hands: 4939 | Splits: 129 | Wins: 1901
+
+--- Completed 4820/10000 Deals ---
+PIMC -> Hands: 4965 | Splits: 145 | Wins: 2048
+Basic Strategy -> Hands: 4950 | Splits: 130 | Wins: 1907
+
+--- Completed 4830/10000 Deals ---
+PIMC -> Hands: 4975 | Splits: 145 | Wins: 2052
+Basic Strategy -> Hands: 4961 | Splits: 131 | Wins: 1911
+
+--- Completed 4840/10000 Deals ---
+PIMC -> Hands: 4985 | Splits: 145 | Wins: 2056
+Basic Strategy -> Hands: 4972 | Splits: 132 | Wins: 1913
+
+--- Completed 4850/10000 Deals ---
+PIMC -> Hands: 4995 | Splits: 145 | Wins: 2062
+Basic Strategy -> Hands: 4982 | Splits: 132 | Wins: 1918
+
+--- Completed 4860/10000 Deals ---
+PIMC -> Hands: 5005 | Splits: 145 | Wins: 2071
+Basic Strategy -> Hands: 4992 | Splits: 132 | Wins: 1920
+
+--- Completed 4870/10000 Deals ---
+PIMC -> Hands: 5015 | Splits: 145 | Wins: 2076
+Basic Strategy -> Hands: 5002 | Splits: 132 | Wins: 1922
+
+--- Completed 4880/10000 Deals ---
+PIMC -> Hands: 5025 | Splits: 145 | Wins: 2080
+Basic Strategy -> Hands: 5012 | Splits: 132 | Wins: 1924
+
+--- Completed 4890/10000 Deals ---
+PIMC -> Hands: 5036 | Splits: 146 | Wins: 2085
+Basic Strategy -> Hands: 5022 | Splits: 132 | Wins: 1929
+
+--- Completed 4900/10000 Deals ---
+PIMC -> Hands: 5047 | Splits: 147 | Wins: 2092
+Basic Strategy -> Hands: 5032 | Splits: 132 | Wins: 1931
+
+--- Completed 4910/10000 Deals ---
+PIMC -> Hands: 5057 | Splits: 147 | Wins: 2098
+Basic Strategy -> Hands: 5042 | Splits: 132 | Wins: 1935
+
+--- Completed 4920/10000 Deals ---
+PIMC -> Hands: 5067 | Splits: 147 | Wins: 2099
+Basic Strategy -> Hands: 5052 | Splits: 132 | Wins: 1939
+
+--- Completed 4930/10000 Deals ---
+PIMC -> Hands: 5077 | Splits: 147 | Wins: 2104
+Basic Strategy -> Hands: 5062 | Splits: 132 | Wins: 1943
+
+--- Completed 4940/10000 Deals ---
+PIMC -> Hands: 5087 | Splits: 147 | Wins: 2106
+Basic Strategy -> Hands: 5072 | Splits: 132 | Wins: 1946
+
+--- Completed 4950/10000 Deals ---
+PIMC -> Hands: 5097 | Splits: 147 | Wins: 2112
+Basic Strategy -> Hands: 5082 | Splits: 132 | Wins: 1947
+
+--- Completed 4960/10000 Deals ---
+PIMC -> Hands: 5108 | Splits: 148 | Wins: 2117
+Basic Strategy -> Hands: 5092 | Splits: 132 | Wins: 1949
+
+--- Completed 4970/10000 Deals ---
+PIMC -> Hands: 5118 | Splits: 148 | Wins: 2123
+Basic Strategy -> Hands: 5102 | Splits: 132 | Wins: 1951
+
+--- Completed 4980/10000 Deals ---
+PIMC -> Hands: 5128 | Splits: 148 | Wins: 2128
+Basic Strategy -> Hands: 5113 | Splits: 133 | Wins: 1954
+
+--- Completed 4990/10000 Deals ---
+PIMC -> Hands: 5139 | Splits: 149 | Wins: 2134
+Basic Strategy -> Hands: 5124 | Splits: 134 | Wins: 1956
+
+--- Completed 5000/10000 Deals ---
+PIMC -> Hands: 5149 | Splits: 149 | Wins: 2138
+Basic Strategy -> Hands: 5135 | Splits: 135 | Wins: 1962
+
+--- Completed 5010/10000 Deals ---
+PIMC -> Hands: 5160 | Splits: 150 | Wins: 2140
+Basic Strategy -> Hands: 5145 | Splits: 135 | Wins: 1966
+
+--- Completed 5020/10000 Deals ---
+PIMC -> Hands: 5170 | Splits: 150 | Wins: 2143
+Basic Strategy -> Hands: 5155 | Splits: 135 | Wins: 1971
+
+--- Completed 5030/10000 Deals ---
+PIMC -> Hands: 5180 | Splits: 150 | Wins: 2146
+Basic Strategy -> Hands: 5166 | Splits: 136 | Wins: 1977
+
+--- Completed 5040/10000 Deals ---
+PIMC -> Hands: 5190 | Splits: 150 | Wins: 2149
+Basic Strategy -> Hands: 5176 | Splits: 136 | Wins: 1979
+
+--- Completed 5050/10000 Deals ---
+PIMC -> Hands: 5200 | Splits: 150 | Wins: 2152
+Basic Strategy -> Hands: 5187 | Splits: 137 | Wins: 1984
+
+--- Completed 5060/10000 Deals ---
+PIMC -> Hands: 5210 | Splits: 150 | Wins: 2157
+Basic Strategy -> Hands: 5197 | Splits: 137 | Wins: 1987
+
+--- Completed 5070/10000 Deals ---
+PIMC -> Hands: 5220 | Splits: 150 | Wins: 2162
+Basic Strategy -> Hands: 5207 | Splits: 137 | Wins: 1989
+
+--- Completed 5080/10000 Deals ---
+PIMC -> Hands: 5231 | Splits: 151 | Wins: 2165
+Basic Strategy -> Hands: 5217 | Splits: 137 | Wins: 1997
+
+--- Completed 5090/10000 Deals ---
+PIMC -> Hands: 5242 | Splits: 152 | Wins: 2169
+Basic Strategy -> Hands: 5227 | Splits: 137 | Wins: 2002
+
+--- Completed 5100/10000 Deals ---
+PIMC -> Hands: 5253 | Splits: 153 | Wins: 2175
+Basic Strategy -> Hands: 5238 | Splits: 138 | Wins: 2006
+
+--- Completed 5110/10000 Deals ---
+PIMC -> Hands: 5264 | Splits: 154 | Wins: 2182
+Basic Strategy -> Hands: 5248 | Splits: 138 | Wins: 2012
+
+--- Completed 5120/10000 Deals ---
+PIMC -> Hands: 5275 | Splits: 155 | Wins: 2188
+Basic Strategy -> Hands: 5258 | Splits: 138 | Wins: 2016
+
+--- Completed 5130/10000 Deals ---
+PIMC -> Hands: 5285 | Splits: 155 | Wins: 2194
+Basic Strategy -> Hands: 5268 | Splits: 138 | Wins: 2021
+
+--- Completed 5140/10000 Deals ---
+PIMC -> Hands: 5295 | Splits: 155 | Wins: 2198
+Basic Strategy -> Hands: 5278 | Splits: 138 | Wins: 2026
+
+--- Completed 5150/10000 Deals ---
+PIMC -> Hands: 5306 | Splits: 156 | Wins: 2202
+Basic Strategy -> Hands: 5288 | Splits: 138 | Wins: 2030
+
+--- Completed 5160/10000 Deals ---
+PIMC -> Hands: 5318 | Splits: 158 | Wins: 2205
+Basic Strategy -> Hands: 5298 | Splits: 138 | Wins: 2033
+
+--- Completed 5170/10000 Deals ---
+PIMC -> Hands: 5328 | Splits: 158 | Wins: 2210
+Basic Strategy -> Hands: 5308 | Splits: 138 | Wins: 2036
+
+--- Completed 5180/10000 Deals ---
+PIMC -> Hands: 5338 | Splits: 158 | Wins: 2213
+Basic Strategy -> Hands: 5318 | Splits: 138 | Wins: 2041
+
+--- Completed 5190/10000 Deals ---
+PIMC -> Hands: 5348 | Splits: 158 | Wins: 2218
+Basic Strategy -> Hands: 5330 | Splits: 140 | Wins: 2045
+
+--- Completed 5200/10000 Deals ---
+PIMC -> Hands: 5358 | Splits: 158 | Wins: 2222
+Basic Strategy -> Hands: 5340 | Splits: 140 | Wins: 2049
+
+--- Completed 5210/10000 Deals ---
+PIMC -> Hands: 5368 | Splits: 158 | Wins: 2228
+Basic Strategy -> Hands: 5351 | Splits: 141 | Wins: 2053
+
+--- Completed 5220/10000 Deals ---
+PIMC -> Hands: 5380 | Splits: 160 | Wins: 2231
+Basic Strategy -> Hands: 5361 | Splits: 141 | Wins: 2054
+
+--- Completed 5230/10000 Deals ---
+PIMC -> Hands: 5391 | Splits: 161 | Wins: 2236
+Basic Strategy -> Hands: 5371 | Splits: 141 | Wins: 2058
+
+--- Completed 5240/10000 Deals ---
+PIMC -> Hands: 5402 | Splits: 162 | Wins: 2240
+Basic Strategy -> Hands: 5381 | Splits: 141 | Wins: 2064
+
+--- Completed 5250/10000 Deals ---
+PIMC -> Hands: 5412 | Splits: 162 | Wins: 2245
+Basic Strategy -> Hands: 5391 | Splits: 141 | Wins: 2069
+
+--- Completed 5260/10000 Deals ---
+PIMC -> Hands: 5423 | Splits: 163 | Wins: 2248
+Basic Strategy -> Hands: 5401 | Splits: 141 | Wins: 2072
+
+--- Completed 5270/10000 Deals ---
+PIMC -> Hands: 5433 | Splits: 163 | Wins: 2253
+Basic Strategy -> Hands: 5411 | Splits: 141 | Wins: 2077
+
+--- Completed 5280/10000 Deals ---
+PIMC -> Hands: 5443 | Splits: 163 | Wins: 2256
+Basic Strategy -> Hands: 5422 | Splits: 142 | Wins: 2081
+
+--- Completed 5290/10000 Deals ---
+PIMC -> Hands: 5453 | Splits: 163 | Wins: 2259
+Basic Strategy -> Hands: 5433 | Splits: 143 | Wins: 2085
+
+--- Completed 5300/10000 Deals ---
+PIMC -> Hands: 5463 | Splits: 163 | Wins: 2265
+Basic Strategy -> Hands: 5443 | Splits: 143 | Wins: 2089
+
+--- Completed 5310/10000 Deals ---
+PIMC -> Hands: 5473 | Splits: 163 | Wins: 2268
+Basic Strategy -> Hands: 5453 | Splits: 143 | Wins: 2094
+
+--- Completed 5320/10000 Deals ---
+PIMC -> Hands: 5483 | Splits: 163 | Wins: 2272
+Basic Strategy -> Hands: 5463 | Splits: 143 | Wins: 2097
+
+--- Completed 5330/10000 Deals ---
+PIMC -> Hands: 5493 | Splits: 163 | Wins: 2276
+Basic Strategy -> Hands: 5473 | Splits: 143 | Wins: 2100
+
+--- Completed 5340/10000 Deals ---
+PIMC -> Hands: 5503 | Splits: 163 | Wins: 2279
+Basic Strategy -> Hands: 5484 | Splits: 144 | Wins: 2101
+
+--- Completed 5350/10000 Deals ---
+PIMC -> Hands: 5513 | Splits: 163 | Wins: 2284
+Basic Strategy -> Hands: 5494 | Splits: 144 | Wins: 2107
+
+--- Completed 5360/10000 Deals ---
+PIMC -> Hands: 5524 | Splits: 164 | Wins: 2288
+Basic Strategy -> Hands: 5504 | Splits: 144 | Wins: 2112
+
+--- Completed 5370/10000 Deals ---
+PIMC -> Hands: 5534 | Splits: 164 | Wins: 2291
+Basic Strategy -> Hands: 5514 | Splits: 144 | Wins: 2114
+
+--- Completed 5380/10000 Deals ---
+PIMC -> Hands: 5544 | Splits: 164 | Wins: 2296
+Basic Strategy -> Hands: 5524 | Splits: 144 | Wins: 2118
+
+--- Completed 5390/10000 Deals ---
+PIMC -> Hands: 5554 | Splits: 164 | Wins: 2299
+Basic Strategy -> Hands: 5535 | Splits: 145 | Wins: 2123
+
+--- Completed 5400/10000 Deals ---
+PIMC -> Hands: 5564 | Splits: 164 | Wins: 2301
+Basic Strategy -> Hands: 5545 | Splits: 145 | Wins: 2128
+
+--- Completed 5410/10000 Deals ---
+PIMC -> Hands: 5574 | Splits: 164 | Wins: 2302
+Basic Strategy -> Hands: 5555 | Splits: 145 | Wins: 2130
+
+--- Completed 5420/10000 Deals ---
+PIMC -> Hands: 5585 | Splits: 165 | Wins: 2308
+Basic Strategy -> Hands: 5565 | Splits: 145 | Wins: 2132
+
+--- Completed 5430/10000 Deals ---
+PIMC -> Hands: 5595 | Splits: 165 | Wins: 2313
+Basic Strategy -> Hands: 5575 | Splits: 145 | Wins: 2135
+
+--- Completed 5440/10000 Deals ---
+PIMC -> Hands: 5605 | Splits: 165 | Wins: 2317
+Basic Strategy -> Hands: 5585 | Splits: 145 | Wins: 2138
+
+--- Completed 5450/10000 Deals ---
+PIMC -> Hands: 5616 | Splits: 166 | Wins: 2322
+Basic Strategy -> Hands: 5596 | Splits: 146 | Wins: 2146
+
+--- Completed 5460/10000 Deals ---
+PIMC -> Hands: 5626 | Splits: 166 | Wins: 2326
+Basic Strategy -> Hands: 5606 | Splits: 146 | Wins: 2148
+
+--- Completed 5470/10000 Deals ---
+PIMC -> Hands: 5636 | Splits: 166 | Wins: 2330
+Basic Strategy -> Hands: 5616 | Splits: 146 | Wins: 2153
+
+--- Completed 5480/10000 Deals ---
+PIMC -> Hands: 5646 | Splits: 166 | Wins: 2332
+Basic Strategy -> Hands: 5626 | Splits: 146 | Wins: 2154
+
+--- Completed 5490/10000 Deals ---
+PIMC -> Hands: 5656 | Splits: 166 | Wins: 2335
+Basic Strategy -> Hands: 5636 | Splits: 146 | Wins: 2158
+
+--- Completed 5500/10000 Deals ---
+PIMC -> Hands: 5666 | Splits: 166 | Wins: 2337
+Basic Strategy -> Hands: 5648 | Splits: 148 | Wins: 2162
+
+--- Completed 5510/10000 Deals ---
+PIMC -> Hands: 5676 | Splits: 166 | Wins: 2341
+Basic Strategy -> Hands: 5659 | Splits: 149 | Wins: 2169
+
+--- Completed 5520/10000 Deals ---
+PIMC -> Hands: 5686 | Splits: 166 | Wins: 2344
+Basic Strategy -> Hands: 5669 | Splits: 149 | Wins: 2173
+
+--- Completed 5530/10000 Deals ---
+PIMC -> Hands: 5696 | Splits: 166 | Wins: 2348
+Basic Strategy -> Hands: 5679 | Splits: 149 | Wins: 2177
+
+--- Completed 5540/10000 Deals ---
+PIMC -> Hands: 5707 | Splits: 167 | Wins: 2355
+Basic Strategy -> Hands: 5689 | Splits: 149 | Wins: 2181
+
+--- Completed 5550/10000 Deals ---
+PIMC -> Hands: 5717 | Splits: 167 | Wins: 2358
+Basic Strategy -> Hands: 5700 | Splits: 150 | Wins: 2183
+
+--- Completed 5560/10000 Deals ---
+PIMC -> Hands: 5727 | Splits: 167 | Wins: 2361
+Basic Strategy -> Hands: 5710 | Splits: 150 | Wins: 2185
+
+--- Completed 5570/10000 Deals ---
+PIMC -> Hands: 5737 | Splits: 167 | Wins: 2366
+Basic Strategy -> Hands: 5720 | Splits: 150 | Wins: 2190
+
+--- Completed 5580/10000 Deals ---
+PIMC -> Hands: 5747 | Splits: 167 | Wins: 2370
+Basic Strategy -> Hands: 5731 | Splits: 151 | Wins: 2196
+
+--- Completed 5590/10000 Deals ---
+PIMC -> Hands: 5757 | Splits: 167 | Wins: 2374
+Basic Strategy -> Hands: 5743 | Splits: 153 | Wins: 2199
+
+--- Completed 5600/10000 Deals ---
+PIMC -> Hands: 5767 | Splits: 167 | Wins: 2380
+Basic Strategy -> Hands: 5753 | Splits: 153 | Wins: 2202
+
+--- Completed 5610/10000 Deals ---
+PIMC -> Hands: 5777 | Splits: 167 | Wins: 2386
+Basic Strategy -> Hands: 5763 | Splits: 153 | Wins: 2205
+
+--- Completed 5620/10000 Deals ---
+PIMC -> Hands: 5788 | Splits: 168 | Wins: 2389
+Basic Strategy -> Hands: 5774 | Splits: 154 | Wins: 2211
+
+--- Completed 5630/10000 Deals ---
+PIMC -> Hands: 5798 | Splits: 168 | Wins: 2395
+Basic Strategy -> Hands: 5784 | Splits: 154 | Wins: 2215
+
+--- Completed 5640/10000 Deals ---
+PIMC -> Hands: 5808 | Splits: 168 | Wins: 2401
+Basic Strategy -> Hands: 5794 | Splits: 154 | Wins: 2218
+
+--- Completed 5650/10000 Deals ---
+PIMC -> Hands: 5818 | Splits: 168 | Wins: 2409
+Basic Strategy -> Hands: 5805 | Splits: 155 | Wins: 2220
+
+--- Completed 5660/10000 Deals ---
+PIMC -> Hands: 5828 | Splits: 168 | Wins: 2410
+Basic Strategy -> Hands: 5815 | Splits: 155 | Wins: 2225
+
+--- Completed 5670/10000 Deals ---
+PIMC -> Hands: 5838 | Splits: 168 | Wins: 2415
+Basic Strategy -> Hands: 5825 | Splits: 155 | Wins: 2231
+
+--- Completed 5680/10000 Deals ---
+PIMC -> Hands: 5848 | Splits: 168 | Wins: 2418
+Basic Strategy -> Hands: 5835 | Splits: 155 | Wins: 2234
+
+--- Completed 5690/10000 Deals ---
+PIMC -> Hands: 5859 | Splits: 169 | Wins: 2421
+Basic Strategy -> Hands: 5845 | Splits: 155 | Wins: 2237
+
+--- Completed 5700/10000 Deals ---
+PIMC -> Hands: 5869 | Splits: 169 | Wins: 2425
+Basic Strategy -> Hands: 5855 | Splits: 155 | Wins: 2240
+
+--- Completed 5710/10000 Deals ---
+PIMC -> Hands: 5879 | Splits: 169 | Wins: 2431
+Basic Strategy -> Hands: 5865 | Splits: 155 | Wins: 2248
+
+--- Completed 5720/10000 Deals ---
+PIMC -> Hands: 5889 | Splits: 169 | Wins: 2437
+Basic Strategy -> Hands: 5875 | Splits: 155 | Wins: 2252
+
+--- Completed 5730/10000 Deals ---
+PIMC -> Hands: 5899 | Splits: 169 | Wins: 2440
+Basic Strategy -> Hands: 5886 | Splits: 156 | Wins: 2259
+
+--- Completed 5740/10000 Deals ---
+PIMC -> Hands: 5910 | Splits: 170 | Wins: 2447
+Basic Strategy -> Hands: 5896 | Splits: 156 | Wins: 2262
+
+--- Completed 5750/10000 Deals ---
+PIMC -> Hands: 5920 | Splits: 170 | Wins: 2450
+Basic Strategy -> Hands: 5906 | Splits: 156 | Wins: 2265
+
+--- Completed 5760/10000 Deals ---
+PIMC -> Hands: 5930 | Splits: 170 | Wins: 2453
+Basic Strategy -> Hands: 5916 | Splits: 156 | Wins: 2266
+
+--- Completed 5770/10000 Deals ---
+PIMC -> Hands: 5940 | Splits: 170 | Wins: 2460
+Basic Strategy -> Hands: 5926 | Splits: 156 | Wins: 2271
+
+--- Completed 5780/10000 Deals ---
+PIMC -> Hands: 5950 | Splits: 170 | Wins: 2462
+Basic Strategy -> Hands: 5936 | Splits: 156 | Wins: 2276
+
+--- Completed 5790/10000 Deals ---
+PIMC -> Hands: 5960 | Splits: 170 | Wins: 2469
+Basic Strategy -> Hands: 5946 | Splits: 156 | Wins: 2281
+
+--- Completed 5800/10000 Deals ---
+PIMC -> Hands: 5970 | Splits: 170 | Wins: 2472
+Basic Strategy -> Hands: 5956 | Splits: 156 | Wins: 2285
+
+--- Completed 5810/10000 Deals ---
+PIMC -> Hands: 5980 | Splits: 170 | Wins: 2473
+Basic Strategy -> Hands: 5966 | Splits: 156 | Wins: 2286
+
+--- Completed 5820/10000 Deals ---
+PIMC -> Hands: 5990 | Splits: 170 | Wins: 2476
+Basic Strategy -> Hands: 5977 | Splits: 157 | Wins: 2291
+
+--- Completed 5830/10000 Deals ---
+PIMC -> Hands: 6000 | Splits: 170 | Wins: 2479
+Basic Strategy -> Hands: 5987 | Splits: 157 | Wins: 2294
+
+--- Completed 5840/10000 Deals ---
+PIMC -> Hands: 6010 | Splits: 170 | Wins: 2485
+Basic Strategy -> Hands: 5998 | Splits: 158 | Wins: 2300
+
+--- Completed 5850/10000 Deals ---
+PIMC -> Hands: 6020 | Splits: 170 | Wins: 2489
+Basic Strategy -> Hands: 6008 | Splits: 158 | Wins: 2303
+
+--- Completed 5860/10000 Deals ---
+PIMC -> Hands: 6031 | Splits: 171 | Wins: 2493
+Basic Strategy -> Hands: 6018 | Splits: 158 | Wins: 2305
+
+--- Completed 5870/10000 Deals ---
+PIMC -> Hands: 6041 | Splits: 171 | Wins: 2499
+Basic Strategy -> Hands: 6028 | Splits: 158 | Wins: 2309
+
+--- Completed 5880/10000 Deals ---
+PIMC -> Hands: 6051 | Splits: 171 | Wins: 2503
+Basic Strategy -> Hands: 6038 | Splits: 158 | Wins: 2311
+
+--- Completed 5890/10000 Deals ---
+PIMC -> Hands: 6061 | Splits: 171 | Wins: 2506
+Basic Strategy -> Hands: 6048 | Splits: 158 | Wins: 2313
+
+--- Completed 5900/10000 Deals ---
+PIMC -> Hands: 6072 | Splits: 172 | Wins: 2510
+Basic Strategy -> Hands: 6058 | Splits: 158 | Wins: 2316
+
+--- Completed 5910/10000 Deals ---
+PIMC -> Hands: 6082 | Splits: 172 | Wins: 2512
+Basic Strategy -> Hands: 6068 | Splits: 158 | Wins: 2319
+
+--- Completed 5920/10000 Deals ---
+PIMC -> Hands: 6093 | Splits: 173 | Wins: 2517
+Basic Strategy -> Hands: 6078 | Splits: 158 | Wins: 2323
+
+--- Completed 5930/10000 Deals ---
+PIMC -> Hands: 6103 | Splits: 173 | Wins: 2519
+Basic Strategy -> Hands: 6088 | Splits: 158 | Wins: 2330
+
+--- Completed 5940/10000 Deals ---
+PIMC -> Hands: 6113 | Splits: 173 | Wins: 2522
+Basic Strategy -> Hands: 6098 | Splits: 158 | Wins: 2333
+
+--- Completed 5950/10000 Deals ---
+PIMC -> Hands: 6123 | Splits: 173 | Wins: 2528
+Basic Strategy -> Hands: 6108 | Splits: 158 | Wins: 2338
+
+--- Completed 5960/10000 Deals ---
+PIMC -> Hands: 6133 | Splits: 173 | Wins: 2535
+Basic Strategy -> Hands: 6118 | Splits: 158 | Wins: 2343
+
+--- Completed 5970/10000 Deals ---
+PIMC -> Hands: 6143 | Splits: 173 | Wins: 2539
+Basic Strategy -> Hands: 6129 | Splits: 159 | Wins: 2345
+
+--- Completed 5980/10000 Deals ---
+PIMC -> Hands: 6155 | Splits: 175 | Wins: 2545
+Basic Strategy -> Hands: 6139 | Splits: 159 | Wins: 2348
+
+--- Completed 5990/10000 Deals ---
+PIMC -> Hands: 6166 | Splits: 176 | Wins: 2550
+Basic Strategy -> Hands: 6149 | Splits: 159 | Wins: 2352
+
+--- Completed 6000/10000 Deals ---
+PIMC -> Hands: 6176 | Splits: 176 | Wins: 2552
+Basic Strategy -> Hands: 6160 | Splits: 160 | Wins: 2357
+
+--- Completed 6010/10000 Deals ---
+PIMC -> Hands: 6186 | Splits: 176 | Wins: 2559
+Basic Strategy -> Hands: 6171 | Splits: 161 | Wins: 2360
+
+--- Completed 6020/10000 Deals ---
+PIMC -> Hands: 6196 | Splits: 176 | Wins: 2564
+Basic Strategy -> Hands: 6181 | Splits: 161 | Wins: 2366
+
+--- Completed 6030/10000 Deals ---
+PIMC -> Hands: 6206 | Splits: 176 | Wins: 2568
+Basic Strategy -> Hands: 6191 | Splits: 161 | Wins: 2371
+
+--- Completed 6040/10000 Deals ---
+PIMC -> Hands: 6216 | Splits: 176 | Wins: 2570
+Basic Strategy -> Hands: 6202 | Splits: 162 | Wins: 2374
+
+--- Completed 6050/10000 Deals ---
+PIMC -> Hands: 6226 | Splits: 176 | Wins: 2573
+Basic Strategy -> Hands: 6212 | Splits: 162 | Wins: 2381
+
+--- Completed 6060/10000 Deals ---
+PIMC -> Hands: 6236 | Splits: 176 | Wins: 2576
+Basic Strategy -> Hands: 6222 | Splits: 162 | Wins: 2386
+
+--- Completed 6070/10000 Deals ---
+PIMC -> Hands: 6246 | Splits: 176 | Wins: 2580
+Basic Strategy -> Hands: 6232 | Splits: 162 | Wins: 2391
+
+--- Completed 6080/10000 Deals ---
+PIMC -> Hands: 6256 | Splits: 176 | Wins: 2584
+Basic Strategy -> Hands: 6243 | Splits: 163 | Wins: 2395
+
+--- Completed 6090/10000 Deals ---
+PIMC -> Hands: 6267 | Splits: 177 | Wins: 2588
+Basic Strategy -> Hands: 6253 | Splits: 163 | Wins: 2397
+
+--- Completed 6100/10000 Deals ---
+PIMC -> Hands: 6277 | Splits: 177 | Wins: 2592
+Basic Strategy -> Hands: 6263 | Splits: 163 | Wins: 2402
+
+--- Completed 6110/10000 Deals ---
+PIMC -> Hands: 6287 | Splits: 177 | Wins: 2594
+Basic Strategy -> Hands: 6273 | Splits: 163 | Wins: 2407
+
+--- Completed 6120/10000 Deals ---
+PIMC -> Hands: 6297 | Splits: 177 | Wins: 2595
+Basic Strategy -> Hands: 6284 | Splits: 164 | Wins: 2412
+
+--- Completed 6130/10000 Deals ---
+PIMC -> Hands: 6308 | Splits: 178 | Wins: 2600
+Basic Strategy -> Hands: 6294 | Splits: 164 | Wins: 2415
+
+--- Completed 6140/10000 Deals ---
+PIMC -> Hands: 6318 | Splits: 178 | Wins: 2602
+Basic Strategy -> Hands: 6305 | Splits: 165 | Wins: 2417
+
+--- Completed 6150/10000 Deals ---
+PIMC -> Hands: 6328 | Splits: 178 | Wins: 2606
+Basic Strategy -> Hands: 6315 | Splits: 165 | Wins: 2420
+
+--- Completed 6160/10000 Deals ---
+PIMC -> Hands: 6338 | Splits: 178 | Wins: 2607
+Basic Strategy -> Hands: 6325 | Splits: 165 | Wins: 2423
+
+--- Completed 6170/10000 Deals ---
+PIMC -> Hands: 6348 | Splits: 178 | Wins: 2609
+Basic Strategy -> Hands: 6335 | Splits: 165 | Wins: 2426
+
+--- Completed 6180/10000 Deals ---
+PIMC -> Hands: 6358 | Splits: 178 | Wins: 2612
+Basic Strategy -> Hands: 6345 | Splits: 165 | Wins: 2433
+
+--- Completed 6190/10000 Deals ---
+PIMC -> Hands: 6368 | Splits: 178 | Wins: 2613
+Basic Strategy -> Hands: 6355 | Splits: 165 | Wins: 2438
+
+--- Completed 6200/10000 Deals ---
+PIMC -> Hands: 6378 | Splits: 178 | Wins: 2615
+Basic Strategy -> Hands: 6366 | Splits: 166 | Wins: 2442
+
+--- Completed 6210/10000 Deals ---
+PIMC -> Hands: 6388 | Splits: 178 | Wins: 2621
+Basic Strategy -> Hands: 6376 | Splits: 166 | Wins: 2444
+
+--- Completed 6220/10000 Deals ---
+PIMC -> Hands: 6398 | Splits: 178 | Wins: 2625
+Basic Strategy -> Hands: 6386 | Splits: 166 | Wins: 2447
+
+--- Completed 6230/10000 Deals ---
+PIMC -> Hands: 6410 | Splits: 180 | Wins: 2629
+Basic Strategy -> Hands: 6396 | Splits: 166 | Wins: 2452
+
+--- Completed 6240/10000 Deals ---
+PIMC -> Hands: 6420 | Splits: 180 | Wins: 2631
+Basic Strategy -> Hands: 6406 | Splits: 166 | Wins: 2456
+
+--- Completed 6250/10000 Deals ---
+PIMC -> Hands: 6430 | Splits: 180 | Wins: 2636
+Basic Strategy -> Hands: 6417 | Splits: 167 | Wins: 2460
+
+--- Completed 6260/10000 Deals ---
+PIMC -> Hands: 6440 | Splits: 180 | Wins: 2638
+Basic Strategy -> Hands: 6427 | Splits: 167 | Wins: 2464
+
+--- Completed 6270/10000 Deals ---
+PIMC -> Hands: 6450 | Splits: 180 | Wins: 2642
+Basic Strategy -> Hands: 6437 | Splits: 167 | Wins: 2466
+
+--- Completed 6280/10000 Deals ---
+PIMC -> Hands: 6460 | Splits: 180 | Wins: 2647
+Basic Strategy -> Hands: 6447 | Splits: 167 | Wins: 2469
+
+--- Completed 6290/10000 Deals ---
+PIMC -> Hands: 6471 | Splits: 181 | Wins: 2654
+Basic Strategy -> Hands: 6458 | Splits: 168 | Wins: 2471
+
+--- Completed 6300/10000 Deals ---
+PIMC -> Hands: 6481 | Splits: 181 | Wins: 2659
+Basic Strategy -> Hands: 6468 | Splits: 168 | Wins: 2476
+
+--- Completed 6310/10000 Deals ---
+PIMC -> Hands: 6491 | Splits: 181 | Wins: 2663
+Basic Strategy -> Hands: 6478 | Splits: 168 | Wins: 2479
+
+--- Completed 6320/10000 Deals ---
+PIMC -> Hands: 6502 | Splits: 182 | Wins: 2668
+Basic Strategy -> Hands: 6488 | Splits: 168 | Wins: 2482
+
+--- Completed 6330/10000 Deals ---
+PIMC -> Hands: 6512 | Splits: 182 | Wins: 2673
+Basic Strategy -> Hands: 6498 | Splits: 168 | Wins: 2485
+
+--- Completed 6340/10000 Deals ---
+PIMC -> Hands: 6522 | Splits: 182 | Wins: 2675
+Basic Strategy -> Hands: 6508 | Splits: 168 | Wins: 2488
+
+--- Completed 6350/10000 Deals ---
+PIMC -> Hands: 6532 | Splits: 182 | Wins: 2677
+Basic Strategy -> Hands: 6518 | Splits: 168 | Wins: 2493
+
+--- Completed 6360/10000 Deals ---
+PIMC -> Hands: 6542 | Splits: 182 | Wins: 2682
+Basic Strategy -> Hands: 6528 | Splits: 168 | Wins: 2500
+
+--- Completed 6370/10000 Deals ---
+PIMC -> Hands: 6552 | Splits: 182 | Wins: 2687
+Basic Strategy -> Hands: 6538 | Splits: 168 | Wins: 2503
+
+--- Completed 6380/10000 Deals ---
+PIMC -> Hands: 6562 | Splits: 182 | Wins: 2690
+Basic Strategy -> Hands: 6548 | Splits: 168 | Wins: 2508
+
+--- Completed 6390/10000 Deals ---
+PIMC -> Hands: 6572 | Splits: 182 | Wins: 2694
+Basic Strategy -> Hands: 6558 | Splits: 168 | Wins: 2512
+
+--- Completed 6400/10000 Deals ---
+PIMC -> Hands: 6582 | Splits: 182 | Wins: 2699
+Basic Strategy -> Hands: 6568 | Splits: 168 | Wins: 2516
+
+--- Completed 6410/10000 Deals ---
+PIMC -> Hands: 6592 | Splits: 182 | Wins: 2702
+Basic Strategy -> Hands: 6578 | Splits: 168 | Wins: 2517
+
+--- Completed 6420/10000 Deals ---
+PIMC -> Hands: 6602 | Splits: 182 | Wins: 2706
+Basic Strategy -> Hands: 6588 | Splits: 168 | Wins: 2522
+
+--- Completed 6430/10000 Deals ---
+PIMC -> Hands: 6612 | Splits: 182 | Wins: 2710
+Basic Strategy -> Hands: 6598 | Splits: 168 | Wins: 2525
+
+--- Completed 6440/10000 Deals ---
+PIMC -> Hands: 6622 | Splits: 182 | Wins: 2714
+Basic Strategy -> Hands: 6609 | Splits: 169 | Wins: 2532
+
+--- Completed 6450/10000 Deals ---
+PIMC -> Hands: 6632 | Splits: 182 | Wins: 2717
+Basic Strategy -> Hands: 6619 | Splits: 169 | Wins: 2539
+
+--- Completed 6460/10000 Deals ---
+PIMC -> Hands: 6642 | Splits: 182 | Wins: 2721
+Basic Strategy -> Hands: 6630 | Splits: 170 | Wins: 2540
+
+--- Completed 6470/10000 Deals ---
+PIMC -> Hands: 6653 | Splits: 183 | Wins: 2727
+Basic Strategy -> Hands: 6640 | Splits: 170 | Wins: 2544
+
+--- Completed 6480/10000 Deals ---
+PIMC -> Hands: 6663 | Splits: 183 | Wins: 2732
+Basic Strategy -> Hands: 6650 | Splits: 170 | Wins: 2547
+
+--- Completed 6490/10000 Deals ---
+PIMC -> Hands: 6673 | Splits: 183 | Wins: 2733
+Basic Strategy -> Hands: 6660 | Splits: 170 | Wins: 2551
+
+--- Completed 6500/10000 Deals ---
+PIMC -> Hands: 6683 | Splits: 183 | Wins: 2737
+Basic Strategy -> Hands: 6670 | Splits: 170 | Wins: 2553
+
+--- Completed 6510/10000 Deals ---
+PIMC -> Hands: 6693 | Splits: 183 | Wins: 2740
+Basic Strategy -> Hands: 6680 | Splits: 170 | Wins: 2556
+
+--- Completed 6520/10000 Deals ---
+PIMC -> Hands: 6703 | Splits: 183 | Wins: 2744
+Basic Strategy -> Hands: 6690 | Splits: 170 | Wins: 2562
+
+--- Completed 6530/10000 Deals ---
+PIMC -> Hands: 6713 | Splits: 183 | Wins: 2749
+Basic Strategy -> Hands: 6700 | Splits: 170 | Wins: 2566
+
+--- Completed 6540/10000 Deals ---
+PIMC -> Hands: 6724 | Splits: 184 | Wins: 2754
+Basic Strategy -> Hands: 6710 | Splits: 170 | Wins: 2568
+
+--- Completed 6550/10000 Deals ---
+PIMC -> Hands: 6734 | Splits: 184 | Wins: 2755
+Basic Strategy -> Hands: 6720 | Splits: 170 | Wins: 2570
+
+--- Completed 6560/10000 Deals ---
+PIMC -> Hands: 6744 | Splits: 184 | Wins: 2761
+Basic Strategy -> Hands: 6730 | Splits: 170 | Wins: 2573
+
+--- Completed 6570/10000 Deals ---
+PIMC -> Hands: 6754 | Splits: 184 | Wins: 2765
+Basic Strategy -> Hands: 6740 | Splits: 170 | Wins: 2577
+
+--- Completed 6580/10000 Deals ---
+PIMC -> Hands: 6765 | Splits: 185 | Wins: 2767
+Basic Strategy -> Hands: 6750 | Splits: 170 | Wins: 2581
+
+--- Completed 6590/10000 Deals ---
+PIMC -> Hands: 6775 | Splits: 185 | Wins: 2774
+Basic Strategy -> Hands: 6760 | Splits: 170 | Wins: 2584
+
+--- Completed 6600/10000 Deals ---
+PIMC -> Hands: 6785 | Splits: 185 | Wins: 2778
+Basic Strategy -> Hands: 6770 | Splits: 170 | Wins: 2587
+
+--- Completed 6610/10000 Deals ---
+PIMC -> Hands: 6795 | Splits: 185 | Wins: 2782
+Basic Strategy -> Hands: 6780 | Splits: 170 | Wins: 2589
+
+--- Completed 6620/10000 Deals ---
+PIMC -> Hands: 6805 | Splits: 185 | Wins: 2787
+Basic Strategy -> Hands: 6790 | Splits: 170 | Wins: 2593
+
+--- Completed 6630/10000 Deals ---
+PIMC -> Hands: 6816 | Splits: 186 | Wins: 2791
+Basic Strategy -> Hands: 6800 | Splits: 170 | Wins: 2594
+
+--- Completed 6640/10000 Deals ---
+PIMC -> Hands: 6826 | Splits: 186 | Wins: 2794
+Basic Strategy -> Hands: 6810 | Splits: 170 | Wins: 2597
+
+--- Completed 6650/10000 Deals ---
+PIMC -> Hands: 6837 | Splits: 187 | Wins: 2799
+Basic Strategy -> Hands: 6821 | Splits: 171 | Wins: 2605
+
+--- Completed 6660/10000 Deals ---
+PIMC -> Hands: 6847 | Splits: 187 | Wins: 2802
+Basic Strategy -> Hands: 6831 | Splits: 171 | Wins: 2606
+
+--- Completed 6670/10000 Deals ---
+PIMC -> Hands: 6857 | Splits: 187 | Wins: 2803
+Basic Strategy -> Hands: 6841 | Splits: 171 | Wins: 2610
+
+--- Completed 6680/10000 Deals ---
+PIMC -> Hands: 6868 | Splits: 188 | Wins: 2809
+Basic Strategy -> Hands: 6851 | Splits: 171 | Wins: 2613
+
+--- Completed 6690/10000 Deals ---
+PIMC -> Hands: 6879 | Splits: 189 | Wins: 2814
+Basic Strategy -> Hands: 6861 | Splits: 171 | Wins: 2617
+
+--- Completed 6700/10000 Deals ---
+PIMC -> Hands: 6890 | Splits: 190 | Wins: 2819
+Basic Strategy -> Hands: 6871 | Splits: 171 | Wins: 2621
+
+--- Completed 6710/10000 Deals ---
+PIMC -> Hands: 6900 | Splits: 190 | Wins: 2822
+Basic Strategy -> Hands: 6881 | Splits: 171 | Wins: 2628
+
+--- Completed 6720/10000 Deals ---
+PIMC -> Hands: 6910 | Splits: 190 | Wins: 2826
+Basic Strategy -> Hands: 6893 | Splits: 173 | Wins: 2629
+
+--- Completed 6730/10000 Deals ---
+PIMC -> Hands: 6920 | Splits: 190 | Wins: 2830
+Basic Strategy -> Hands: 6903 | Splits: 173 | Wins: 2632
+
+--- Completed 6740/10000 Deals ---
+PIMC -> Hands: 6931 | Splits: 191 | Wins: 2833
+Basic Strategy -> Hands: 6913 | Splits: 173 | Wins: 2637
+
+--- Completed 6750/10000 Deals ---
+PIMC -> Hands: 6942 | Splits: 192 | Wins: 2837
+Basic Strategy -> Hands: 6923 | Splits: 173 | Wins: 2640
+
+--- Completed 6760/10000 Deals ---
+PIMC -> Hands: 6952 | Splits: 192 | Wins: 2839
+Basic Strategy -> Hands: 6933 | Splits: 173 | Wins: 2643
+
+--- Completed 6770/10000 Deals ---
+PIMC -> Hands: 6962 | Splits: 192 | Wins: 2844
+Basic Strategy -> Hands: 6943 | Splits: 173 | Wins: 2648
+
+--- Completed 6780/10000 Deals ---
+PIMC -> Hands: 6972 | Splits: 192 | Wins: 2846
+Basic Strategy -> Hands: 6954 | Splits: 174 | Wins: 2649
+
+--- Completed 6790/10000 Deals ---
+PIMC -> Hands: 6982 | Splits: 192 | Wins: 2848
+Basic Strategy -> Hands: 6965 | Splits: 175 | Wins: 2649
+
+--- Completed 6800/10000 Deals ---
+PIMC -> Hands: 6992 | Splits: 192 | Wins: 2850
+Basic Strategy -> Hands: 6975 | Splits: 175 | Wins: 2653
+
+--- Completed 6810/10000 Deals ---
+PIMC -> Hands: 7002 | Splits: 192 | Wins: 2853
+Basic Strategy -> Hands: 6985 | Splits: 175 | Wins: 2658
+
+--- Completed 6820/10000 Deals ---
+PIMC -> Hands: 7012 | Splits: 192 | Wins: 2857
+Basic Strategy -> Hands: 6996 | Splits: 176 | Wins: 2662
+
+--- Completed 6830/10000 Deals ---
+PIMC -> Hands: 7022 | Splits: 192 | Wins: 2860
+Basic Strategy -> Hands: 7006 | Splits: 176 | Wins: 2665
+
+--- Completed 6840/10000 Deals ---
+PIMC -> Hands: 7032 | Splits: 192 | Wins: 2863
+Basic Strategy -> Hands: 7016 | Splits: 176 | Wins: 2669
+
+--- Completed 6850/10000 Deals ---
+PIMC -> Hands: 7042 | Splits: 192 | Wins: 2865
+Basic Strategy -> Hands: 7026 | Splits: 176 | Wins: 2675
+
+--- Completed 6860/10000 Deals ---
+PIMC -> Hands: 7052 | Splits: 192 | Wins: 2872
+Basic Strategy -> Hands: 7036 | Splits: 176 | Wins: 2679
+
+--- Completed 6870/10000 Deals ---
+PIMC -> Hands: 7063 | Splits: 193 | Wins: 2879
+Basic Strategy -> Hands: 7046 | Splits: 176 | Wins: 2682
+
+--- Completed 6880/10000 Deals ---
+PIMC -> Hands: 7073 | Splits: 193 | Wins: 2884
+Basic Strategy -> Hands: 7057 | Splits: 177 | Wins: 2686
+
+--- Completed 6890/10000 Deals ---
+PIMC -> Hands: 7084 | Splits: 194 | Wins: 2887
+Basic Strategy -> Hands: 7067 | Splits: 177 | Wins: 2689
+
+--- Completed 6900/10000 Deals ---
+PIMC -> Hands: 7094 | Splits: 194 | Wins: 2890
+Basic Strategy -> Hands: 7078 | Splits: 178 | Wins: 2692
+
+--- Completed 6910/10000 Deals ---
+PIMC -> Hands: 7104 | Splits: 194 | Wins: 2894
+Basic Strategy -> Hands: 7089 | Splits: 179 | Wins: 2697
+
+--- Completed 6920/10000 Deals ---
+PIMC -> Hands: 7114 | Splits: 194 | Wins: 2898
+Basic Strategy -> Hands: 7099 | Splits: 179 | Wins: 2702
+
+--- Completed 6930/10000 Deals ---
+PIMC -> Hands: 7124 | Splits: 194 | Wins: 2902
+Basic Strategy -> Hands: 7109 | Splits: 179 | Wins: 2705
+
+--- Completed 6940/10000 Deals ---
+PIMC -> Hands: 7134 | Splits: 194 | Wins: 2905
+Basic Strategy -> Hands: 7119 | Splits: 179 | Wins: 2709
+
+--- Completed 6950/10000 Deals ---
+PIMC -> Hands: 7144 | Splits: 194 | Wins: 2908
+Basic Strategy -> Hands: 7129 | Splits: 179 | Wins: 2713
+
+--- Completed 6960/10000 Deals ---
+PIMC -> Hands: 7155 | Splits: 195 | Wins: 2913
+Basic Strategy -> Hands: 7139 | Splits: 179 | Wins: 2717
+
+--- Completed 6970/10000 Deals ---
+PIMC -> Hands: 7166 | Splits: 196 | Wins: 2917
+Basic Strategy -> Hands: 7149 | Splits: 179 | Wins: 2721
+
+--- Completed 6980/10000 Deals ---
+PIMC -> Hands: 7176 | Splits: 196 | Wins: 2920
+Basic Strategy -> Hands: 7159 | Splits: 179 | Wins: 2724
+
+--- Completed 6990/10000 Deals ---
+PIMC -> Hands: 7186 | Splits: 196 | Wins: 2923
+Basic Strategy -> Hands: 7169 | Splits: 179 | Wins: 2728
+
+--- Completed 7000/10000 Deals ---
+PIMC -> Hands: 7196 | Splits: 196 | Wins: 2926
+Basic Strategy -> Hands: 7179 | Splits: 179 | Wins: 2730
+
+--- Completed 7010/10000 Deals ---
+PIMC -> Hands: 7206 | Splits: 196 | Wins: 2931
+Basic Strategy -> Hands: 7189 | Splits: 179 | Wins: 2732
+
+--- Completed 7020/10000 Deals ---
+PIMC -> Hands: 7216 | Splits: 196 | Wins: 2935
+Basic Strategy -> Hands: 7199 | Splits: 179 | Wins: 2735
+
+--- Completed 7030/10000 Deals ---
+PIMC -> Hands: 7226 | Splits: 196 | Wins: 2941
+Basic Strategy -> Hands: 7209 | Splits: 179 | Wins: 2738
+
+--- Completed 7040/10000 Deals ---
+PIMC -> Hands: 7236 | Splits: 196 | Wins: 2945
+Basic Strategy -> Hands: 7219 | Splits: 179 | Wins: 2740
+
+--- Completed 7050/10000 Deals ---
+PIMC -> Hands: 7246 | Splits: 196 | Wins: 2951
+Basic Strategy -> Hands: 7229 | Splits: 179 | Wins: 2744
+
+--- Completed 7060/10000 Deals ---
+PIMC -> Hands: 7257 | Splits: 197 | Wins: 2956
+Basic Strategy -> Hands: 7240 | Splits: 180 | Wins: 2751
+
+--- Completed 7070/10000 Deals ---
+PIMC -> Hands: 7267 | Splits: 197 | Wins: 2962
+Basic Strategy -> Hands: 7250 | Splits: 180 | Wins: 2754
+
+--- Completed 7080/10000 Deals ---
+PIMC -> Hands: 7277 | Splits: 197 | Wins: 2965
+Basic Strategy -> Hands: 7260 | Splits: 180 | Wins: 2758
+
+--- Completed 7090/10000 Deals ---
+PIMC -> Hands: 7287 | Splits: 197 | Wins: 2969
+Basic Strategy -> Hands: 7270 | Splits: 180 | Wins: 2761
+
+--- Completed 7100/10000 Deals ---
+PIMC -> Hands: 7298 | Splits: 198 | Wins: 2975
+Basic Strategy -> Hands: 7280 | Splits: 180 | Wins: 2767
+
+--- Completed 7110/10000 Deals ---
+PIMC -> Hands: 7308 | Splits: 198 | Wins: 2978
+Basic Strategy -> Hands: 7290 | Splits: 180 | Wins: 2768
+
+--- Completed 7120/10000 Deals ---
+PIMC -> Hands: 7318 | Splits: 198 | Wins: 2984
+Basic Strategy -> Hands: 7301 | Splits: 181 | Wins: 2772
+
+--- Completed 7130/10000 Deals ---
+PIMC -> Hands: 7328 | Splits: 198 | Wins: 2989
+Basic Strategy -> Hands: 7311 | Splits: 181 | Wins: 2775
+
+--- Completed 7140/10000 Deals ---
+PIMC -> Hands: 7338 | Splits: 198 | Wins: 2994
+Basic Strategy -> Hands: 7321 | Splits: 181 | Wins: 2780
+
+--- Completed 7150/10000 Deals ---
+PIMC -> Hands: 7348 | Splits: 198 | Wins: 2998
+Basic Strategy -> Hands: 7331 | Splits: 181 | Wins: 2781
+
+--- Completed 7160/10000 Deals ---
+PIMC -> Hands: 7358 | Splits: 198 | Wins: 3002
+Basic Strategy -> Hands: 7342 | Splits: 182 | Wins: 2785
+
+--- Completed 7170/10000 Deals ---
+PIMC -> Hands: 7368 | Splits: 198 | Wins: 3008
+Basic Strategy -> Hands: 7353 | Splits: 183 | Wins: 2788
+
+--- Completed 7180/10000 Deals ---
+PIMC -> Hands: 7378 | Splits: 198 | Wins: 3010
+Basic Strategy -> Hands: 7364 | Splits: 184 | Wins: 2792
+
+--- Completed 7190/10000 Deals ---
+PIMC -> Hands: 7388 | Splits: 198 | Wins: 3015
+Basic Strategy -> Hands: 7374 | Splits: 184 | Wins: 2797
+
+--- Completed 7200/10000 Deals ---
+PIMC -> Hands: 7398 | Splits: 198 | Wins: 3020
+Basic Strategy -> Hands: 7384 | Splits: 184 | Wins: 2799
+
+--- Completed 7210/10000 Deals ---
+PIMC -> Hands: 7408 | Splits: 198 | Wins: 3023
+Basic Strategy -> Hands: 7394 | Splits: 184 | Wins: 2801
+
+--- Completed 7220/10000 Deals ---
+PIMC -> Hands: 7418 | Splits: 198 | Wins: 3031
+Basic Strategy -> Hands: 7404 | Splits: 184 | Wins: 2805
+
+--- Completed 7230/10000 Deals ---
+PIMC -> Hands: 7429 | Splits: 199 | Wins: 3037
+Basic Strategy -> Hands: 7414 | Splits: 184 | Wins: 2806
+
+--- Completed 7240/10000 Deals ---
+PIMC -> Hands: 7439 | Splits: 199 | Wins: 3038
+Basic Strategy -> Hands: 7425 | Splits: 185 | Wins: 2807
+
+--- Completed 7250/10000 Deals ---
+PIMC -> Hands: 7449 | Splits: 199 | Wins: 3045
+Basic Strategy -> Hands: 7435 | Splits: 185 | Wins: 2813
+
+--- Completed 7260/10000 Deals ---
+PIMC -> Hands: 7460 | Splits: 200 | Wins: 3053
+Basic Strategy -> Hands: 7445 | Splits: 185 | Wins: 2818
+
+--- Completed 7270/10000 Deals ---
+PIMC -> Hands: 7470 | Splits: 200 | Wins: 3057
+Basic Strategy -> Hands: 7455 | Splits: 185 | Wins: 2825
+
+--- Completed 7280/10000 Deals ---
+PIMC -> Hands: 7481 | Splits: 201 | Wins: 3061
+Basic Strategy -> Hands: 7469 | Splits: 189 | Wins: 2829
+
+--- Completed 7290/10000 Deals ---
+PIMC -> Hands: 7492 | Splits: 202 | Wins: 3068
+Basic Strategy -> Hands: 7479 | Splits: 189 | Wins: 2830
+
+--- Completed 7300/10000 Deals ---
+PIMC -> Hands: 7502 | Splits: 202 | Wins: 3070
+Basic Strategy -> Hands: 7489 | Splits: 189 | Wins: 2833
+
+--- Completed 7310/10000 Deals ---
+PIMC -> Hands: 7512 | Splits: 202 | Wins: 3070
+Basic Strategy -> Hands: 7499 | Splits: 189 | Wins: 2834
+
+--- Completed 7320/10000 Deals ---
+PIMC -> Hands: 7523 | Splits: 203 | Wins: 3076
+Basic Strategy -> Hands: 7509 | Splits: 189 | Wins: 2838
+
+--- Completed 7330/10000 Deals ---
+PIMC -> Hands: 7533 | Splits: 203 | Wins: 3080
+Basic Strategy -> Hands: 7520 | Splits: 190 | Wins: 2843
+
+--- Completed 7340/10000 Deals ---
+PIMC -> Hands: 7543 | Splits: 203 | Wins: 3085
+Basic Strategy -> Hands: 7531 | Splits: 191 | Wins: 2846
+
+--- Completed 7350/10000 Deals ---
+PIMC -> Hands: 7553 | Splits: 203 | Wins: 3090
+Basic Strategy -> Hands: 7541 | Splits: 191 | Wins: 2849
+
+--- Completed 7360/10000 Deals ---
+PIMC -> Hands: 7563 | Splits: 203 | Wins: 3095
+Basic Strategy -> Hands: 7551 | Splits: 191 | Wins: 2853
+
+--- Completed 7370/10000 Deals ---
+PIMC -> Hands: 7573 | Splits: 203 | Wins: 3099
+Basic Strategy -> Hands: 7561 | Splits: 191 | Wins: 2855
+
+--- Completed 7380/10000 Deals ---
+PIMC -> Hands: 7584 | Splits: 204 | Wins: 3107
+Basic Strategy -> Hands: 7571 | Splits: 191 | Wins: 2860
+
+--- Completed 7390/10000 Deals ---
+PIMC -> Hands: 7594 | Splits: 204 | Wins: 3111
+Basic Strategy -> Hands: 7581 | Splits: 191 | Wins: 2864
+
+--- Completed 7400/10000 Deals ---
+PIMC -> Hands: 7604 | Splits: 204 | Wins: 3113
+Basic Strategy -> Hands: 7591 | Splits: 191 | Wins: 2867
+
+--- Completed 7410/10000 Deals ---
+PIMC -> Hands: 7614 | Splits: 204 | Wins: 3118
+Basic Strategy -> Hands: 7601 | Splits: 191 | Wins: 2870
+
+--- Completed 7420/10000 Deals ---
+PIMC -> Hands: 7625 | Splits: 205 | Wins: 3120
+Basic Strategy -> Hands: 7612 | Splits: 192 | Wins: 2874
+
+--- Completed 7430/10000 Deals ---
+PIMC -> Hands: 7636 | Splits: 206 | Wins: 3122
+Basic Strategy -> Hands: 7623 | Splits: 193 | Wins: 2877
+
+--- Completed 7440/10000 Deals ---
+PIMC -> Hands: 7646 | Splits: 206 | Wins: 3124
+Basic Strategy -> Hands: 7634 | Splits: 194 | Wins: 2881
+
+--- Completed 7450/10000 Deals ---
+PIMC -> Hands: 7657 | Splits: 207 | Wins: 3131
+Basic Strategy -> Hands: 7644 | Splits: 194 | Wins: 2885
+
+--- Completed 7460/10000 Deals ---
+PIMC -> Hands: 7667 | Splits: 207 | Wins: 3134
+Basic Strategy -> Hands: 7654 | Splits: 194 | Wins: 2889
+
+--- Completed 7470/10000 Deals ---
+PIMC -> Hands: 7677 | Splits: 207 | Wins: 3136
+Basic Strategy -> Hands: 7664 | Splits: 194 | Wins: 2893
+
+--- Completed 7480/10000 Deals ---
+PIMC -> Hands: 7687 | Splits: 207 | Wins: 3141
+Basic Strategy -> Hands: 7674 | Splits: 194 | Wins: 2895
+
+--- Completed 7490/10000 Deals ---
+PIMC -> Hands: 7697 | Splits: 207 | Wins: 3142
+Basic Strategy -> Hands: 7685 | Splits: 195 | Wins: 2900
+
+--- Completed 7500/10000 Deals ---
+PIMC -> Hands: 7707 | Splits: 207 | Wins: 3145
+Basic Strategy -> Hands: 7696 | Splits: 196 | Wins: 2902
+
+--- Completed 7510/10000 Deals ---
+PIMC -> Hands: 7717 | Splits: 207 | Wins: 3150
+Basic Strategy -> Hands: 7706 | Splits: 196 | Wins: 2907
+
+--- Completed 7520/10000 Deals ---
+PIMC -> Hands: 7728 | Splits: 208 | Wins: 3154
+Basic Strategy -> Hands: 7717 | Splits: 197 | Wins: 2910
+
+--- Completed 7530/10000 Deals ---
+PIMC -> Hands: 7739 | Splits: 209 | Wins: 3157
+Basic Strategy -> Hands: 7727 | Splits: 197 | Wins: 2912
+
+--- Completed 7540/10000 Deals ---
+PIMC -> Hands: 7749 | Splits: 209 | Wins: 3164
+Basic Strategy -> Hands: 7738 | Splits: 198 | Wins: 2917
+
+--- Completed 7550/10000 Deals ---
+PIMC -> Hands: 7760 | Splits: 210 | Wins: 3167
+Basic Strategy -> Hands: 7748 | Splits: 198 | Wins: 2921
+
+--- Completed 7560/10000 Deals ---
+PIMC -> Hands: 7770 | Splits: 210 | Wins: 3171
+Basic Strategy -> Hands: 7758 | Splits: 198 | Wins: 2927
+
+--- Completed 7570/10000 Deals ---
+PIMC -> Hands: 7780 | Splits: 210 | Wins: 3176
+Basic Strategy -> Hands: 7768 | Splits: 198 | Wins: 2933
+
+--- Completed 7580/10000 Deals ---
+PIMC -> Hands: 7790 | Splits: 210 | Wins: 3180
+Basic Strategy -> Hands: 7779 | Splits: 199 | Wins: 2936
+
+--- Completed 7590/10000 Deals ---
+PIMC -> Hands: 7800 | Splits: 210 | Wins: 3181
+Basic Strategy -> Hands: 7789 | Splits: 199 | Wins: 2941
+
+--- Completed 7600/10000 Deals ---
+PIMC -> Hands: 7810 | Splits: 210 | Wins: 3182
+Basic Strategy -> Hands: 7799 | Splits: 199 | Wins: 2946
+
+--- Completed 7610/10000 Deals ---
+PIMC -> Hands: 7821 | Splits: 211 | Wins: 3186
+Basic Strategy -> Hands: 7809 | Splits: 199 | Wins: 2950
+
+--- Completed 7620/10000 Deals ---
+PIMC -> Hands: 7831 | Splits: 211 | Wins: 3191
+Basic Strategy -> Hands: 7819 | Splits: 199 | Wins: 2957
+
+--- Completed 7630/10000 Deals ---
+PIMC -> Hands: 7841 | Splits: 211 | Wins: 3196
+Basic Strategy -> Hands: 7829 | Splits: 199 | Wins: 2962
+
+--- Completed 7640/10000 Deals ---
+PIMC -> Hands: 7851 | Splits: 211 | Wins: 3202
+Basic Strategy -> Hands: 7839 | Splits: 199 | Wins: 2968
+
+--- Completed 7650/10000 Deals ---
+PIMC -> Hands: 7861 | Splits: 211 | Wins: 3206
+Basic Strategy -> Hands: 7850 | Splits: 200 | Wins: 2971
+
+--- Completed 7660/10000 Deals ---
+PIMC -> Hands: 7872 | Splits: 212 | Wins: 3211
+Basic Strategy -> Hands: 7860 | Splits: 200 | Wins: 2973
+
+--- Completed 7670/10000 Deals ---
+PIMC -> Hands: 7883 | Splits: 213 | Wins: 3216
+Basic Strategy -> Hands: 7870 | Splits: 200 | Wins: 2977
+
+--- Completed 7680/10000 Deals ---
+PIMC -> Hands: 7893 | Splits: 213 | Wins: 3222
+Basic Strategy -> Hands: 7881 | Splits: 201 | Wins: 2981
+
+--- Completed 7690/10000 Deals ---
+PIMC -> Hands: 7904 | Splits: 214 | Wins: 3223
+Basic Strategy -> Hands: 7892 | Splits: 202 | Wins: 2983
+
+--- Completed 7700/10000 Deals ---
+PIMC -> Hands: 7914 | Splits: 214 | Wins: 3227
+Basic Strategy -> Hands: 7902 | Splits: 202 | Wins: 2985
+
+--- Completed 7710/10000 Deals ---
+PIMC -> Hands: 7924 | Splits: 214 | Wins: 3231
+Basic Strategy -> Hands: 7912 | Splits: 202 | Wins: 2986
+
+--- Completed 7720/10000 Deals ---
+PIMC -> Hands: 7934 | Splits: 214 | Wins: 3236
+Basic Strategy -> Hands: 7923 | Splits: 203 | Wins: 2989
+
+--- Completed 7730/10000 Deals ---
+PIMC -> Hands: 7944 | Splits: 214 | Wins: 3240
+Basic Strategy -> Hands: 7933 | Splits: 203 | Wins: 2991
+
+--- Completed 7740/10000 Deals ---
+PIMC -> Hands: 7955 | Splits: 215 | Wins: 3243
+Basic Strategy -> Hands: 7943 | Splits: 203 | Wins: 2995
+
+--- Completed 7750/10000 Deals ---
+PIMC -> Hands: 7966 | Splits: 216 | Wins: 3249
+Basic Strategy -> Hands: 7953 | Splits: 203 | Wins: 3000
+
+--- Completed 7760/10000 Deals ---
+PIMC -> Hands: 7978 | Splits: 218 | Wins: 3250
+Basic Strategy -> Hands: 7963 | Splits: 203 | Wins: 3005
+
+--- Completed 7770/10000 Deals ---
+PIMC -> Hands: 7988 | Splits: 218 | Wins: 3252
+Basic Strategy -> Hands: 7973 | Splits: 203 | Wins: 3010
+
+--- Completed 7780/10000 Deals ---
+PIMC -> Hands: 7998 | Splits: 218 | Wins: 3256
+Basic Strategy -> Hands: 7983 | Splits: 203 | Wins: 3015
+
+--- Completed 7790/10000 Deals ---
+PIMC -> Hands: 8008 | Splits: 218 | Wins: 3262
+Basic Strategy -> Hands: 7993 | Splits: 203 | Wins: 3018
+
+--- Completed 7800/10000 Deals ---
+PIMC -> Hands: 8019 | Splits: 219 | Wins: 3265
+Basic Strategy -> Hands: 8003 | Splits: 203 | Wins: 3021
+
+--- Completed 7810/10000 Deals ---
+PIMC -> Hands: 8029 | Splits: 219 | Wins: 3268
+Basic Strategy -> Hands: 8015 | Splits: 205 | Wins: 3024
+
+--- Completed 7820/10000 Deals ---
+PIMC -> Hands: 8039 | Splits: 219 | Wins: 3270
+Basic Strategy -> Hands: 8026 | Splits: 206 | Wins: 3028
+
+--- Completed 7830/10000 Deals ---
+PIMC -> Hands: 8050 | Splits: 220 | Wins: 3273
+Basic Strategy -> Hands: 8036 | Splits: 206 | Wins: 3032
+
+--- Completed 7840/10000 Deals ---
+PIMC -> Hands: 8060 | Splits: 220 | Wins: 3279
+Basic Strategy -> Hands: 8047 | Splits: 207 | Wins: 3036
+
+--- Completed 7850/10000 Deals ---
+PIMC -> Hands: 8070 | Splits: 220 | Wins: 3285
+Basic Strategy -> Hands: 8057 | Splits: 207 | Wins: 3041
+
+--- Completed 7860/10000 Deals ---
+PIMC -> Hands: 8080 | Splits: 220 | Wins: 3291
+Basic Strategy -> Hands: 8067 | Splits: 207 | Wins: 3046
+
+--- Completed 7870/10000 Deals ---
+PIMC -> Hands: 8090 | Splits: 220 | Wins: 3294
+Basic Strategy -> Hands: 8077 | Splits: 207 | Wins: 3051
+
+--- Completed 7880/10000 Deals ---
+PIMC -> Hands: 8100 | Splits: 220 | Wins: 3298
+Basic Strategy -> Hands: 8087 | Splits: 207 | Wins: 3054
+
+--- Completed 7890/10000 Deals ---
+PIMC -> Hands: 8110 | Splits: 220 | Wins: 3300
+Basic Strategy -> Hands: 8097 | Splits: 207 | Wins: 3058
+
+--- Completed 7900/10000 Deals ---
+PIMC -> Hands: 8121 | Splits: 221 | Wins: 3306
+Basic Strategy -> Hands: 8107 | Splits: 207 | Wins: 3062
+
+--- Completed 7910/10000 Deals ---
+PIMC -> Hands: 8131 | Splits: 221 | Wins: 3312
+Basic Strategy -> Hands: 8117 | Splits: 207 | Wins: 3066
+
+--- Completed 7920/10000 Deals ---
+PIMC -> Hands: 8141 | Splits: 221 | Wins: 3315
+Basic Strategy -> Hands: 8127 | Splits: 207 | Wins: 3070
+
+--- Completed 7930/10000 Deals ---
+PIMC -> Hands: 8151 | Splits: 221 | Wins: 3322
+Basic Strategy -> Hands: 8137 | Splits: 207 | Wins: 3075
+
+--- Completed 7940/10000 Deals ---
+PIMC -> Hands: 8161 | Splits: 221 | Wins: 3324
+Basic Strategy -> Hands: 8147 | Splits: 207 | Wins: 3079
+
+--- Completed 7950/10000 Deals ---
+PIMC -> Hands: 8171 | Splits: 221 | Wins: 3327
+Basic Strategy -> Hands: 8157 | Splits: 207 | Wins: 3083
+
+--- Completed 7960/10000 Deals ---
+PIMC -> Hands: 8181 | Splits: 221 | Wins: 3333
+Basic Strategy -> Hands: 8168 | Splits: 208 | Wins: 3087
+
+--- Completed 7970/10000 Deals ---
+PIMC -> Hands: 8191 | Splits: 221 | Wins: 3341
+Basic Strategy -> Hands: 8178 | Splits: 208 | Wins: 3092
+
+--- Completed 7980/10000 Deals ---
+PIMC -> Hands: 8202 | Splits: 222 | Wins: 3341
+Basic Strategy -> Hands: 8188 | Splits: 208 | Wins: 3098
+
+--- Completed 7990/10000 Deals ---
+PIMC -> Hands: 8212 | Splits: 222 | Wins: 3342
+Basic Strategy -> Hands: 8198 | Splits: 208 | Wins: 3100
+
+--- Completed 8000/10000 Deals ---
+PIMC -> Hands: 8222 | Splits: 222 | Wins: 3345
+Basic Strategy -> Hands: 8208 | Splits: 208 | Wins: 3105
+
+--- Completed 8010/10000 Deals ---
+PIMC -> Hands: 8232 | Splits: 222 | Wins: 3348
+Basic Strategy -> Hands: 8218 | Splits: 208 | Wins: 3110
+
+--- Completed 8020/10000 Deals ---
+PIMC -> Hands: 8242 | Splits: 222 | Wins: 3352
+Basic Strategy -> Hands: 8228 | Splits: 208 | Wins: 3113
+
+--- Completed 8030/10000 Deals ---
+PIMC -> Hands: 8253 | Splits: 223 | Wins: 3359
+Basic Strategy -> Hands: 8238 | Splits: 208 | Wins: 3119
+
+--- Completed 8040/10000 Deals ---
+PIMC -> Hands: 8263 | Splits: 223 | Wins: 3362
+Basic Strategy -> Hands: 8249 | Splits: 209 | Wins: 3122
+
+--- Completed 8050/10000 Deals ---
+PIMC -> Hands: 8273 | Splits: 223 | Wins: 3364
+Basic Strategy -> Hands: 8259 | Splits: 209 | Wins: 3126
+
+--- Completed 8060/10000 Deals ---
+PIMC -> Hands: 8283 | Splits: 223 | Wins: 3370
+Basic Strategy -> Hands: 8269 | Splits: 209 | Wins: 3131
+
+--- Completed 8070/10000 Deals ---
+PIMC -> Hands: 8293 | Splits: 223 | Wins: 3373
+Basic Strategy -> Hands: 8279 | Splits: 209 | Wins: 3132
+
+--- Completed 8080/10000 Deals ---
+PIMC -> Hands: 8303 | Splits: 223 | Wins: 3376
+Basic Strategy -> Hands: 8289 | Splits: 209 | Wins: 3136
+
+--- Completed 8090/10000 Deals ---
+PIMC -> Hands: 8314 | Splits: 224 | Wins: 3383
+Basic Strategy -> Hands: 8300 | Splits: 210 | Wins: 3138
+
+--- Completed 8100/10000 Deals ---
+PIMC -> Hands: 8325 | Splits: 225 | Wins: 3389
+Basic Strategy -> Hands: 8310 | Splits: 210 | Wins: 3138
+
+--- Completed 8110/10000 Deals ---
+PIMC -> Hands: 8336 | Splits: 226 | Wins: 3392
+Basic Strategy -> Hands: 8320 | Splits: 210 | Wins: 3141
+
+--- Completed 8120/10000 Deals ---
+PIMC -> Hands: 8346 | Splits: 226 | Wins: 3398
+Basic Strategy -> Hands: 8331 | Splits: 211 | Wins: 3146
+
+--- Completed 8130/10000 Deals ---
+PIMC -> Hands: 8356 | Splits: 226 | Wins: 3401
+Basic Strategy -> Hands: 8341 | Splits: 211 | Wins: 3148
+
+--- Completed 8140/10000 Deals ---
+PIMC -> Hands: 8366 | Splits: 226 | Wins: 3404
+Basic Strategy -> Hands: 8351 | Splits: 211 | Wins: 3152
+
+--- Completed 8150/10000 Deals ---
+PIMC -> Hands: 8376 | Splits: 226 | Wins: 3407
+Basic Strategy -> Hands: 8362 | Splits: 212 | Wins: 3160
+
+--- Completed 8160/10000 Deals ---
+PIMC -> Hands: 8387 | Splits: 227 | Wins: 3417
+Basic Strategy -> Hands: 8372 | Splits: 212 | Wins: 3166
+
+--- Completed 8170/10000 Deals ---
+PIMC -> Hands: 8397 | Splits: 227 | Wins: 3421
+Basic Strategy -> Hands: 8382 | Splits: 212 | Wins: 3170
+
+--- Completed 8180/10000 Deals ---
+PIMC -> Hands: 8407 | Splits: 227 | Wins: 3426
+Basic Strategy -> Hands: 8392 | Splits: 212 | Wins: 3172
+
+--- Completed 8190/10000 Deals ---
+PIMC -> Hands: 8417 | Splits: 227 | Wins: 3429
+Basic Strategy -> Hands: 8402 | Splits: 212 | Wins: 3174
+
+--- Completed 8200/10000 Deals ---
+PIMC -> Hands: 8428 | Splits: 228 | Wins: 3435
+Basic Strategy -> Hands: 8412 | Splits: 212 | Wins: 3178
+
+--- Completed 8210/10000 Deals ---
+PIMC -> Hands: 8438 | Splits: 228 | Wins: 3441
+Basic Strategy -> Hands: 8422 | Splits: 212 | Wins: 3181
+
+--- Completed 8220/10000 Deals ---
+PIMC -> Hands: 8448 | Splits: 228 | Wins: 3447
+Basic Strategy -> Hands: 8433 | Splits: 213 | Wins: 3186
+
+--- Completed 8230/10000 Deals ---
+PIMC -> Hands: 8458 | Splits: 228 | Wins: 3454
+Basic Strategy -> Hands: 8443 | Splits: 213 | Wins: 3192
+
+--- Completed 8240/10000 Deals ---
+PIMC -> Hands: 8468 | Splits: 228 | Wins: 3456
+Basic Strategy -> Hands: 8454 | Splits: 214 | Wins: 3198
+
+--- Completed 8250/10000 Deals ---
+PIMC -> Hands: 8478 | Splits: 228 | Wins: 3465
+Basic Strategy -> Hands: 8465 | Splits: 215 | Wins: 3202
+
+--- Completed 8260/10000 Deals ---
+PIMC -> Hands: 8488 | Splits: 228 | Wins: 3469
+Basic Strategy -> Hands: 8475 | Splits: 215 | Wins: 3207
+
+--- Completed 8270/10000 Deals ---
+PIMC -> Hands: 8498 | Splits: 228 | Wins: 3471
+Basic Strategy -> Hands: 8486 | Splits: 216 | Wins: 3209
+
+--- Completed 8280/10000 Deals ---
+PIMC -> Hands: 8508 | Splits: 228 | Wins: 3475
+Basic Strategy -> Hands: 8496 | Splits: 216 | Wins: 3215
+
+--- Completed 8290/10000 Deals ---
+PIMC -> Hands: 8518 | Splits: 228 | Wins: 3478
+Basic Strategy -> Hands: 8506 | Splits: 216 | Wins: 3218
+
+--- Completed 8300/10000 Deals ---
+PIMC -> Hands: 8528 | Splits: 228 | Wins: 3483
+Basic Strategy -> Hands: 8516 | Splits: 216 | Wins: 3223
+
+--- Completed 8310/10000 Deals ---
+PIMC -> Hands: 8539 | Splits: 229 | Wins: 3488
+Basic Strategy -> Hands: 8527 | Splits: 217 | Wins: 3225
+
+--- Completed 8320/10000 Deals ---
+PIMC -> Hands: 8549 | Splits: 229 | Wins: 3493
+Basic Strategy -> Hands: 8537 | Splits: 217 | Wins: 3231
+
+--- Completed 8330/10000 Deals ---
+PIMC -> Hands: 8559 | Splits: 229 | Wins: 3497
+Basic Strategy -> Hands: 8547 | Splits: 217 | Wins: 3235
+
+--- Completed 8340/10000 Deals ---
+PIMC -> Hands: 8569 | Splits: 229 | Wins: 3500
+Basic Strategy -> Hands: 8557 | Splits: 217 | Wins: 3240
+
+--- Completed 8350/10000 Deals ---
+PIMC -> Hands: 8579 | Splits: 229 | Wins: 3503
+Basic Strategy -> Hands: 8568 | Splits: 218 | Wins: 3241
+
+--- Completed 8360/10000 Deals ---
+PIMC -> Hands: 8590 | Splits: 230 | Wins: 3508
+Basic Strategy -> Hands: 8579 | Splits: 219 | Wins: 3246
+
+--- Completed 8370/10000 Deals ---
+PIMC -> Hands: 8600 | Splits: 230 | Wins: 3514
+Basic Strategy -> Hands: 8589 | Splits: 219 | Wins: 3249
+
+--- Completed 8380/10000 Deals ---
+PIMC -> Hands: 8612 | Splits: 232 | Wins: 3521
+Basic Strategy -> Hands: 8599 | Splits: 219 | Wins: 3255
+
+--- Completed 8390/10000 Deals ---
+PIMC -> Hands: 8623 | Splits: 233 | Wins: 3524
+Basic Strategy -> Hands: 8609 | Splits: 219 | Wins: 3260
+
+--- Completed 8400/10000 Deals ---
+PIMC -> Hands: 8633 | Splits: 233 | Wins: 3530
+Basic Strategy -> Hands: 8619 | Splits: 219 | Wins: 3265
+
+--- Completed 8410/10000 Deals ---
+PIMC -> Hands: 8643 | Splits: 233 | Wins: 3533
+Basic Strategy -> Hands: 8629 | Splits: 219 | Wins: 3272
+
+--- Completed 8420/10000 Deals ---
+PIMC -> Hands: 8653 | Splits: 233 | Wins: 3539
+Basic Strategy -> Hands: 8640 | Splits: 220 | Wins: 3273
+
+--- Completed 8430/10000 Deals ---
+PIMC -> Hands: 8663 | Splits: 233 | Wins: 3544
+Basic Strategy -> Hands: 8650 | Splits: 220 | Wins: 3277
+
+--- Completed 8440/10000 Deals ---
+PIMC -> Hands: 8673 | Splits: 233 | Wins: 3547
+Basic Strategy -> Hands: 8660 | Splits: 220 | Wins: 3280
+
+--- Completed 8450/10000 Deals ---
+PIMC -> Hands: 8683 | Splits: 233 | Wins: 3551
+Basic Strategy -> Hands: 8670 | Splits: 220 | Wins: 3287
+
+--- Completed 8460/10000 Deals ---
+PIMC -> Hands: 8693 | Splits: 233 | Wins: 3558
+Basic Strategy -> Hands: 8680 | Splits: 220 | Wins: 3293
+
+--- Completed 8470/10000 Deals ---
+PIMC -> Hands: 8703 | Splits: 233 | Wins: 3562
+Basic Strategy -> Hands: 8691 | Splits: 221 | Wins: 3295
+
+--- Completed 8480/10000 Deals ---
+PIMC -> Hands: 8713 | Splits: 233 | Wins: 3566
+Basic Strategy -> Hands: 8701 | Splits: 221 | Wins: 3300
+
+--- Completed 8490/10000 Deals ---
+PIMC -> Hands: 8723 | Splits: 233 | Wins: 3570
+Basic Strategy -> Hands: 8711 | Splits: 221 | Wins: 3303
+
+--- Completed 8500/10000 Deals ---
+PIMC -> Hands: 8735 | Splits: 235 | Wins: 3574
+Basic Strategy -> Hands: 8721 | Splits: 221 | Wins: 3307
+
+--- Completed 8510/10000 Deals ---
+PIMC -> Hands: 8745 | Splits: 235 | Wins: 3577
+Basic Strategy -> Hands: 8731 | Splits: 221 | Wins: 3311
+
+--- Completed 8520/10000 Deals ---
+PIMC -> Hands: 8755 | Splits: 235 | Wins: 3582
+Basic Strategy -> Hands: 8741 | Splits: 221 | Wins: 3314
+
+--- Completed 8530/10000 Deals ---
+PIMC -> Hands: 8765 | Splits: 235 | Wins: 3587
+Basic Strategy -> Hands: 8751 | Splits: 221 | Wins: 3317
+
+--- Completed 8540/10000 Deals ---
+PIMC -> Hands: 8775 | Splits: 235 | Wins: 3588
+Basic Strategy -> Hands: 8762 | Splits: 222 | Wins: 3320
+
+--- Completed 8550/10000 Deals ---
+PIMC -> Hands: 8786 | Splits: 236 | Wins: 3593
+Basic Strategy -> Hands: 8772 | Splits: 222 | Wins: 3323
+
+--- Completed 8560/10000 Deals ---
+PIMC -> Hands: 8796 | Splits: 236 | Wins: 3597
+Basic Strategy -> Hands: 8783 | Splits: 223 | Wins: 3327
+
+--- Completed 8570/10000 Deals ---
+PIMC -> Hands: 8806 | Splits: 236 | Wins: 3601
+Basic Strategy -> Hands: 8793 | Splits: 223 | Wins: 3332
+
+--- Completed 8580/10000 Deals ---
+PIMC -> Hands: 8816 | Splits: 236 | Wins: 3604
+Basic Strategy -> Hands: 8803 | Splits: 223 | Wins: 3334
+
+--- Completed 8590/10000 Deals ---
+PIMC -> Hands: 8827 | Splits: 237 | Wins: 3607
+Basic Strategy -> Hands: 8813 | Splits: 223 | Wins: 3338
+
+--- Completed 8600/10000 Deals ---
+PIMC -> Hands: 8837 | Splits: 237 | Wins: 3612
+Basic Strategy -> Hands: 8823 | Splits: 223 | Wins: 3342
+
+--- Completed 8610/10000 Deals ---
+PIMC -> Hands: 8847 | Splits: 237 | Wins: 3614
+Basic Strategy -> Hands: 8833 | Splits: 223 | Wins: 3348
+
+--- Completed 8620/10000 Deals ---
+PIMC -> Hands: 8858 | Splits: 238 | Wins: 3616
+Basic Strategy -> Hands: 8843 | Splits: 223 | Wins: 3351
+
+--- Completed 8630/10000 Deals ---
+PIMC -> Hands: 8868 | Splits: 238 | Wins: 3620
+Basic Strategy -> Hands: 8853 | Splits: 223 | Wins: 3354
+
+--- Completed 8640/10000 Deals ---
+PIMC -> Hands: 8878 | Splits: 238 | Wins: 3622
+Basic Strategy -> Hands: 8863 | Splits: 223 | Wins: 3356
+
+--- Completed 8650/10000 Deals ---
+PIMC -> Hands: 8889 | Splits: 239 | Wins: 3623
+Basic Strategy -> Hands: 8873 | Splits: 223 | Wins: 3358
+
+--- Completed 8660/10000 Deals ---
+PIMC -> Hands: 8899 | Splits: 239 | Wins: 3626
+Basic Strategy -> Hands: 8884 | Splits: 224 | Wins: 3363
+
+--- Completed 8670/10000 Deals ---
+PIMC -> Hands: 8911 | Splits: 241 | Wins: 3630
+Basic Strategy -> Hands: 8894 | Splits: 224 | Wins: 3367
+
+--- Completed 8680/10000 Deals ---
+PIMC -> Hands: 8921 | Splits: 241 | Wins: 3635
+Basic Strategy -> Hands: 8904 | Splits: 224 | Wins: 3370
+
+--- Completed 8690/10000 Deals ---
+PIMC -> Hands: 8932 | Splits: 242 | Wins: 3642
+Basic Strategy -> Hands: 8914 | Splits: 224 | Wins: 3375
+
+--- Completed 8700/10000 Deals ---
+PIMC -> Hands: 8942 | Splits: 242 | Wins: 3646
+Basic Strategy -> Hands: 8924 | Splits: 224 | Wins: 3379
+
+--- Completed 8710/10000 Deals ---
+PIMC -> Hands: 8953 | Splits: 243 | Wins: 3651
+Basic Strategy -> Hands: 8935 | Splits: 225 | Wins: 3384
+
+--- Completed 8720/10000 Deals ---
+PIMC -> Hands: 8963 | Splits: 243 | Wins: 3654
+Basic Strategy -> Hands: 8946 | Splits: 226 | Wins: 3392
+
+--- Completed 8730/10000 Deals ---
+PIMC -> Hands: 8973 | Splits: 243 | Wins: 3658
+Basic Strategy -> Hands: 8956 | Splits: 226 | Wins: 3399
+
+--- Completed 8740/10000 Deals ---
+PIMC -> Hands: 8983 | Splits: 243 | Wins: 3662
+Basic Strategy -> Hands: 8966 | Splits: 226 | Wins: 3402
+
+--- Completed 8750/10000 Deals ---
+PIMC -> Hands: 8993 | Splits: 243 | Wins: 3664
+Basic Strategy -> Hands: 8977 | Splits: 227 | Wins: 3409
+
+--- Completed 8760/10000 Deals ---
+PIMC -> Hands: 9003 | Splits: 243 | Wins: 3670
+Basic Strategy -> Hands: 8988 | Splits: 228 | Wins: 3414
+
+--- Completed 8770/10000 Deals ---
+PIMC -> Hands: 9013 | Splits: 243 | Wins: 3676
+Basic Strategy -> Hands: 8998 | Splits: 228 | Wins: 3416
+
+--- Completed 8780/10000 Deals ---
+PIMC -> Hands: 9023 | Splits: 243 | Wins: 3678
+Basic Strategy -> Hands: 9010 | Splits: 230 | Wins: 3417
+
+--- Completed 8790/10000 Deals ---
+PIMC -> Hands: 9033 | Splits: 243 | Wins: 3683
+Basic Strategy -> Hands: 9020 | Splits: 230 | Wins: 3418
+
+--- Completed 8800/10000 Deals ---
+PIMC -> Hands: 9043 | Splits: 243 | Wins: 3687
+Basic Strategy -> Hands: 9031 | Splits: 231 | Wins: 3419
+
+--- Completed 8810/10000 Deals ---
+PIMC -> Hands: 9053 | Splits: 243 | Wins: 3692
+Basic Strategy -> Hands: 9042 | Splits: 232 | Wins: 3425
+
+--- Completed 8820/10000 Deals ---
+PIMC -> Hands: 9063 | Splits: 243 | Wins: 3696
+Basic Strategy -> Hands: 9052 | Splits: 232 | Wins: 3428
+
+--- Completed 8830/10000 Deals ---
+PIMC -> Hands: 9074 | Splits: 244 | Wins: 3703
+Basic Strategy -> Hands: 9062 | Splits: 232 | Wins: 3435
+
+--- Completed 8840/10000 Deals ---
+PIMC -> Hands: 9084 | Splits: 244 | Wins: 3706
+Basic Strategy -> Hands: 9072 | Splits: 232 | Wins: 3438
+
+--- Completed 8850/10000 Deals ---
+PIMC -> Hands: 9095 | Splits: 245 | Wins: 3710
+Basic Strategy -> Hands: 9083 | Splits: 233 | Wins: 3444
+
+--- Completed 8860/10000 Deals ---
+PIMC -> Hands: 9106 | Splits: 246 | Wins: 3714
+Basic Strategy -> Hands: 9093 | Splits: 233 | Wins: 3448
+
+--- Completed 8870/10000 Deals ---
+PIMC -> Hands: 9116 | Splits: 246 | Wins: 3717
+Basic Strategy -> Hands: 9104 | Splits: 234 | Wins: 3453
+
+--- Completed 8880/10000 Deals ---
+PIMC -> Hands: 9126 | Splits: 246 | Wins: 3719
+Basic Strategy -> Hands: 9114 | Splits: 234 | Wins: 3457
+
+--- Completed 8890/10000 Deals ---
+PIMC -> Hands: 9136 | Splits: 246 | Wins: 3724
+Basic Strategy -> Hands: 9124 | Splits: 234 | Wins: 3461
+
+--- Completed 8900/10000 Deals ---
+PIMC -> Hands: 9146 | Splits: 246 | Wins: 3730
+Basic Strategy -> Hands: 9135 | Splits: 235 | Wins: 3467
+
+--- Completed 8910/10000 Deals ---
+PIMC -> Hands: 9156 | Splits: 246 | Wins: 3735
+Basic Strategy -> Hands: 9145 | Splits: 235 | Wins: 3471
+
+--- Completed 8920/10000 Deals ---
+PIMC -> Hands: 9167 | Splits: 247 | Wins: 3741
+Basic Strategy -> Hands: 9155 | Splits: 235 | Wins: 3476
+
+--- Completed 8930/10000 Deals ---
+PIMC -> Hands: 9177 | Splits: 247 | Wins: 3745
+Basic Strategy -> Hands: 9166 | Splits: 236 | Wins: 3481
+
+--- Completed 8940/10000 Deals ---
+PIMC -> Hands: 9187 | Splits: 247 | Wins: 3751
+Basic Strategy -> Hands: 9176 | Splits: 236 | Wins: 3482
+
+--- Completed 8950/10000 Deals ---
+PIMC -> Hands: 9197 | Splits: 247 | Wins: 3755
+Basic Strategy -> Hands: 9186 | Splits: 236 | Wins: 3485
+
+--- Completed 8960/10000 Deals ---
+PIMC -> Hands: 9207 | Splits: 247 | Wins: 3758
+Basic Strategy -> Hands: 9196 | Splits: 236 | Wins: 3486
+
+--- Completed 8970/10000 Deals ---
+PIMC -> Hands: 9219 | Splits: 249 | Wins: 3763
+Basic Strategy -> Hands: 9206 | Splits: 236 | Wins: 3492
+
+--- Completed 8980/10000 Deals ---
+PIMC -> Hands: 9229 | Splits: 249 | Wins: 3767
+Basic Strategy -> Hands: 9216 | Splits: 236 | Wins: 3493
+
+--- Completed 8990/10000 Deals ---
+PIMC -> Hands: 9241 | Splits: 251 | Wins: 3774
+Basic Strategy -> Hands: 9226 | Splits: 236 | Wins: 3497
+
+--- Completed 9000/10000 Deals ---
+PIMC -> Hands: 9252 | Splits: 252 | Wins: 3780
+Basic Strategy -> Hands: 9236 | Splits: 236 | Wins: 3501
+
+--- Completed 9010/10000 Deals ---
+PIMC -> Hands: 9264 | Splits: 254 | Wins: 3784
+Basic Strategy -> Hands: 9246 | Splits: 236 | Wins: 3502
+
+--- Completed 9020/10000 Deals ---
+PIMC -> Hands: 9275 | Splits: 255 | Wins: 3789
+Basic Strategy -> Hands: 9256 | Splits: 236 | Wins: 3506
+
+--- Completed 9030/10000 Deals ---
+PIMC -> Hands: 9286 | Splits: 256 | Wins: 3795
+Basic Strategy -> Hands: 9266 | Splits: 236 | Wins: 3511
+
+--- Completed 9040/10000 Deals ---
+PIMC -> Hands: 9297 | Splits: 257 | Wins: 3800
+Basic Strategy -> Hands: 9276 | Splits: 236 | Wins: 3515
+
+--- Completed 9050/10000 Deals ---
+PIMC -> Hands: 9308 | Splits: 258 | Wins: 3806
+Basic Strategy -> Hands: 9287 | Splits: 237 | Wins: 3518
+
+--- Completed 9060/10000 Deals ---
+PIMC -> Hands: 9318 | Splits: 258 | Wins: 3811
+Basic Strategy -> Hands: 9297 | Splits: 237 | Wins: 3519
+
+--- Completed 9070/10000 Deals ---
+PIMC -> Hands: 9328 | Splits: 258 | Wins: 3817
+Basic Strategy -> Hands: 9307 | Splits: 237 | Wins: 3522
+
+--- Completed 9080/10000 Deals ---
+PIMC -> Hands: 9338 | Splits: 258 | Wins: 3819
+Basic Strategy -> Hands: 9318 | Splits: 238 | Wins: 3527
+
+--- Completed 9090/10000 Deals ---
+PIMC -> Hands: 9348 | Splits: 258 | Wins: 3821
+Basic Strategy -> Hands: 9329 | Splits: 239 | Wins: 3531
+
+--- Completed 9100/10000 Deals ---
+PIMC -> Hands: 9358 | Splits: 258 | Wins: 3823
+Basic Strategy -> Hands: 9339 | Splits: 239 | Wins: 3534
+
+--- Completed 9110/10000 Deals ---
+PIMC -> Hands: 9368 | Splits: 258 | Wins: 3829
+Basic Strategy -> Hands: 9349 | Splits: 239 | Wins: 3538
+
+--- Completed 9120/10000 Deals ---
+PIMC -> Hands: 9378 | Splits: 258 | Wins: 3834
+Basic Strategy -> Hands: 9359 | Splits: 239 | Wins: 3542
+
+--- Completed 9130/10000 Deals ---
+PIMC -> Hands: 9388 | Splits: 258 | Wins: 3837
+Basic Strategy -> Hands: 9369 | Splits: 239 | Wins: 3549
+
+--- Completed 9140/10000 Deals ---
+PIMC -> Hands: 9399 | Splits: 259 | Wins: 3842
+Basic Strategy -> Hands: 9380 | Splits: 240 | Wins: 3551
+
+--- Completed 9150/10000 Deals ---
+PIMC -> Hands: 9409 | Splits: 259 | Wins: 3847
+Basic Strategy -> Hands: 9390 | Splits: 240 | Wins: 3552
+
+--- Completed 9160/10000 Deals ---
+PIMC -> Hands: 9420 | Splits: 260 | Wins: 3852
+Basic Strategy -> Hands: 9401 | Splits: 241 | Wins: 3555
+
+--- Completed 9170/10000 Deals ---
+PIMC -> Hands: 9431 | Splits: 261 | Wins: 3858
+Basic Strategy -> Hands: 9412 | Splits: 242 | Wins: 3558
+
+--- Completed 9180/10000 Deals ---
+PIMC -> Hands: 9441 | Splits: 261 | Wins: 3864
+Basic Strategy -> Hands: 9423 | Splits: 243 | Wins: 3563
+
+--- Completed 9190/10000 Deals ---
+PIMC -> Hands: 9451 | Splits: 261 | Wins: 3866
+Basic Strategy -> Hands: 9433 | Splits: 243 | Wins: 3565
+
+--- Completed 9200/10000 Deals ---
+PIMC -> Hands: 9461 | Splits: 261 | Wins: 3869
+Basic Strategy -> Hands: 9443 | Splits: 243 | Wins: 3569
+
+--- Completed 9210/10000 Deals ---
+PIMC -> Hands: 9471 | Splits: 261 | Wins: 3876
+Basic Strategy -> Hands: 9453 | Splits: 243 | Wins: 3573
+
+--- Completed 9220/10000 Deals ---
+PIMC -> Hands: 9481 | Splits: 261 | Wins: 3881
+Basic Strategy -> Hands: 9463 | Splits: 243 | Wins: 3579
+
+--- Completed 9230/10000 Deals ---
+PIMC -> Hands: 9491 | Splits: 261 | Wins: 3886
+Basic Strategy -> Hands: 9474 | Splits: 244 | Wins: 3584
+
+--- Completed 9240/10000 Deals ---
+PIMC -> Hands: 9502 | Splits: 262 | Wins: 3894
+Basic Strategy -> Hands: 9486 | Splits: 246 | Wins: 3586
+
+--- Completed 9250/10000 Deals ---
+PIMC -> Hands: 9512 | Splits: 262 | Wins: 3899
+Basic Strategy -> Hands: 9496 | Splits: 246 | Wins: 3591
+
+--- Completed 9260/10000 Deals ---
+PIMC -> Hands: 9522 | Splits: 262 | Wins: 3901
+Basic Strategy -> Hands: 9506 | Splits: 246 | Wins: 3598
+
+--- Completed 9270/10000 Deals ---
+PIMC -> Hands: 9533 | Splits: 263 | Wins: 3906
+Basic Strategy -> Hands: 9516 | Splits: 246 | Wins: 3599
+
+--- Completed 9280/10000 Deals ---
+PIMC -> Hands: 9543 | Splits: 263 | Wins: 3909
+Basic Strategy -> Hands: 9526 | Splits: 246 | Wins: 3609
+
+--- Completed 9290/10000 Deals ---
+PIMC -> Hands: 9553 | Splits: 263 | Wins: 3914
+Basic Strategy -> Hands: 9536 | Splits: 246 | Wins: 3612
+
+--- Completed 9300/10000 Deals ---
+PIMC -> Hands: 9563 | Splits: 263 | Wins: 3915
+Basic Strategy -> Hands: 9546 | Splits: 246 | Wins: 3615
+
+--- Completed 9310/10000 Deals ---
+PIMC -> Hands: 9573 | Splits: 263 | Wins: 3918
+Basic Strategy -> Hands: 9556 | Splits: 246 | Wins: 3622
+
+--- Completed 9320/10000 Deals ---
+PIMC -> Hands: 9583 | Splits: 263 | Wins: 3923
+Basic Strategy -> Hands: 9567 | Splits: 247 | Wins: 3629
+
+--- Completed 9330/10000 Deals ---
+PIMC -> Hands: 9593 | Splits: 263 | Wins: 3927
+Basic Strategy -> Hands: 9578 | Splits: 248 | Wins: 3632
+
+--- Completed 9340/10000 Deals ---
+PIMC -> Hands: 9603 | Splits: 263 | Wins: 3933
+Basic Strategy -> Hands: 9588 | Splits: 248 | Wins: 3637
+
+--- Completed 9350/10000 Deals ---
+PIMC -> Hands: 9613 | Splits: 263 | Wins: 3936
+Basic Strategy -> Hands: 9601 | Splits: 251 | Wins: 3643
+
+--- Completed 9360/10000 Deals ---
+PIMC -> Hands: 9624 | Splits: 264 | Wins: 3941
+Basic Strategy -> Hands: 9612 | Splits: 252 | Wins: 3647
+
+--- Completed 9370/10000 Deals ---
+PIMC -> Hands: 9634 | Splits: 264 | Wins: 3942
+Basic Strategy -> Hands: 9622 | Splits: 252 | Wins: 3650
+
+--- Completed 9380/10000 Deals ---
+PIMC -> Hands: 9645 | Splits: 265 | Wins: 3950
+Basic Strategy -> Hands: 9632 | Splits: 252 | Wins: 3654
+
+--- Completed 9390/10000 Deals ---
+PIMC -> Hands: 9655 | Splits: 265 | Wins: 3951
+Basic Strategy -> Hands: 9642 | Splits: 252 | Wins: 3658
+
+--- Completed 9400/10000 Deals ---
+PIMC -> Hands: 9665 | Splits: 265 | Wins: 3955
+Basic Strategy -> Hands: 9653 | Splits: 253 | Wins: 3662
+
+--- Completed 9410/10000 Deals ---
+PIMC -> Hands: 9675 | Splits: 265 | Wins: 3959
+Basic Strategy -> Hands: 9663 | Splits: 253 | Wins: 3663
+
+--- Completed 9420/10000 Deals ---
+PIMC -> Hands: 9685 | Splits: 265 | Wins: 3961
+Basic Strategy -> Hands: 9673 | Splits: 253 | Wins: 3668
+
+--- Completed 9430/10000 Deals ---
+PIMC -> Hands: 9695 | Splits: 265 | Wins: 3964
+Basic Strategy -> Hands: 9683 | Splits: 253 | Wins: 3672
+
+--- Completed 9440/10000 Deals ---
+PIMC -> Hands: 9706 | Splits: 266 | Wins: 3969
+Basic Strategy -> Hands: 9693 | Splits: 253 | Wins: 3677
+
+--- Completed 9450/10000 Deals ---
+PIMC -> Hands: 9718 | Splits: 268 | Wins: 3973
+Basic Strategy -> Hands: 9703 | Splits: 253 | Wins: 3680
+
+--- Completed 9460/10000 Deals ---
+PIMC -> Hands: 9728 | Splits: 268 | Wins: 3978
+Basic Strategy -> Hands: 9713 | Splits: 253 | Wins: 3686
+
+--- Completed 9470/10000 Deals ---
+PIMC -> Hands: 9738 | Splits: 268 | Wins: 3982
+Basic Strategy -> Hands: 9723 | Splits: 253 | Wins: 3690
+
+--- Completed 9480/10000 Deals ---
+PIMC -> Hands: 9748 | Splits: 268 | Wins: 3986
+Basic Strategy -> Hands: 9733 | Splits: 253 | Wins: 3693
+
+--- Completed 9490/10000 Deals ---
+PIMC -> Hands: 9758 | Splits: 268 | Wins: 3989
+Basic Strategy -> Hands: 9744 | Splits: 254 | Wins: 3695
+
+--- Completed 9500/10000 Deals ---
+PIMC -> Hands: 9769 | Splits: 269 | Wins: 3993
+Basic Strategy -> Hands: 9754 | Splits: 254 | Wins: 3701
+
+--- Completed 9510/10000 Deals ---
+PIMC -> Hands: 9779 | Splits: 269 | Wins: 3996
+Basic Strategy -> Hands: 9764 | Splits: 254 | Wins: 3707
+
+--- Completed 9520/10000 Deals ---
+PIMC -> Hands: 9789 | Splits: 269 | Wins: 3998
+Basic Strategy -> Hands: 9775 | Splits: 255 | Wins: 3711
+
+--- Completed 9530/10000 Deals ---
+PIMC -> Hands: 9799 | Splits: 269 | Wins: 4002
+Basic Strategy -> Hands: 9785 | Splits: 255 | Wins: 3711
+
+--- Completed 9540/10000 Deals ---
+PIMC -> Hands: 9810 | Splits: 270 | Wins: 4005
+Basic Strategy -> Hands: 9795 | Splits: 255 | Wins: 3715
+
+--- Completed 9550/10000 Deals ---
+PIMC -> Hands: 9820 | Splits: 270 | Wins: 4009
+Basic Strategy -> Hands: 9805 | Splits: 255 | Wins: 3719
+
+--- Completed 9560/10000 Deals ---
+PIMC -> Hands: 9830 | Splits: 270 | Wins: 4015
+Basic Strategy -> Hands: 9816 | Splits: 256 | Wins: 3724
+
+--- Completed 9570/10000 Deals ---
+PIMC -> Hands: 9841 | Splits: 271 | Wins: 4017
+Basic Strategy -> Hands: 9826 | Splits: 256 | Wins: 3728
+
+--- Completed 9580/10000 Deals ---
+PIMC -> Hands: 9851 | Splits: 271 | Wins: 4020
+Basic Strategy -> Hands: 9836 | Splits: 256 | Wins: 3731
+
+--- Completed 9590/10000 Deals ---
+PIMC -> Hands: 9861 | Splits: 271 | Wins: 4024
+Basic Strategy -> Hands: 9846 | Splits: 256 | Wins: 3731
+
+--- Completed 9600/10000 Deals ---
+PIMC -> Hands: 9871 | Splits: 271 | Wins: 4028
+Basic Strategy -> Hands: 9857 | Splits: 257 | Wins: 3735
+
+--- Completed 9610/10000 Deals ---
+PIMC -> Hands: 9881 | Splits: 271 | Wins: 4031
+Basic Strategy -> Hands: 9867 | Splits: 257 | Wins: 3738
+
+--- Completed 9620/10000 Deals ---
+PIMC -> Hands: 9891 | Splits: 271 | Wins: 4035
+Basic Strategy -> Hands: 9877 | Splits: 257 | Wins: 3740
+
+--- Completed 9630/10000 Deals ---
+PIMC -> Hands: 9901 | Splits: 271 | Wins: 4040
+Basic Strategy -> Hands: 9887 | Splits: 257 | Wins: 3745
+
+--- Completed 9640/10000 Deals ---
+PIMC -> Hands: 9911 | Splits: 271 | Wins: 4043
+Basic Strategy -> Hands: 9897 | Splits: 257 | Wins: 3750
+
+--- Completed 9650/10000 Deals ---
+PIMC -> Hands: 9921 | Splits: 271 | Wins: 4047
+Basic Strategy -> Hands: 9907 | Splits: 257 | Wins: 3751
+
+--- Completed 9660/10000 Deals ---
+PIMC -> Hands: 9931 | Splits: 271 | Wins: 4050
+Basic Strategy -> Hands: 9920 | Splits: 260 | Wins: 3759
+
+--- Completed 9670/10000 Deals ---
+PIMC -> Hands: 9942 | Splits: 272 | Wins: 4055
+Basic Strategy -> Hands: 9930 | Splits: 260 | Wins: 3761
+
+--- Completed 9680/10000 Deals ---
+PIMC -> Hands: 9953 | Splits: 273 | Wins: 4062
+Basic Strategy -> Hands: 9940 | Splits: 260 | Wins: 3764
+
+--- Completed 9690/10000 Deals ---
+PIMC -> Hands: 9963 | Splits: 273 | Wins: 4066
+Basic Strategy -> Hands: 9951 | Splits: 261 | Wins: 3767
+
+--- Completed 9700/10000 Deals ---
+PIMC -> Hands: 9973 | Splits: 273 | Wins: 4071
+Basic Strategy -> Hands: 9961 | Splits: 261 | Wins: 3772
+
+--- Completed 9710/10000 Deals ---
+PIMC -> Hands: 9983 | Splits: 273 | Wins: 4078
+Basic Strategy -> Hands: 9971 | Splits: 261 | Wins: 3773
+
+--- Completed 9720/10000 Deals ---
+PIMC -> Hands: 9993 | Splits: 273 | Wins: 4082
+Basic Strategy -> Hands: 9981 | Splits: 261 | Wins: 3777
+
+--- Completed 9730/10000 Deals ---
+PIMC -> Hands: 10004 | Splits: 274 | Wins: 4085
+Basic Strategy -> Hands: 9991 | Splits: 261 | Wins: 3780
+
+--- Completed 9740/10000 Deals ---
+PIMC -> Hands: 10015 | Splits: 275 | Wins: 4088
+Basic Strategy -> Hands: 10002 | Splits: 262 | Wins: 3783
+
+--- Completed 9750/10000 Deals ---
+PIMC -> Hands: 10025 | Splits: 275 | Wins: 4090
+Basic Strategy -> Hands: 10012 | Splits: 262 | Wins: 3790
+
+--- Completed 9760/10000 Deals ---
+PIMC -> Hands: 10035 | Splits: 275 | Wins: 4094
+Basic Strategy -> Hands: 10022 | Splits: 262 | Wins: 3794
+
+--- Completed 9770/10000 Deals ---
+PIMC -> Hands: 10046 | Splits: 276 | Wins: 4100
+Basic Strategy -> Hands: 10032 | Splits: 262 | Wins: 3795
+
+--- Completed 9780/10000 Deals ---
+PIMC -> Hands: 10056 | Splits: 276 | Wins: 4107
+Basic Strategy -> Hands: 10042 | Splits: 262 | Wins: 3800
+
+--- Completed 9790/10000 Deals ---
+PIMC -> Hands: 10067 | Splits: 277 | Wins: 4112
+Basic Strategy -> Hands: 10052 | Splits: 262 | Wins: 3803
+
+--- Completed 9800/10000 Deals ---
+PIMC -> Hands: 10079 | Splits: 279 | Wins: 4112
+Basic Strategy -> Hands: 10062 | Splits: 262 | Wins: 3808
+
+--- Completed 9810/10000 Deals ---
+PIMC -> Hands: 10089 | Splits: 279 | Wins: 4117
+Basic Strategy -> Hands: 10072 | Splits: 262 | Wins: 3813
+
+--- Completed 9820/10000 Deals ---
+PIMC -> Hands: 10100 | Splits: 280 | Wins: 4119
+Basic Strategy -> Hands: 10082 | Splits: 262 | Wins: 3817
+
+--- Completed 9830/10000 Deals ---
+PIMC -> Hands: 10111 | Splits: 281 | Wins: 4122
+Basic Strategy -> Hands: 10092 | Splits: 262 | Wins: 3823
+
+--- Completed 9840/10000 Deals ---
+PIMC -> Hands: 10121 | Splits: 281 | Wins: 4127
+Basic Strategy -> Hands: 10102 | Splits: 262 | Wins: 3826
+
+--- Completed 9850/10000 Deals ---
+PIMC -> Hands: 10131 | Splits: 281 | Wins: 4133
+Basic Strategy -> Hands: 10112 | Splits: 262 | Wins: 3831
+
+--- Completed 9860/10000 Deals ---
+PIMC -> Hands: 10141 | Splits: 281 | Wins: 4135
+Basic Strategy -> Hands: 10122 | Splits: 262 | Wins: 3834
+
+--- Completed 9870/10000 Deals ---
+PIMC -> Hands: 10151 | Splits: 281 | Wins: 4138
+Basic Strategy -> Hands: 10132 | Splits: 262 | Wins: 3840
+
+--- Completed 9880/10000 Deals ---
+PIMC -> Hands: 10161 | Splits: 281 | Wins: 4143
+Basic Strategy -> Hands: 10142 | Splits: 262 | Wins: 3846
+
+--- Completed 9890/10000 Deals ---
+PIMC -> Hands: 10171 | Splits: 281 | Wins: 4147
+Basic Strategy -> Hands: 10152 | Splits: 262 | Wins: 3852
+
+--- Completed 9900/10000 Deals ---
+PIMC -> Hands: 10181 | Splits: 281 | Wins: 4151
+Basic Strategy -> Hands: 10162 | Splits: 262 | Wins: 3857
+
+--- Completed 9910/10000 Deals ---
+PIMC -> Hands: 10191 | Splits: 281 | Wins: 4152
+Basic Strategy -> Hands: 10172 | Splits: 262 | Wins: 3857
+
+--- Completed 9920/10000 Deals ---
+PIMC -> Hands: 10202 | Splits: 282 | Wins: 4157
+Basic Strategy -> Hands: 10182 | Splits: 262 | Wins: 3860
+
+--- Completed 9930/10000 Deals ---
+PIMC -> Hands: 10212 | Splits: 282 | Wins: 4165
+Basic Strategy -> Hands: 10192 | Splits: 262 | Wins: 3862
+
+--- Completed 9940/10000 Deals ---
+PIMC -> Hands: 10222 | Splits: 282 | Wins: 4172
+Basic Strategy -> Hands: 10202 | Splits: 262 | Wins: 3862
+
+--- Completed 9950/10000 Deals ---
+PIMC -> Hands: 10232 | Splits: 282 | Wins: 4177
+Basic Strategy -> Hands: 10212 | Splits: 262 | Wins: 3864
+
+--- Completed 9960/10000 Deals ---
+PIMC -> Hands: 10242 | Splits: 282 | Wins: 4181
+Basic Strategy -> Hands: 10222 | Splits: 262 | Wins: 3866
+
+--- Completed 9970/10000 Deals ---
+PIMC -> Hands: 10252 | Splits: 282 | Wins: 4183
+Basic Strategy -> Hands: 10233 | Splits: 263 | Wins: 3870
+
+--- Completed 9980/10000 Deals ---
+PIMC -> Hands: 10262 | Splits: 282 | Wins: 4187
+Basic Strategy -> Hands: 10243 | Splits: 263 | Wins: 3872
+
+--- Completed 9990/10000 Deals ---
+PIMC -> Hands: 10274 | Splits: 284 | Wins: 4194
+Basic Strategy -> Hands: 10254 | Splits: 264 | Wins: 3877
+
+--- Completed 10000/10000 Deals ---
+PIMC -> Hands: 10284 | Splits: 284 | Wins: 4199
+Basic Strategy -> Hands: 10264 | Splits: 264 | Wins: 3882
+
+--- PIMC Agent Performance Summary ---
+Deals Played: 10000
+Total Hands Played: 10284
+Total Splits: 284
+Wins: 4199, Losses: 5386, Pushes: 699
+Win Rate per Hand: 40.83%
+
+--- Basic Strategy Agent Performance Summary ---
+Deals Played: 10000
+Total Hands Played: 10264
+Total Splits: 264
+Wins: 3882, Losses: 5530, Pushes: 852
+Win Rate per Hand: 37.82%
+
+Process finished with exit code 0
